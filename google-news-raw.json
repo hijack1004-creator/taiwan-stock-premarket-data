@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-06T00:48:22.276735+00:00",
+  "generated_at": "2026-10-06T00:50:02.705201+00:00",
   "query_count": 6,
   "successful_query_count": 6,
   "failed_query_count": 0,
@@ -202,12 +202,12 @@
     },
     {
       "query": "台股 OR 台積電",
-      "title": "〈台股盤前要聞〉鴻海9月營收首度破兆、台股創高劍指5萬點 - 鉅亨網",
+      "title": "〈台股盤前要聞〉鴻海9月營收首度破兆、台股創高劍指5萬點 - cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE51cENWaHhfMVNLT2hkTXhyMGUyNWNyYlJTRHFYTThSVXZwTUREWFlRTHJ2S1NweVUteGpYdWV5SEpfWkZpNVpwMmpiQQ?oc=5",
       "guid": "CBMiS0FVX3lxTE51cENWaHhfMVNLT2hkTXhyMGUyNWNyYlJTRHFYTThSVXZwTUREWFlRTHJ2S1NweVUteGpYdWV5SEpfWkZpNVpwMmpiQQ",
       "pub_date": "Mon, 05 Oct 2026 21:10:34 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE51cENWaHhfMVNLT2hkTXhyMGUyNWNyYlJTRHFYTThSVXZwTUREWFlRTHJ2S1NweVUteGpYdWV5SEpfWkZpNVpwMmpiQQ?oc=5\" target=\"_blank\">〈台股盤前要聞〉鴻海9月營收首度破兆、台股創高劍指5萬點</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
-      "source_name": "鉅亨網",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE51cENWaHhfMVNLT2hkTXhyMGUyNWNyYlJTRHFYTThSVXZwTUREWFlRTHJ2S1NweVUteGpYdWV5SEpfWkZpNVpwMmpiQQ?oc=5\" target=\"_blank\">〈台股盤前要聞〉鴻海9月營收首度破兆、台股創高劍指5萬點</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnyes.com</font>",
+      "source_name": "cnyes.com",
       "source_url": "https://m.cnyes.com"
     },
     {
@@ -562,16 +562,6 @@
     },
     {
       "query": "台股 OR 台積電",
-      "title": "台股戰5萬點快撿鑽石！00981A、00403A等10檔近一個月漲贏大盤 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPSllSZ2JIekl2Tjk4RjlWX01UWVg2QzN6c2hGMUpOZnd0UHR3Z2FSeFdzMEJadDNXbVhRc0oxRFhuUWZfM2lnTWMwTWtxck5GejBXRDZrZWdTSExHNGN5R0g3NFZROW1sV294NTVRaWx4V0NRTjhkT2hsNVRYVy1TMzIwOVA1UjdCSGdkdzI1X1d3SklEOHdYVUtmSGg3eUJROWs5dXRJclJNcUpGMDZmeGlfNlZmbk9pZW1yeFlqME93Y01RT2d6UnpiV0ZQdE1BU25YYXltZ1hOeVZQVjd4dDRhemlaMVl2dl96aXh4QmU1eWFwSmFCNkNybjRtc1g3VmtLSWFLRzFEV0ZQV1hqa00yMDR5ZHlLaTdnV0UzTGN4NlhIWmdrRFZfMFVlOWttbW00cjRQcmlCWWxIczJRa3RSaEhQQUw5ZzFuN1lYaWlEQXNDYUphT2x0YXhfT0RBLWo2TzRtX0pvX2s?oc=5",
-      "guid": "CBMi6wJBVV95cUxPSllSZ2JIekl2Tjk4RjlWX01UWVg2QzN6c2hGMUpOZnd0UHR3Z2FSeFdzMEJadDNXbVhRc0oxRFhuUWZfM2lnTWMwTWtxck5GejBXRDZrZWdTSExHNGN5R0g3NFZROW1sV294NTVRaWx4V0NRTjhkT2hsNVRYVy1TMzIwOVA1UjdCSGdkdzI1X1d3SklEOHdYVUtmSGg3eUJROWs5dXRJclJNcUpGMDZmeGlfNlZmbk9pZW1yeFlqME93Y01RT2d6UnpiV0ZQdE1BU25YYXltZ1hOeVZQVjd4dDRhemlaMVl2dl96aXh4QmU1eWFwSmFCNkNybjRtc1g3VmtLSWFLRzFEV0ZQV1hqa00yMDR5ZHlLaTdnV0UzTGN4NlhIWmdrRFZfMFVlOWttbW00cjRQcmlCWWxIczJRa3RSaEhQQUw5ZzFuN1lYaWlEQXNDYUphT2x0YXhfT0RBLWo2TzRtX0pvX2s",
-      "pub_date": "Mon, 05 Oct 2026 06:19:44 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxPSllSZ2JIekl2Tjk4RjlWX01UWVg2QzN6c2hGMUpOZnd0UHR3Z2FSeFdzMEJadDNXbVhRc0oxRFhuUWZfM2lnTWMwTWtxck5GejBXRDZrZWdTSExHNGN5R0g3NFZROW1sV294NTVRaWx4V0NRTjhkT2hsNVRYVy1TMzIwOVA1UjdCSGdkdzI1X1d3SklEOHdYVUtmSGg3eUJROWs5dXRJclJNcUpGMDZmeGlfNlZmbk9pZW1yeFlqME93Y01RT2d6UnpiV0ZQdE1BU25YYXltZ1hOeVZQVjd4dDRhemlaMVl2dl96aXh4QmU1eWFwSmFCNkNybjRtc1g3VmtLSWFLRzFEV0ZQV1hqa00yMDR5ZHlLaTdnV0UzTGN4NlhIWmdrRFZfMFVlOWttbW00cjRQcmlCWWxIczJRa3RSaEhQQUw5ZzFuN1lYaWlEQXNDYUphT2x0YXhfT0RBLWo2TzRtX0pvX2s?oc=5\" target=\"_blank\">台股戰5萬點快撿鑽石！00981A、00403A等10檔近一個月漲贏大盤</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo股市</font>",
-      "source_name": "Yahoo股市",
-      "source_url": "https://tw.stock.yahoo.com"
-    },
-    {
-      "query": "台股 OR 台積電",
       "title": "日本半導體國家隊強碰台積電Rapidus攜手17大咖搶訂單| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04N1Y4QmtiWFJuSVYtdS14NkFLcDRpbHd0c214RlByUHNIV3Q2UmtJUTREbzlFWklYaWxiaXVCRV9PcGVUdWNqVlZUcmx4bTlC?oc=5",
       "guid": "CBMiUEFVX3lxTE04N1Y4QmtiWFJuSVYtdS14NkFLcDRpbHd0c214RlByUHNIV3Q2UmtJUTREbzlFWklYaWxiaXVCRV9PcGVUdWNqVlZUcmx4bTlC",
@@ -579,6 +569,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE04N1Y4QmtiWFJuSVYtdS14NkFLcDRpbHd0c214RlByUHNIV3Q2UmtJUTREbzlFWklYaWxiaXVCRV9PcGVUdWNqVlZUcmx4bTlC?oc=5\" target=\"_blank\">日本半導體國家隊強碰台積電Rapidus攜手17大咖搶訂單| 全球財經| 全球</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UDN</font>",
       "source_name": "UDN",
       "source_url": "https://udn.com"
+    },
+    {
+      "query": "台股 OR 台積電",
+      "title": "台股戰5萬點快撿鑽石！00981A、00403A等10檔近一個月漲贏大盤 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPSllSZ2JIekl2Tjk4RjlWX01UWVg2QzN6c2hGMUpOZnd0UHR3Z2FSeFdzMEJadDNXbVhRc0oxRFhuUWZfM2lnTWMwTWtxck5GejBXRDZrZWdTSExHNGN5R0g3NFZROW1sV294NTVRaWx4V0NRTjhkT2hsNVRYVy1TMzIwOVA1UjdCSGdkdzI1X1d3SklEOHdYVUtmSGg3eUJROWs5dXRJclJNcUpGMDZmeGlfNlZmbk9pZW1yeFlqME93Y01RT2d6UnpiV0ZQdE1BU25YYXltZ1hOeVZQVjd4dDRhemlaMVl2dl96aXh4QmU1eWFwSmFCNkNybjRtc1g3VmtLSWFLRzFEV0ZQV1hqa00yMDR5ZHlLaTdnV0UzTGN4NlhIWmdrRFZfMFVlOWttbW00cjRQcmlCWWxIczJRa3RSaEhQQUw5ZzFuN1lYaWlEQXNDYUphT2x0YXhfT0RBLWo2TzRtX0pvX2s?oc=5",
+      "guid": "CBMi6wJBVV95cUxPSllSZ2JIekl2Tjk4RjlWX01UWVg2QzN6c2hGMUpOZnd0UHR3Z2FSeFdzMEJadDNXbVhRc0oxRFhuUWZfM2lnTWMwTWtxck5GejBXRDZrZWdTSExHNGN5R0g3NFZROW1sV294NTVRaWx4V0NRTjhkT2hsNVRYVy1TMzIwOVA1UjdCSGdkdzI1X1d3SklEOHdYVUtmSGg3eUJROWs5dXRJclJNcUpGMDZmeGlfNlZmbk9pZW1yeFlqME93Y01RT2d6UnpiV0ZQdE1BU25YYXltZ1hOeVZQVjd4dDRhemlaMVl2dl96aXh4QmU1eWFwSmFCNkNybjRtc1g3VmtLSWFLRzFEV0ZQV1hqa00yMDR5ZHlLaTdnV0UzTGN4NlhIWmdrRFZfMFVlOWttbW00cjRQcmlCWWxIczJRa3RSaEhQQUw5ZzFuN1lYaWlEQXNDYUphT2x0YXhfT0RBLWo2TzRtX0pvX2s",
+      "pub_date": "Mon, 05 Oct 2026 06:19:44 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi6wJBVV95cUxPSllSZ2JIekl2Tjk4RjlWX01UWVg2QzN6c2hGMUpOZnd0UHR3Z2FSeFdzMEJadDNXbVhRc0oxRFhuUWZfM2lnTWMwTWtxck5GejBXRDZrZWdTSExHNGN5R0g3NFZROW1sV294NTVRaWx4V0NRTjhkT2hsNVRYVy1TMzIwOVA1UjdCSGdkdzI1X1d3SklEOHdYVUtmSGg3eUJROWs5dXRJclJNcUpGMDZmeGlfNlZmbk9pZW1yeFlqME93Y01RT2d6UnpiV0ZQdE1BU25YYXltZ1hOeVZQVjd4dDRhemlaMVl2dl96aXh4QmU1eWFwSmFCNkNybjRtc1g3VmtLSWFLRzFEV0ZQV1hqa00yMDR5ZHlLaTdnV0UzTGN4NlhIWmdrRFZfMFVlOWttbW00cjRQcmlCWWxIczJRa3RSaEhQQUw5ZzFuN1lYaWlEQXNDYUphT2x0YXhfT0RBLWo2TzRtX0pvX2s?oc=5\" target=\"_blank\">台股戰5萬點快撿鑽石！00981A、00403A等10檔近一個月漲贏大盤</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo股市</font>",
+      "source_name": "Yahoo股市",
+      "source_url": "https://tw.stock.yahoo.com"
     },
     {
       "query": "台股 OR 台積電",
@@ -622,12 +622,12 @@
     },
     {
       "query": "台股 OR 台積電",
-      "title": "10／5台股雷達｜台股大噴發台積電、大立光、華通、南亞帶頭衝原因曝- 證券 - 工商時報",
+      "title": "10／5台股雷達｜台股大噴發台積電、大立光、華通、南亞帶頭衝原因曝- 證券 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZVE1OExBNWtsTU04RXNNVDE2VHFRVzhoVXZNNEItOGZQMGRCVFg0bk50UU1HeWE3dDVMTGRHZUk5NkJPbU5jVmdfZmc2NkE0TGFIUWpNcjd2b01pR1hV?oc=5",
       "guid": "CBMiX0FVX3lxTE1VZVE1OExBNWtsTU04RXNNVDE2VHFRVzhoVXZNNEItOGZQMGRCVFg0bk50UU1HeWE3dDVMTGRHZUk5NkJPbU5jVmdfZmc2NkE0TGFIUWpNcjd2b01pR1hV",
       "pub_date": "Mon, 05 Oct 2026 11:30:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZVE1OExBNWtsTU04RXNNVDE2VHFRVzhoVXZNNEItOGZQMGRCVFg0bk50UU1HeWE3dDVMTGRHZUk5NkJPbU5jVmdfZmc2NkE0TGFIUWpNcjd2b01pR1hV?oc=5\" target=\"_blank\">10／5台股雷達｜台股大噴發台積電、大立光、華通、南亞帶頭衝原因曝- 證券</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZVE1OExBNWtsTU04RXNNVDE2VHFRVzhoVXZNNEItOGZQMGRCVFg0bk50UU1HeWE3dDVMTGRHZUk5NkJPbU5jVmdfZmc2NkE0TGFIUWpNcjd2b01pR1hV?oc=5\" target=\"_blank\">10／5台股雷達｜台股大噴發台積電、大立光、華通、南亞帶頭衝原因曝- 證券</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -742,16 +742,6 @@
     },
     {
       "query": "台股 OR 台積電",
-      "title": "鴻海9月營收打破台股新紀錄！單月首破兆元大關 來到1兆1586億元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQOFIyd1h0VUwxZm9ZZk8zQmN3a21XcF9EekRaSmVOR0pIdHBMaVp6VU5Hc29ObWt4eDB2YVRBWm85T3lDTU5LZ3VLaTI3bGcxOHhKaTB6MzZhOTItWTVZc0JvZmg1V1NmVzlTZ3hKMHBYNHV3amFaUHhNUXZ6U1c5QUpkbFREOXo4NVltQm9CaVNlUUFpVkllWDNVN3liUWJCYVFPQ0UybjRsVjdXOEpkakhDS3p6VU9MdFJzbnRnbVFqeXdkUkVOVjJWbjR0Q0hlcG8tMHJ4M0RJZlNpaVF5R1RzbW5hMlBjdWwydHVGMHNBVFktYUhuZmVsNDk4bEo5ejZlOG9UbUNHVEpYMUNRcU40UUo4cVR4cndfeEFrTUZ5Wk0zQVlRLWFKOGxDVC1jbUY2WEhYRDNNUnM0dUZYdkJ3SWJNaDlqNWlIakZOekV4MnZZM05CWF9rRnZLd09NZTZsVzhEWlV2XzI0b0FKNS1NQmNGdnh1c1lHczZ2ZWs4U00ycmdPTi02TG5QVlhOZFE?oc=5",
-      "guid": "CBMikgNBVV95cUxQOFIyd1h0VUwxZm9ZZk8zQmN3a21XcF9EekRaSmVOR0pIdHBMaVp6VU5Hc29ObWt4eDB2YVRBWm85T3lDTU5LZ3VLaTI3bGcxOHhKaTB6MzZhOTItWTVZc0JvZmg1V1NmVzlTZ3hKMHBYNHV3amFaUHhNUXZ6U1c5QUpkbFREOXo4NVltQm9CaVNlUUFpVkllWDNVN3liUWJCYVFPQ0UybjRsVjdXOEpkakhDS3p6VU9MdFJzbnRnbVFqeXdkUkVOVjJWbjR0Q0hlcG8tMHJ4M0RJZlNpaVF5R1RzbW5hMlBjdWwydHVGMHNBVFktYUhuZmVsNDk4bEo5ejZlOG9UbUNHVEpYMUNRcU40UUo4cVR4cndfeEFrTUZ5Wk0zQVlRLWFKOGxDVC1jbUY2WEhYRDNNUnM0dUZYdkJ3SWJNaDlqNWlIakZOekV4MnZZM05CWF9rRnZLd09NZTZsVzhEWlV2XzI0b0FKNS1NQmNGdnh1c1lHczZ2ZWs4U00ycmdPTi02TG5QVlhOZFE",
-      "pub_date": "Mon, 05 Oct 2026 10:30:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxQOFIyd1h0VUwxZm9ZZk8zQmN3a21XcF9EekRaSmVOR0pIdHBMaVp6VU5Hc29ObWt4eDB2YVRBWm85T3lDTU5LZ3VLaTI3bGcxOHhKaTB6MzZhOTItWTVZc0JvZmg1V1NmVzlTZ3hKMHBYNHV3amFaUHhNUXZ6U1c5QUpkbFREOXo4NVltQm9CaVNlUUFpVkllWDNVN3liUWJCYVFPQ0UybjRsVjdXOEpkakhDS3p6VU9MdFJzbnRnbVFqeXdkUkVOVjJWbjR0Q0hlcG8tMHJ4M0RJZlNpaVF5R1RzbW5hMlBjdWwydHVGMHNBVFktYUhuZmVsNDk4bEo5ejZlOG9UbUNHVEpYMUNRcU40UUo4cVR4cndfeEFrTUZ5Wk0zQVlRLWFKOGxDVC1jbUY2WEhYRDNNUnM0dUZYdkJ3SWJNaDlqNWlIakZOekV4MnZZM05CWF9rRnZLd09NZTZsVzhEWlV2XzI0b0FKNS1NQmNGdnh1c1lHczZ2ZWs4U00ycmdPTi02TG5QVlhOZFE?oc=5\" target=\"_blank\">鴻海9月營收打破台股新紀錄！單月首破兆元大關 來到1兆1586億元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo股市</font>",
-      "source_name": "Yahoo股市",
-      "source_url": "https://tw.stock.yahoo.com"
-    },
-    {
-      "query": "台股 OR 台積電",
       "title": "中秋連假後有大行情？台積電盤後鉅額交易飆2,749元 再創歷史新天價 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95Y3I2U3dDV0l3WjBQV3U2S1d3NnFPZkpYZ3F5QUhNYTd3S2xhRUhEZlZDeEUzTEN3bTg0ZmV5aTV5b2w5SG9HcEI0dV95R1lr0gFWQVVfeXFMT3dlZHM4UHhUNXdQN3FiWTl1OFZEVW84bEpPRWZoVTZSUnR6T1R5c3lmakgtU2FVeC14RV9Ob1EwVnJzOVZlZVB3UWZsOW9Xa1Nmcmp2TlE?oc=5",
       "guid": "CBMiUEFVX3lxTE95Y3I2U3dDV0l3WjBQV3U2S1d3NnFPZkpYZ3F5QUhNYTd3S2xhRUhEZlZDeEUzTEN3bTg0ZmV5aTV5b2w5SG9HcEI0dV95R1lr0gFWQVVfeXFMT3dlZHM4UHhUNXdQN3FiWTl1OFZEVW84bEpPRWZoVTZSUnR6T1R5c3lmakgtU2FVeC14RV9Ob1EwVnJzOVZlZVB3UWZsOW9Xa1Nmcmp2TlE",
@@ -759,6 +749,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE95Y3I2U3dDV0l3WjBQV3U2S1d3NnFPZkpYZ3F5QUhNYTd3S2xhRUhEZlZDeEUzTEN3bTg0ZmV5aTV5b2w5SG9HcEI0dV95R1lr0gFWQVVfeXFMT3dlZHM4UHhUNXdQN3FiWTl1OFZEVW84bEpPRWZoVTZSUnR6T1R5c3lmakgtU2FVeC14RV9Ob1EwVnJzOVZlZVB3UWZsOW9Xa1Nmcmp2TlE?oc=5\" target=\"_blank\">中秋連假後有大行情？台積電盤後鉅額交易飆2,749元 再創歷史新天價</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UDN</font>",
       "source_name": "UDN",
       "source_url": "https://udn.com"
+    },
+    {
+      "query": "台股 OR 台積電",
+      "title": "鴻海9月營收打破台股新紀錄！單月首破兆元大關 來到1兆1586億元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQOFIyd1h0VUwxZm9ZZk8zQmN3a21XcF9EekRaSmVOR0pIdHBMaVp6VU5Hc29ObWt4eDB2YVRBWm85T3lDTU5LZ3VLaTI3bGcxOHhKaTB6MzZhOTItWTVZc0JvZmg1V1NmVzlTZ3hKMHBYNHV3amFaUHhNUXZ6U1c5QUpkbFREOXo4NVltQm9CaVNlUUFpVkllWDNVN3liUWJCYVFPQ0UybjRsVjdXOEpkakhDS3p6VU9MdFJzbnRnbVFqeXdkUkVOVjJWbjR0Q0hlcG8tMHJ4M0RJZlNpaVF5R1RzbW5hMlBjdWwydHVGMHNBVFktYUhuZmVsNDk4bEo5ejZlOG9UbUNHVEpYMUNRcU40UUo4cVR4cndfeEFrTUZ5Wk0zQVlRLWFKOGxDVC1jbUY2WEhYRDNNUnM0dUZYdkJ3SWJNaDlqNWlIakZOekV4MnZZM05CWF9rRnZLd09NZTZsVzhEWlV2XzI0b0FKNS1NQmNGdnh1c1lHczZ2ZWs4U00ycmdPTi02TG5QVlhOZFE?oc=5",
+      "guid": "CBMikgNBVV95cUxQOFIyd1h0VUwxZm9ZZk8zQmN3a21XcF9EekRaSmVOR0pIdHBMaVp6VU5Hc29ObWt4eDB2YVRBWm85T3lDTU5LZ3VLaTI3bGcxOHhKaTB6MzZhOTItWTVZc0JvZmg1V1NmVzlTZ3hKMHBYNHV3amFaUHhNUXZ6U1c5QUpkbFREOXo4NVltQm9CaVNlUUFpVkllWDNVN3liUWJCYVFPQ0UybjRsVjdXOEpkakhDS3p6VU9MdFJzbnRnbVFqeXdkUkVOVjJWbjR0Q0hlcG8tMHJ4M0RJZlNpaVF5R1RzbW5hMlBjdWwydHVGMHNBVFktYUhuZmVsNDk4bEo5ejZlOG9UbUNHVEpYMUNRcU40UUo4cVR4cndfeEFrTUZ5Wk0zQVlRLWFKOGxDVC1jbUY2WEhYRDNNUnM0dUZYdkJ3SWJNaDlqNWlIakZOekV4MnZZM05CWF9rRnZLd09NZTZsVzhEWlV2XzI0b0FKNS1NQmNGdnh1c1lHczZ2ZWs4U00ycmdPTi02TG5QVlhOZFE",
+      "pub_date": "Mon, 05 Oct 2026 10:30:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikgNBVV95cUxQOFIyd1h0VUwxZm9ZZk8zQmN3a21XcF9EekRaSmVOR0pIdHBMaVp6VU5Hc29ObWt4eDB2YVRBWm85T3lDTU5LZ3VLaTI3bGcxOHhKaTB6MzZhOTItWTVZc0JvZmg1V1NmVzlTZ3hKMHBYNHV3amFaUHhNUXZ6U1c5QUpkbFREOXo4NVltQm9CaVNlUUFpVkllWDNVN3liUWJCYVFPQ0UybjRsVjdXOEpkakhDS3p6VU9MdFJzbnRnbVFqeXdkUkVOVjJWbjR0Q0hlcG8tMHJ4M0RJZlNpaVF5R1RzbW5hMlBjdWwydHVGMHNBVFktYUhuZmVsNDk4bEo5ejZlOG9UbUNHVEpYMUNRcU40UUo4cVR4cndfeEFrTUZ5Wk0zQVlRLWFKOGxDVC1jbUY2WEhYRDNNUnM0dUZYdkJ3SWJNaDlqNWlIakZOekV4MnZZM05CWF9rRnZLd09NZTZsVzhEWlV2XzI0b0FKNS1NQmNGdnh1c1lHczZ2ZWs4U00ycmdPTi02TG5QVlhOZFE?oc=5\" target=\"_blank\">鴻海9月營收打破台股新紀錄！單月首破兆元大關 來到1兆1586億元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo股市</font>",
+      "source_name": "Yahoo股市",
+      "source_url": "https://tw.stock.yahoo.com"
     },
     {
       "query": "台股 OR 台積電",
@@ -812,12 +812,12 @@
     },
     {
       "query": "台股 OR 台積電",
-      "title": "瞄準台股5萬行情0050、0056領銜規模創高- 理財 - 工商時報",
+      "title": "瞄準台股5萬行情0050、0056領銜規模創高- 理財 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZXNMN2FOU2tXT2NmMC04dHZHMG9zaVZTNWJLaktMVHNDcEhDZVhZLS1ndmY2aVhhVTJpREdqb2tKaS1rSldPQWdVRnpFaUFnZ21tVnlfdFdMX2JVVF8w?oc=5",
       "guid": "CBMiX0FVX3lxTFBWZXNMN2FOU2tXT2NmMC04dHZHMG9zaVZTNWJLaktMVHNDcEhDZVhZLS1ndmY2aVhhVTJpREdqb2tKaS1rSldPQWdVRnpFaUFnZ21tVnlfdFdMX2JVVF8w",
       "pub_date": "Mon, 05 Oct 2026 11:41:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZXNMN2FOU2tXT2NmMC04dHZHMG9zaVZTNWJLaktMVHNDcEhDZVhZLS1ndmY2aVhhVTJpREdqb2tKaS1rSldPQWdVRnpFaUFnZ21tVnlfdFdMX2JVVF8w?oc=5\" target=\"_blank\">瞄準台股5萬行情0050、0056領銜規模創高- 理財</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZXNMN2FOU2tXT2NmMC04dHZHMG9zaVZTNWJLaktMVHNDcEhDZVhZLS1ndmY2aVhhVTJpREdqb2tKaS1rSldPQWdVRnpFaUFnZ21tVnlfdFdMX2JVVF8w?oc=5\" target=\"_blank\">瞄準台股5萬行情0050、0056領銜規模創高- 理財</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -872,16 +872,6 @@
     },
     {
       "query": "台股 OR 台積電",
-      "title": "美股｜那指締新高 4大指數齊紅 台積電ADR強漲2.75％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN?oc=5",
-      "guid": "CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN",
-      "pub_date": "Mon, 05 Oct 2026 22:49:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN?oc=5\" target=\"_blank\">美股｜那指締新高 4大指數齊紅 台積電ADR強漲2.75％</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
-      "source_url": "https://www.ctee.com.tw"
-    },
-    {
-      "query": "台股 OR 台積電",
       "title": "台積電傳評估攜手馬斯克與Terafab合作在德州設廠| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fMEZfMkFRV1dSLVZTUHNlT0xWUGp1UGE5RnJaQ04zdWY3X2RXTm1iRHdMQWJOanFIMTJtYnl2a0NpUGhvejdqdlBrVlBrS1JV?oc=5",
       "guid": "CBMiUEFVX3lxTE5fMEZfMkFRV1dSLVZTUHNlT0xWUGp1UGE5RnJaQ04zdWY3X2RXTm1iRHdMQWJOanFIMTJtYnl2a0NpUGhvejdqdlBrVlBrS1JV",
@@ -889,6 +879,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fMEZfMkFRV1dSLVZTUHNlT0xWUGp1UGE5RnJaQ04zdWY3X2RXTm1iRHdMQWJOanFIMTJtYnl2a0NpUGhvejdqdlBrVlBrS1JV?oc=5\" target=\"_blank\">台積電傳評估攜手馬斯克與Terafab合作在德州設廠| 全球財經| 全球</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UDN</font>",
       "source_name": "UDN",
       "source_url": "https://udn.com"
+    },
+    {
+      "query": "台股 OR 台積電",
+      "title": "美股｜那指締新高 4大指數齊紅 台積電ADR強漲2.75％ - ctee.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN?oc=5",
+      "guid": "CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN",
+      "pub_date": "Mon, 05 Oct 2026 22:49:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN?oc=5\" target=\"_blank\">美股｜那指締新高 4大指數齊紅 台積電ADR強漲2.75％</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
+      "source_url": "https://www.ctee.com.tw"
     },
     {
       "query": "台股 OR 台積電",
@@ -1072,12 +1072,12 @@
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
-      "title": "台指漲破5萬點、美股利空不跌 專家：還會大漲 - 天下雜誌",
+      "title": "台指漲破5萬點、美股利空不跌 專家：還會大漲 - cw.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HZEtMMGtFU3JzLV9qblVkd1hpVU5qaXJWRFIxZWt1Q1lIU3N1RG5UM0F3Tk9VQmp1dWFQaDliM3p6REhUOXBEUUFJLUVHQQ?oc=5",
       "guid": "CBMiTkFVX3lxTE1HZEtMMGtFU3JzLV9qblVkd1hpVU5qaXJWRFIxZWt1Q1lIU3N1RG5UM0F3Tk9VQmp1dWFQaDliM3p6REhUOXBEUUFJLUVHQQ",
       "pub_date": "Mon, 05 Oct 2026 06:12:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HZEtMMGtFU3JzLV9qblVkd1hpVU5qaXJWRFIxZWt1Q1lIU3N1RG5UM0F3Tk9VQmp1dWFQaDliM3p6REhUOXBEUUFJLUVHQQ?oc=5\" target=\"_blank\">台指漲破5萬點、美股利空不跌 專家：還會大漲</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天下雜誌</font>",
-      "source_name": "天下雜誌",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HZEtMMGtFU3JzLV9qblVkd1hpVU5qaXJWRFIxZWt1Q1lIU3N1RG5UM0F3Tk9VQmp1dWFQaDliM3p6REhUOXBEUUFJLUVHQQ?oc=5\" target=\"_blank\">台指漲破5萬點、美股利空不跌 專家：還會大漲</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cw.com.tw</font>",
+      "source_name": "cw.com.tw",
       "source_url": "https://www.cw.com.tw"
     },
     {
@@ -1192,12 +1192,12 @@
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
-      "title": "天下晨間新聞：歐元崩17個月新低，美股逼歷史高點：全球資金在押什麼？ - 天下雜誌",
+      "title": "天下晨間新聞：歐元崩17個月新低，美股逼歷史高點：全球資金在押什麼？ - cw.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ES21LTEVrZUNXaTQwcVBFaE5IOTEtbEJGd3FfQ1lkQjJWNFd5dVdFQWhwUWtSTloxOUZpQzRZQjNfb2RadDA1SWlZVGs2dw?oc=5",
       "guid": "CBMiTkFVX3lxTE5ES21LTEVrZUNXaTQwcVBFaE5IOTEtbEJGd3FfQ1lkQjJWNFd5dVdFQWhwUWtSTloxOUZpQzRZQjNfb2RadDA1SWlZVGs2dw",
       "pub_date": "Mon, 05 Oct 2026 21:45:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ES21LTEVrZUNXaTQwcVBFaE5IOTEtbEJGd3FfQ1lkQjJWNFd5dVdFQWhwUWtSTloxOUZpQzRZQjNfb2RadDA1SWlZVGs2dw?oc=5\" target=\"_blank\">天下晨間新聞：歐元崩17個月新低，美股逼歷史高點：全球資金在押什麼？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天下雜誌</font>",
-      "source_name": "天下雜誌",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ES21LTEVrZUNXaTQwcVBFaE5IOTEtbEJGd3FfQ1lkQjJWNFd5dVdFQWhwUWtSTloxOUZpQzRZQjNfb2RadDA1SWlZVGs2dw?oc=5\" target=\"_blank\">天下晨間新聞：歐元崩17個月新低，美股逼歷史高點：全球資金在押什麼？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cw.com.tw</font>",
+      "source_name": "cw.com.tw",
       "source_url": "https://www.cw.com.tw"
     },
     {
@@ -1372,6 +1372,16 @@
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
+      "title": "【盤前】台指夜盤漲174點！美股全紅那指再創高 台股今再戰歷史新高 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPTDZSX2xvbFpYMHFwZHVCTzRjdy1MTmN3bUtfS1gtV2FLaVRVYktScnNLcExja05EOE54X3dyU2ZMbUZPenptb2w4MzNMaUZ0NWQzZ3R2T0l4RmlSTk1GQXlKbzlyZHdrNEJCZExiV3VmaXNISHpwQzRtN1FqcmtQbUlEMUlEUG5PVlF4WjJFeDZKd2tTc09rX3ZKNl94TGRsU19TOVphcGQ0aWVwek1BRm92VmlIWlVXenYwZDFrakxkZ3Z3XzRsQWdQT0RTWE5rcmFyT0VzTHUxSW5aOGJwbWIxdEdoRzNjZk1YeDdURlBUeS04SFU0N0hwREstR2poZzZVa01kbWZLdzg0cGo4emNmTHNja0NvTC11aXV6dF8wUlduR21NTVRDQ0dpdElPcWh6bWtrREhHRVVPb3E3TXNubVV5UnVNbE44T2xUZEJTSlFJZ2JzQ0p3bWZNVjdNWHFUM3o5QkdXbmt2V05BR3Zuemp1Y2pIUkRvTnlQcUhUS3FNRXNxWnExR1NtamxiMUlZ?oc=5",
+      "guid": "CBMikwNBVV95cUxPTDZSX2xvbFpYMHFwZHVCTzRjdy1MTmN3bUtfS1gtV2FLaVRVYktScnNLcExja05EOE54X3dyU2ZMbUZPenptb2w4MzNMaUZ0NWQzZ3R2T0l4RmlSTk1GQXlKbzlyZHdrNEJCZExiV3VmaXNISHpwQzRtN1FqcmtQbUlEMUlEUG5PVlF4WjJFeDZKd2tTc09rX3ZKNl94TGRsU19TOVphcGQ0aWVwek1BRm92VmlIWlVXenYwZDFrakxkZ3Z3XzRsQWdQT0RTWE5rcmFyT0VzTHUxSW5aOGJwbWIxdEdoRzNjZk1YeDdURlBUeS04SFU0N0hwREstR2poZzZVa01kbWZLdzg0cGo4emNmTHNja0NvTC11aXV6dF8wUlduR21NTVRDQ0dpdElPcWh6bWtrREhHRVVPb3E3TXNubVV5UnVNbE44T2xUZEJTSlFJZ2JzQ0p3bWZNVjdNWHFUM3o5QkdXbmt2V05BR3Zuemp1Y2pIUkRvTnlQcUhUS3FNRXNxWnExR1NtamxiMUlZ",
+      "pub_date": "Mon, 05 Oct 2026 22:19:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwNBVV95cUxPTDZSX2xvbFpYMHFwZHVCTzRjdy1MTmN3bUtfS1gtV2FLaVRVYktScnNLcExja05EOE54X3dyU2ZMbUZPenptb2w4MzNMaUZ0NWQzZ3R2T0l4RmlSTk1GQXlKbzlyZHdrNEJCZExiV3VmaXNISHpwQzRtN1FqcmtQbUlEMUlEUG5PVlF4WjJFeDZKd2tTc09rX3ZKNl94TGRsU19TOVphcGQ0aWVwek1BRm92VmlIWlVXenYwZDFrakxkZ3Z3XzRsQWdQT0RTWE5rcmFyT0VzTHUxSW5aOGJwbWIxdEdoRzNjZk1YeDdURlBUeS04SFU0N0hwREstR2poZzZVa01kbWZLdzg0cGo4emNmTHNja0NvTC11aXV6dF8wUlduR21NTVRDQ0dpdElPcWh6bWtrREhHRVVPb3E3TXNubVV5UnVNbE44T2xUZEJTSlFJZ2JzQ0p3bWZNVjdNWHFUM3o5QkdXbmt2V05BR3Zuemp1Y2pIUkRvTnlQcUhUS3FNRXNxWnExR1NtamxiMUlZ?oc=5\" target=\"_blank\">【盤前】台指夜盤漲174點！美股全紅那指再創高 台股今再戰歷史新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
+      "source_name": "Yahoo新聞",
+      "source_url": "https://tw.news.yahoo.com"
+    },
+    {
+      "query": "美股 OR Nasdaq OR Fed",
       "title": "快訊／美股道瓊、費半綠！這檔台灣ADR跌破9%、台指期夜盤守住50K - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNdldNTjhBbzcwQ0JMVnRyVU5kaDVvUXZkQTBLTTRfWnFmVS1ObklRdkd0XzJzTE5naFZWSUhZM3liQXE0SVpNOXhiVjVfVVNOYXNHNjVraW9ZTlozb2JFY0czcFpRSW1wN0EwajRuR2lpS24xYnhGWHN0N2FTXzJDemw1dVBhTURjY0laS3Z0RFk4bkk0WGx1cG9mT05jV21iZzl3bVhHdkZ3OXo3cThGaDFnZ1JwbUZ6OG5Hc1l0TEgwcnlmWEQ2UVB5SFZsLXJsUWxaRWRRbkhlRzJQelFvUVJ6WVFEa1JKUUczM0U5UXF6c054TWtFOXFlSFpvNVRhZVktb0U5Y1IzR01XbE5BRWsxVHRVRXMzLUxuc1lTNVQ0Tld1Mm9BNGtyU0I2Z3puMkVaME5nSk5LU015Zk84OGk0N2FNVC1wckpDdDV5MUlXWnRaY3BfczloUnBRMlhScmF4R21RYUpBQQ?oc=5",
       "guid": "CBMi6gJBVV95cUxNdldNTjhBbzcwQ0JMVnRyVU5kaDVvUXZkQTBLTTRfWnFmVS1ObklRdkd0XzJzTE5naFZWSUhZM3liQXE0SVpNOXhiVjVfVVNOYXNHNjVraW9ZTlozb2JFY0czcFpRSW1wN0EwajRuR2lpS24xYnhGWHN0N2FTXzJDemw1dVBhTURjY0laS3Z0RFk4bkk0WGx1cG9mT05jV21iZzl3bVhHdkZ3OXo3cThGaDFnZ1JwbUZ6OG5Hc1l0TEgwcnlmWEQ2UVB5SFZsLXJsUWxaRWRRbkhlRzJQelFvUVJ6WVFEa1JKUUczM0U5UXF6c054TWtFOXFlSFpvNVRhZVktb0U5Y1IzR01XbE5BRWsxVHRVRXMzLUxuc1lTNVQ0Tld1Mm9BNGtyU0I2Z3puMkVaME5nSk5LU015Zk84OGk0N2FNVC1wckpDdDV5MUlXWnRaY3BfczloUnBRMlhScmF4R21RYUpBQQ",
@@ -1382,12 +1392,12 @@
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
-      "title": "美股｜那指締新高 4大指數齊紅 台積電ADR強漲2.75％ - 工商時報",
+      "title": "美股｜那指締新高 4大指數齊紅 台積電ADR強漲2.75％ - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN?oc=5",
       "guid": "CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN",
       "pub_date": "Mon, 05 Oct 2026 22:49:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN?oc=5\" target=\"_blank\">美股｜那指締新高 4大指數齊紅 台積電ADR強漲2.75％</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MWGtOb2dfLXdHSlQ5QmVuaUVaM09VT1cxa01vTXJIbGlXXzAtcV9zYTJ1X3RMSkRDTURfNmFpWDVlbTlacjdwY1VlTnQyR1pia1VvYzg4V2tVb2xUbEdN?oc=5\" target=\"_blank\">美股｜那指締新高 4大指數齊紅 台積電ADR強漲2.75％</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -1462,12 +1472,12 @@
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
-      "title": "美股開盤近乎持平美債殖利率、油價走勢成市場焦點- 國際 - 工商時報",
+      "title": "美股開盤近乎持平美債殖利率、油價走勢成市場焦點- 國際 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFdzhQUUZ3Y3N3aU54bERqaWxIMUNJQkxyZDJ2Y1EyZzM5MGpLbWJZQWlsUFJESVdRSzl0RmJHVFRHV0w1ZFFWMk1DUGdVczBqOHc1VHA4YjBzNHhWdzBJ?oc=5",
       "guid": "CBMiX0FVX3lxTFBFdzhQUUZ3Y3N3aU54bERqaWxIMUNJQkxyZDJ2Y1EyZzM5MGpLbWJZQWlsUFJESVdRSzl0RmJHVFRHV0w1ZFFWMk1DUGdVczBqOHc1VHA4YjBzNHhWdzBJ",
       "pub_date": "Mon, 05 Oct 2026 13:53:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFdzhQUUZ3Y3N3aU54bERqaWxIMUNJQkxyZDJ2Y1EyZzM5MGpLbWJZQWlsUFJESVdRSzl0RmJHVFRHV0w1ZFFWMk1DUGdVczBqOHc1VHA4YjBzNHhWdzBJ?oc=5\" target=\"_blank\">美股開盤近乎持平美債殖利率、油價走勢成市場焦點- 國際</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFdzhQUUZ3Y3N3aU54bERqaWxIMUNJQkxyZDJ2Y1EyZzM5MGpLbWJZQWlsUFJESVdRSzl0RmJHVFRHV0w1ZFFWMk1DUGdVczBqOHc1VHA4YjBzNHhWdzBJ?oc=5\" target=\"_blank\">美股開盤近乎持平美債殖利率、油價走勢成市場焦點- 國際</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -1672,16 +1682,6 @@
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
-      "title": "美股兩樣情！三大指數皆墨 「這指數」卻逆勢大漲1.32% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZzE4c19Ic1BnWUZyS2txVldmRFpNV2M0RTRkdEJWYUxhUTJ1QVFhOGhFdmFVWTYtY2pSS180WVNTQlpfNTZ3NjM4eHhhSG5BYWFRdk45RkcxUkhPQ3UyVFV4bDZOb3o5bVowamFZTGk3UHhGcjlhWk5EbVlteDN0aUJITXdqbEdKc1ZjVUUzam9fMGY1NzUxZDR1UlhMaHlfdDJhVlBsN1JZRmhDaTUyT2JybUpheU9nZmxEY2dnUFA1SDNLcm9rZnFpUXNFOE9DcDFhS3FMTG4xOWFsVTVhekdSTzlraWxSa2lXUi01UkJrQ09lU3IwNWVTcGhCR2NjdVFtOS16MEoxSi1DQmpTMWtHYWs0Nk1uWVJmTXRoY0xIV2hadlFXeEl2cWtjazJqM1ROSHljVFo3VExJTmo4V0hkZ1JIX3Rj?oc=5",
-      "guid": "CBMiyAJBVV95cUxPZzE4c19Ic1BnWUZyS2txVldmRFpNV2M0RTRkdEJWYUxhUTJ1QVFhOGhFdmFVWTYtY2pSS180WVNTQlpfNTZ3NjM4eHhhSG5BYWFRdk45RkcxUkhPQ3UyVFV4bDZOb3o5bVowamFZTGk3UHhGcjlhWk5EbVlteDN0aUJITXdqbEdKc1ZjVUUzam9fMGY1NzUxZDR1UlhMaHlfdDJhVlBsN1JZRmhDaTUyT2JybUpheU9nZmxEY2dnUFA1SDNLcm9rZnFpUXNFOE9DcDFhS3FMTG4xOWFsVTVhekdSTzlraWxSa2lXUi01UkJrQ09lU3IwNWVTcGhCR2NjdVFtOS16MEoxSi1DQmpTMWtHYWs0Nk1uWVJmTXRoY0xIV2hadlFXeEl2cWtjazJqM1ROSHljVFo3VExJTmo4V0hkZ1JIX3Rj",
-      "pub_date": "Tue, 29 Sep 2026 22:40:45 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZzE4c19Ic1BnWUZyS2txVldmRFpNV2M0RTRkdEJWYUxhUTJ1QVFhOGhFdmFVWTYtY2pSS180WVNTQlpfNTZ3NjM4eHhhSG5BYWFRdk45RkcxUkhPQ3UyVFV4bDZOb3o5bVowamFZTGk3UHhGcjlhWk5EbVlteDN0aUJITXdqbEdKc1ZjVUUzam9fMGY1NzUxZDR1UlhMaHlfdDJhVlBsN1JZRmhDaTUyT2JybUpheU9nZmxEY2dnUFA1SDNLcm9rZnFpUXNFOE9DcDFhS3FMTG4xOWFsVTVhekdSTzlraWxSa2lXUi01UkJrQ09lU3IwNWVTcGhCR2NjdVFtOS16MEoxSi1DQmpTMWtHYWs0Nk1uWVJmTXRoY0xIV2hadlFXeEl2cWtjazJqM1ROSHljVFo3VExJTmo4V0hkZ1JIX3Rj?oc=5\" target=\"_blank\">美股兩樣情！三大指數皆墨 「這指數」卻逆勢大漲1.32%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo股市</font>",
-      "source_name": "Yahoo股市",
-      "source_url": "https://tw.stock.yahoo.com"
-    },
-    {
-      "query": "美股 OR Nasdaq OR Fed",
       "title": "《美股主題週報》量子運算—IONQ、RGTI、IBM - 台視全球資訊網",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbndYU01FcEpxQkZkU01FT3lGcmtnbXVydUh1SmZWcWNMWV9YTHZXTmFUb2k1cFhRM21DTGRvZ3A1SllCdXNQM3QwcTB3TUo1eVhhWG5IUy1kSThsWjRSeC00d2VFQktYNlE3SnFaNDdpbEpZSVBCNXpfUEZ2RVpzOVVSVmsxMjlTMWlPSnF6THlfQQ?oc=5",
       "guid": "CBMikgFBVV95cUxQbndYU01FcEpxQkZkU01FT3lGcmtnbXVydUh1SmZWcWNMWV9YTHZXTmFUb2k1cFhRM21DTGRvZ3A1SllCdXNQM3QwcTB3TUo1eVhhWG5IUy1kSThsWjRSeC00d2VFQktYNlE3SnFaNDdpbEpZSVBCNXpfUEZ2RVpzOVVSVmsxMjlTMWlPSnF6THlfQQ",
@@ -1709,6 +1709,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GaDR5TXhwUU5KQ1g0WkVidEJRODhTS2JfN3laOWd3ajQ5LThsXzU5TEtsbk1SR1BBSzR5TVNXdUhGTUNnWk9tM3lWMHZvWmlKR3Fsc1RrNUE?oc=5\" target=\"_blank\">【即時新聞】AI資料中心需求狂飆！Vertiv(VRT)獲外資調升評級，目標價上看329美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CMoney</font>",
       "source_name": "CMoney",
       "source_url": "https://www.cmoney.tw"
+    },
+    {
+      "query": "美股 OR Nasdaq OR Fed",
+      "title": "美股兩樣情！三大指數皆墨 「這指數」卻逆勢大漲1.32% - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZzE4c19Ic1BnWUZyS2txVldmRFpNV2M0RTRkdEJWYUxhUTJ1QVFhOGhFdmFVWTYtY2pSS180WVNTQlpfNTZ3NjM4eHhhSG5BYWFRdk45RkcxUkhPQ3UyVFV4bDZOb3o5bVowamFZTGk3UHhGcjlhWk5EbVlteDN0aUJITXdqbEdKc1ZjVUUzam9fMGY1NzUxZDR1UlhMaHlfdDJhVlBsN1JZRmhDaTUyT2JybUpheU9nZmxEY2dnUFA1SDNLcm9rZnFpUXNFOE9DcDFhS3FMTG4xOWFsVTVhekdSTzlraWxSa2lXUi01UkJrQ09lU3IwNWVTcGhCR2NjdVFtOS16MEoxSi1DQmpTMWtHYWs0Nk1uWVJmTXRoY0xIV2hadlFXeEl2cWtjazJqM1ROSHljVFo3VExJTmo4V0hkZ1JIX3Rj?oc=5",
+      "guid": "CBMiyAJBVV95cUxPZzE4c19Ic1BnWUZyS2txVldmRFpNV2M0RTRkdEJWYUxhUTJ1QVFhOGhFdmFVWTYtY2pSS180WVNTQlpfNTZ3NjM4eHhhSG5BYWFRdk45RkcxUkhPQ3UyVFV4bDZOb3o5bVowamFZTGk3UHhGcjlhWk5EbVlteDN0aUJITXdqbEdKc1ZjVUUzam9fMGY1NzUxZDR1UlhMaHlfdDJhVlBsN1JZRmhDaTUyT2JybUpheU9nZmxEY2dnUFA1SDNLcm9rZnFpUXNFOE9DcDFhS3FMTG4xOWFsVTVhekdSTzlraWxSa2lXUi01UkJrQ09lU3IwNWVTcGhCR2NjdVFtOS16MEoxSi1DQmpTMWtHYWs0Nk1uWVJmTXRoY0xIV2hadlFXeEl2cWtjazJqM1ROSHljVFo3VExJTmo4V0hkZ1JIX3Rj",
+      "pub_date": "Tue, 29 Sep 2026 22:40:45 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZzE4c19Ic1BnWUZyS2txVldmRFpNV2M0RTRkdEJWYUxhUTJ1QVFhOGhFdmFVWTYtY2pSS180WVNTQlpfNTZ3NjM4eHhhSG5BYWFRdk45RkcxUkhPQ3UyVFV4bDZOb3o5bVowamFZTGk3UHhGcjlhWk5EbVlteDN0aUJITXdqbEdKc1ZjVUUzam9fMGY1NzUxZDR1UlhMaHlfdDJhVlBsN1JZRmhDaTUyT2JybUpheU9nZmxEY2dnUFA1SDNLcm9rZnFpUXNFOE9DcDFhS3FMTG4xOWFsVTVhekdSTzlraWxSa2lXUi01UkJrQ09lU3IwNWVTcGhCR2NjdVFtOS16MEoxSi1DQmpTMWtHYWs0Nk1uWVJmTXRoY0xIV2hadlFXeEl2cWtjazJqM1ROSHljVFo3VExJTmo4V0hkZ1JIX3Rj?oc=5\" target=\"_blank\">美股兩樣情！三大指數皆墨 「這指數」卻逆勢大漲1.32%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo股市</font>",
+      "source_name": "Yahoo股市",
+      "source_url": "https://tw.stock.yahoo.com"
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
@@ -1923,10 +1933,10 @@
     {
       "query": "美股 OR Nasdaq OR Fed",
       "title": "國泰證美股盤前盤後交易服務上線 最早下午4時可下單 - 新住民全球新聞網",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlJKeENPdWtUTWwyd01TQ3lOOUxyVl9OQXJ2TFFyM2dCNENDWUZnWXZKdmliRmY4ZEcwMm9SSGROTWJCZXZlSWsxTEtwV0J5NEVZTGJLVkxxWEJLR0RJRFpVTUJmWG9hR2puVDRGam1aeUN5cDA2RWtmeWhqWHVmaEd3OThfQ0pRUzNENmNDNFI?oc=5",
-      "guid": "CBMikAFBVV95cUxPSlJKeENPdWtUTWwyd01TQ3lOOUxyVl9OQXJ2TFFyM2dCNENDWUZnWXZKdmliRmY4ZEcwMm9SSGROTWJCZXZlSWsxTEtwV0J5NEVZTGJLVkxxWEJLR0RJRFpVTUJmWG9hR2puVDRGam1aeUN5cDA2RWtmeWhqWHVmaEd3OThfQ0pRUzNENmNDNFI",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVpyRjJsbWM3aEI3UEt3U2txVXFSeXlHRnNJMUh3blpER2R6M2VuVGVSR2NCQVl5OHE4TWFWaGF5S0U0RVdYbWlqMXdYNk9MR2RjeFJTWHBuUHp5d3JsSnlfV1JTeXFfV3JYUVNoUWRoR0ZfZXZLaHRhVDlQWXEwWnV3TThpaUx1c3FxYlBDNzFyZmdrOWFHSEw5cms?oc=5",
+      "guid": "CBMinAFBVV95cUxNTVpyRjJsbWM3aEI3UEt3U2txVXFSeXlHRnNJMUh3blpER2R6M2VuVGVSR2NCQVl5OHE4TWFWaGF5S0U0RVdYbWlqMXdYNk9MR2RjeFJTWHBuUHp5d3JsSnlfV1JTeXFfV3JYUVNoUWRoR0ZfZXZLaHRhVDlQWXEwWnV3TThpaUx1c3FxYlBDNzFyZmdrOWFHSEw5cms",
       "pub_date": "Mon, 05 Oct 2026 01:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSlJKeENPdWtUTWwyd01TQ3lOOUxyVl9OQXJ2TFFyM2dCNENDWUZnWXZKdmliRmY4ZEcwMm9SSGROTWJCZXZlSWsxTEtwV0J5NEVZTGJLVkxxWEJLR0RJRFpVTUJmWG9hR2puVDRGam1aeUN5cDA2RWtmeWhqWHVmaEd3OThfQ0pRUzNENmNDNFI?oc=5\" target=\"_blank\">國泰證美股盤前盤後交易服務上線 最早下午4時可下單</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新住民全球新聞網</font>",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVpyRjJsbWM3aEI3UEt3U2txVXFSeXlHRnNJMUh3blpER2R6M2VuVGVSR2NCQVl5OHE4TWFWaGF5S0U0RVdYbWlqMXdYNk9MR2RjeFJTWHBuUHp5d3JsSnlfV1JTeXFfV3JYUVNoUWRoR0ZfZXZLaHRhVDlQWXEwWnV3TThpaUx1c3FxYlBDNzFyZmdrOWFHSEw5cms?oc=5\" target=\"_blank\">國泰證美股盤前盤後交易服務上線 最早下午4時可下單</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新住民全球新聞網</font>",
       "source_name": "新住民全球新聞網",
       "source_url": "https://news.immigration.gov.tw"
     },
@@ -1939,16 +1949,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2lmUzBfZ1ZJZHRTTERtdmJjelVwLW5lSzVOTjZSc21FUUpBQi1qQk1ZQ0x5aU5kU2lER2xIVzdvNHZjYXh0WjdXQjZncTFPVWU2Y3N3cC0tVTcwMXJ6dnp5cXAydE45MS0zaG9EZnpja1VlQ2JkNkZqRWhLMUtNT0ZJcXNlWTN6SkhDcW5NVGJUQQ?oc=5\" target=\"_blank\">《美股》就業遜 輝達盤中史高 SpaceX、Tesla嗨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoneyDJ理財網</font>",
       "source_name": "MoneyDJ理財網",
       "source_url": "https://www.moneydj.com"
-    },
-    {
-      "query": "美股 OR Nasdaq OR Fed",
-      "title": "升息預期降溫！美股指數全上漲 費半勁揚2.4% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQRnNMMldsNEsxSng0WnkwU0VmeWFQRl90cHJUVXNlUnUtR2dXcHU5NXpqWElmcDBRekJVemZVc1hJdUZ5VlotbTNjZU5OVTZiZ0M4Z2VhT2haZlZaUmdVbEhtbVFCV0RGb3o0TjFOMVhMOWFZTTZWb1pBXzZWck5QZ1pJUEpxaTJwX1hmRUlWYVo3TEsxanI2WTlncmg1VVVEVjdMam5xZGhtalJHN1dmVy05MllWREV4RlctSzdSSnR1Smo4YTU0QlVwSnBHbHFIMEpEYW1mRTVWdFA0eVJLcmJnajd6Zi1Ibkt2UHJGcDRBNEZvcUNZLVJNMnc1bmpuX0o4emY0S1cwdWQxUEU3SkZVUEhwa1c5dk1VanUxRU5kUF9qNkpzZ3k2NTlEQQ?oc=5",
-      "guid": "CBMirgJBVV95cUxQRnNMMldsNEsxSng0WnkwU0VmeWFQRl90cHJUVXNlUnUtR2dXcHU5NXpqWElmcDBRekJVemZVc1hJdUZ5VlotbTNjZU5OVTZiZ0M4Z2VhT2haZlZaUmdVbEhtbVFCV0RGb3o0TjFOMVhMOWFZTTZWb1pBXzZWck5QZ1pJUEpxaTJwX1hmRUlWYVo3TEsxanI2WTlncmg1VVVEVjdMam5xZGhtalJHN1dmVy05MllWREV4RlctSzdSSnR1Smo4YTU0QlVwSnBHbHFIMEpEYW1mRTVWdFA0eVJLcmJnajd6Zi1Ibkt2UHJGcDRBNEZvcUNZLVJNMnc1bmpuX0o4emY0S1cwdWQxUEU3SkZVUEhwa1c5dk1VanUxRU5kUF9qNkpzZ3k2NTlEQQ",
-      "pub_date": "Fri, 02 Oct 2026 22:07:39 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxQRnNMMldsNEsxSng0WnkwU0VmeWFQRl90cHJUVXNlUnUtR2dXcHU5NXpqWElmcDBRekJVemZVc1hJdUZ5VlotbTNjZU5OVTZiZ0M4Z2VhT2haZlZaUmdVbEhtbVFCV0RGb3o0TjFOMVhMOWFZTTZWb1pBXzZWck5QZ1pJUEpxaTJwX1hmRUlWYVo3TEsxanI2WTlncmg1VVVEVjdMam5xZGhtalJHN1dmVy05MllWREV4RlctSzdSSnR1Smo4YTU0QlVwSnBHbHFIMEpEYW1mRTVWdFA0eVJLcmJnajd6Zi1Ibkt2UHJGcDRBNEZvcUNZLVJNMnc1bmpuX0o4emY0S1cwdWQxUEU3SkZVUEhwa1c5dk1VanUxRU5kUF9qNkpzZ3k2NTlEQQ?oc=5\" target=\"_blank\">升息預期降溫！美股指數全上漲 費半勁揚2.4%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo股市</font>",
-      "source_name": "Yahoo股市",
-      "source_url": "https://tw.stock.yahoo.com"
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
@@ -2012,16 +2012,6 @@
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
-      "title": "〈券商拚美股投資〉國泰證新服務上線 打造一站式全球投資平台 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XbzI4Y1pKUkhkRXRlWFpKcU1XYk1CZjNxYWlXMG5HUzc4YlZmdFFFckJKTEpUWWdRZ3BRb2QxcFZaUU4tdDhqSlk3OWZUOG8?oc=5",
-      "guid": "CBMiT0FVX3lxTE9XbzI4Y1pKUkhkRXRlWFpKcU1XYk1CZjNxYWlXMG5HUzc4YlZmdFFFckJKTEpUWWdRZ3BRb2QxcFZaUU4tdDhqSlk3OWZUOG8",
-      "pub_date": "Mon, 05 Oct 2026 02:03:43 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XbzI4Y1pKUkhkRXRlWFpKcU1XYk1CZjNxYWlXMG5HUzc4YlZmdFFFckJKTEpUWWdRZ3BRb2QxcFZaUU4tdDhqSlk3OWZUOG8?oc=5\" target=\"_blank\">〈券商拚美股投資〉國泰證新服務上線 打造一站式全球投資平台</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cnyes.com</font>",
-      "source_name": "news.cnyes.com",
-      "source_url": "https://news.cnyes.com"
-    },
-    {
-      "query": "美股 OR Nasdaq OR Fed",
       "title": "【美股巨頭】MU被喊Buy、估值只有6倍，AI記憶體這次玩真的？ - CMoney投資網誌",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMWxmVjAtOWIwdEllejJpUTA5TFo4TFhZTF9FOXhhMXpPR3VHU1Joam1XVVNFcFBlZnA2aUhfWHlBaC1yYjBfZ0hWT0pCYWUxaklwZm5QNnZleU5LcEVPZmdRUTlTWEpxTEFZWHNjV0NWcERNWUlhX184UlBlTGdnSmctdHFMMjNJUzctalhB?oc=5",
       "guid": "CBMijgFBVV95cUxNMWxmVjAtOWIwdEllejJpUTA5TFo4TFhZTF9FOXhhMXpPR3VHU1Joam1XVVNFcFBlZnA2aUhfWHlBaC1yYjBfZ0hWT0pCYWUxaklwZm5QNnZleU5LcEVPZmdRUTlTWEpxTEFZWHNjV0NWcERNWUlhX184UlBlTGdnSmctdHFMMjNJUzctalhB",
@@ -2032,12 +2022,22 @@
     },
     {
       "query": "美股 OR Nasdaq OR Fed",
-      "title": "美股大漲創新高了 - news.ebc.net.tw",
+      "title": "〈券商拚美股投資〉國泰證新服務上線 打造一站式全球投資平台 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XbzI4Y1pKUkhkRXRlWFpKcU1XYk1CZjNxYWlXMG5HUzc4YlZmdFFFckJKTEpUWWdRZ3BRb2QxcFZaUU4tdDhqSlk3OWZUOG8?oc=5",
+      "guid": "CBMiT0FVX3lxTE9XbzI4Y1pKUkhkRXRlWFpKcU1XYk1CZjNxYWlXMG5HUzc4YlZmdFFFckJKTEpUWWdRZ3BRb2QxcFZaUU4tdDhqSlk3OWZUOG8",
+      "pub_date": "Mon, 05 Oct 2026 02:03:43 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XbzI4Y1pKUkhkRXRlWFpKcU1XYk1CZjNxYWlXMG5HUzc4YlZmdFFFckJKTEpUWWdRZ3BRb2QxcFZaUU4tdDhqSlk3OWZUOG8?oc=5\" target=\"_blank\">〈券商拚美股投資〉國泰證新服務上線 打造一站式全球投資平台</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cnyes.com</font>",
+      "source_name": "news.cnyes.com",
+      "source_url": "https://news.cnyes.com"
+    },
+    {
+      "query": "美股 OR Nasdaq OR Fed",
+      "title": "美股大漲創新高了 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02aU9mWHltNG93cjBJa1N3NWJNdWtCTWJ3cmltWFJQRHQtdnJNSVFTWXZHd1JOWkNEMGc0UW1XQTkxZnloRHQ5MUVOUFZ3S0lWTkdMQlVLUQ?oc=5",
       "guid": "CBMiV0FVX3lxTE02aU9mWHltNG93cjBJa1N3NWJNdWtCTWJ3cmltWFJQRHQtdnJNSVFTWXZHd1JOWkNEMGc0UW1XQTkxZnloRHQ5MUVOUFZ3S0lWTkdMQlVLUQ",
       "pub_date": "Mon, 05 Oct 2026 22:57:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE02aU9mWHltNG93cjBJa1N3NWJNdWtCTWJ3cmltWFJQRHQtdnJNSVFTWXZHd1JOWkNEMGc0UW1XQTkxZnloRHQ5MUVOUFZ3S0lWTkdMQlVLUQ?oc=5\" target=\"_blank\">美股大漲創新高了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.ebc.net.tw</font>",
-      "source_name": "news.ebc.net.tw",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE02aU9mWHltNG93cjBJa1N3NWJNdWtCTWJ3cmltWFJQRHQtdnJNSVFTWXZHd1JOWkNEMGc0UW1XQTkxZnloRHQ5MUVOUFZ3S0lWTkdMQlVLUQ?oc=5\" target=\"_blank\">美股大漲創新高了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">東森新聞</font>",
+      "source_name": "東森新聞",
       "source_url": "https://news.ebc.net.tw"
     },
     {
@@ -2052,23 +2052,23 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "輝達創歷史新高 鴻海AI伺服器需求強勁助攻 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw?oc=5",
-      "guid": "CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw",
-      "pub_date": "Mon, 05 Oct 2026 22:31:17 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw?oc=5\" target=\"_blank\">輝達創歷史新高 鴻海AI伺服器需求強勁助攻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
-      "source_name": "鉅亨網",
-      "source_url": "https://m.cnyes.com"
+      "title": "台灣半導體因為有這些價值 邱銘乾：所以不是靠政府突然說要砸大錢就可以成功 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPRXhRNVFsUGF2WlZYRXFMNzBNN2ZWQjlqM0NaNHFBSF92SkVKN2YyWVZpWVlEVzVaZDg0bWFhTkFJbjRfeTlxdjB6Umw0LTQzV2lnTFM1ZWZCQmlfWXZoREZlRE10VWdCMkJPb1dZYkJCNXRLNGF1dzU4LVBrN1lodmhUeS1ySGphX2JzZWNDMFFBczFJOVdsWEUzM2hURldLRS05dnpnd1dLYndlbWFnQWFCR0wwQ09TV0JyVDVSdTI0TEVsZzZZYXNScUVveThxa2tnTjRpR0c2YkhFVi10ajE5dTI5ZWpXU3pWa3NlX2lwNGlYbjlMT20ybHlLczNfYURxd3BXMGwtblpQM0JmYVJBUEJ6czl3Vzh3OGgtYnpfcGFLQTZGcEdOZVl1dW51b2VWc2wxOXZ2ZjIyWVE0V1VQazlxLTlHd1VQOUNpMVVWMkZXNG9SQWNDYmROMGhwSDhiTUs3clIwdDM3U25FQ0haN0FXNlM5VXpSLWlMUzlVVGF2S1NsQmx5QlhFMnFFVFFxNE5BR0VuN0xodEhTUE12WGxBWkFvb1pCVmlZRk1vUmU5MktWU1RveFYzWmFranBfNERrYzhjQlEwVTNDM2JsN2E2QUl6ZWVNZ01FeHoxdi1aQmdCYkJkR1pQZw?oc=5",
+      "guid": "CBMi7gNBVV95cUxPRXhRNVFsUGF2WlZYRXFMNzBNN2ZWQjlqM0NaNHFBSF92SkVKN2YyWVZpWVlEVzVaZDg0bWFhTkFJbjRfeTlxdjB6Umw0LTQzV2lnTFM1ZWZCQmlfWXZoREZlRE10VWdCMkJPb1dZYkJCNXRLNGF1dzU4LVBrN1lodmhUeS1ySGphX2JzZWNDMFFBczFJOVdsWEUzM2hURldLRS05dnpnd1dLYndlbWFnQWFCR0wwQ09TV0JyVDVSdTI0TEVsZzZZYXNScUVveThxa2tnTjRpR0c2YkhFVi10ajE5dTI5ZWpXU3pWa3NlX2lwNGlYbjlMT20ybHlLczNfYURxd3BXMGwtblpQM0JmYVJBUEJ6czl3Vzh3OGgtYnpfcGFLQTZGcEdOZVl1dW51b2VWc2wxOXZ2ZjIyWVE0V1VQazlxLTlHd1VQOUNpMVVWMkZXNG9SQWNDYmROMGhwSDhiTUs3clIwdDM3U25FQ0haN0FXNlM5VXpSLWlMUzlVVGF2S1NsQmx5QlhFMnFFVFFxNE5BR0VuN0xodEhTUE12WGxBWkFvb1pCVmlZRk1vUmU5MktWU1RveFYzWmFranBfNERrYzhjQlEwVTNDM2JsN2E2QUl6ZWVNZ01FeHoxdi1aQmdCYkJkR1pQZw",
+      "pub_date": "Mon, 05 Oct 2026 23:47:10 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gNBVV95cUxPRXhRNVFsUGF2WlZYRXFMNzBNN2ZWQjlqM0NaNHFBSF92SkVKN2YyWVZpWVlEVzVaZDg0bWFhTkFJbjRfeTlxdjB6Umw0LTQzV2lnTFM1ZWZCQmlfWXZoREZlRE10VWdCMkJPb1dZYkJCNXRLNGF1dzU4LVBrN1lodmhUeS1ySGphX2JzZWNDMFFBczFJOVdsWEUzM2hURldLRS05dnpnd1dLYndlbWFnQWFCR0wwQ09TV0JyVDVSdTI0TEVsZzZZYXNScUVveThxa2tnTjRpR0c2YkhFVi10ajE5dTI5ZWpXU3pWa3NlX2lwNGlYbjlMT20ybHlLczNfYURxd3BXMGwtblpQM0JmYVJBUEJ6czl3Vzh3OGgtYnpfcGFLQTZGcEdOZVl1dW51b2VWc2wxOXZ2ZjIyWVE0V1VQazlxLTlHd1VQOUNpMVVWMkZXNG9SQWNDYmROMGhwSDhiTUs3clIwdDM3U25FQ0haN0FXNlM5VXpSLWlMUzlVVGF2S1NsQmx5QlhFMnFFVFFxNE5BR0VuN0xodEhTUE12WGxBWkFvb1pCVmlZRk1vUmU5MktWU1RveFYzWmFranBfNERrYzhjQlEwVTNDM2JsN2E2QUl6ZWVNZ01FeHoxdi1aQmdCYkJkR1pQZw?oc=5\" target=\"_blank\">台灣半導體因為有這些價值 邱銘乾：所以不是靠政府突然說要砸大錢就可以成功</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
+      "source_name": "Yahoo新聞",
+      "source_url": "https://tw.news.yahoo.com"
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "大摩力挺！輝達重回半導體「首選股」寶座 目標價上看300美元 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQR1lPRkt5b0ljVWR4VGNaVXdqd3d1Q1AxSkRxZHYwQkd1ZXgzbVRqZWkxckFNQlBPaGl3bkJGYmtVTVRBdzk5Snh3Q1I3WGdtbmluZ2lzaTh1cFEtaDZaZEktNGpoclk1YW9La3U4cjRRazV0QVE3YVhrR0ZPOFI1SURfUHRtcnJ6bk9vRnY4QUJsYlFyVmQ0VVp5OHRDaXJvVkRzeUFadzg2dHk4VnctampGbXk2c0JjamJUdXpDaVlWLTd1YWdfRGhFdmI0c3FDTEZQSDRYNDNZMVJ1TU5ycmtQS3Y0MU8wSjJRUjJ4MXNaTjBVX2xtdDNzWHhRVW5KZ3lmX05MTC1ORi1XcnlHU2ZXMnByYkxMbkZKWTRUSW1idDhWcW1uQTFFOVg0VE5uOWFMd3Z5THUybElfU05HOXlHeVJzSHdOVzRUd1lqQmJ2YjQ0UUh4YTJZOEdSbWxiRDQyX3N1VzZMMnpPakprUA?oc=5",
-      "guid": "CBMi8AJBVV95cUxQR1lPRkt5b0ljVWR4VGNaVXdqd3d1Q1AxSkRxZHYwQkd1ZXgzbVRqZWkxckFNQlBPaGl3bkJGYmtVTVRBdzk5Snh3Q1I3WGdtbmluZ2lzaTh1cFEtaDZaZEktNGpoclk1YW9La3U4cjRRazV0QVE3YVhrR0ZPOFI1SURfUHRtcnJ6bk9vRnY4QUJsYlFyVmQ0VVp5OHRDaXJvVkRzeUFadzg2dHk4VnctampGbXk2c0JjamJUdXpDaVlWLTd1YWdfRGhFdmI0c3FDTEZQSDRYNDNZMVJ1TU5ycmtQS3Y0MU8wSjJRUjJ4MXNaTjBVX2xtdDNzWHhRVW5KZ3lmX05MTC1ORi1XcnlHU2ZXMnByYkxMbkZKWTRUSW1idDhWcW1uQTFFOVg0VE5uOWFMd3Z5THUybElfU05HOXlHeVJzSHdOVzRUd1lqQmJ2YjQ0UUh4YTJZOEdSbWxiRDQyX3N1VzZMMnpPakprUA",
-      "pub_date": "Mon, 05 Oct 2026 22:41:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AJBVV95cUxQR1lPRkt5b0ljVWR4VGNaVXdqd3d1Q1AxSkRxZHYwQkd1ZXgzbVRqZWkxckFNQlBPaGl3bkJGYmtVTVRBdzk5Snh3Q1I3WGdtbmluZ2lzaTh1cFEtaDZaZEktNGpoclk1YW9La3U4cjRRazV0QVE3YVhrR0ZPOFI1SURfUHRtcnJ6bk9vRnY4QUJsYlFyVmQ0VVp5OHRDaXJvVkRzeUFadzg2dHk4VnctampGbXk2c0JjamJUdXpDaVlWLTd1YWdfRGhFdmI0c3FDTEZQSDRYNDNZMVJ1TU5ycmtQS3Y0MU8wSjJRUjJ4MXNaTjBVX2xtdDNzWHhRVW5KZ3lmX05MTC1ORi1XcnlHU2ZXMnByYkxMbkZKWTRUSW1idDhWcW1uQTFFOVg0VE5uOWFMd3Z5THUybElfU05HOXlHeVJzSHdOVzRUd1lqQmJ2YjQ0UUh4YTJZOEdSbWxiRDQyX3N1VzZMMnpPakprUA?oc=5\" target=\"_blank\">大摩力挺！輝達重回半導體「首選股」寶座 目標價上看300美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
-      "source_name": "Yahoo新聞",
-      "source_url": "https://tw.news.yahoo.com"
+      "title": "輝達創歷史新高 鴻海AI伺服器需求強勁助攻 - cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw?oc=5",
+      "guid": "CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw",
+      "pub_date": "Mon, 05 Oct 2026 22:31:17 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw?oc=5\" target=\"_blank\">輝達創歷史新高 鴻海AI伺服器需求強勁助攻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnyes.com</font>",
+      "source_name": "cnyes.com",
+      "source_url": "https://m.cnyes.com"
     },
     {
       "query": "半導體 OR AI伺服器",
@@ -2142,12 +2142,12 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "光電半導體論壇展現科技女力- 商情 - 工商時報",
+      "title": "光電半導體論壇展現科技女力- 商情 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oRVFwWmtxZkFuWHB6d2NiSjZabGV2S3pTQk9jemFKVklIdmoxMnhpUVpsQlRXSm93bFJkM1RUbE0xWlIyM1VWOHp3b1VybHpWdy1sUmoxVUhxekpka0dZ?oc=5",
       "guid": "CBMiX0FVX3lxTE5oRVFwWmtxZkFuWHB6d2NiSjZabGV2S3pTQk9jemFKVklIdmoxMnhpUVpsQlRXSm93bFJkM1RUbE0xWlIyM1VWOHp3b1VybHpWdy1sUmoxVUhxekpka0dZ",
       "pub_date": "Mon, 05 Oct 2026 13:11:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oRVFwWmtxZkFuWHB6d2NiSjZabGV2S3pTQk9jemFKVklIdmoxMnhpUVpsQlRXSm93bFJkM1RUbE0xWlIyM1VWOHp3b1VybHpWdy1sUmoxVUhxekpka0dZ?oc=5\" target=\"_blank\">光電半導體論壇展現科技女力- 商情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oRVFwWmtxZkFuWHB6d2NiSjZabGV2S3pTQk9jemFKVklIdmoxMnhpUVpsQlRXSm93bFJkM1RUbE0xWlIyM1VWOHp3b1VybHpWdy1sUmoxVUhxekpka0dZ?oc=5\" target=\"_blank\">光電半導體論壇展現科技女力- 商情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -2162,11 +2162,11 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "功率半導體掀漲價潮 國際大廠帶頭喊上看15%！「它」目標價喊出205元 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPcjJ1cWhwb3Nsa001WmJFaG1BMUF1a0NXNThJVnlmTzdRWDVBUDFuZ3J5ZVhKYktvN1JDLUhkVVNrTnBubURJaE41WUNWakVSODd1WDY5X3Q5NUZFdmNtMnpGR1Z3T0o1cVJ3VG9ZdXFGb0o0NGN4ZHhzVkNNMG5kNFNIcVlnNGEyVU1ueThkZDlpYWplSkY0TVBFRFRseHRZUy1yN1hpc0VwdTJKdm5rbDI0SFFSS2Y1NzNHUG5vdzhUQVM5b19oaWtJTkhfVk93VzdXdW9LYmo3dElWSVBFcUlvbkVuOEZtY01YNGozY1kxVlhLZWI4a3MzVXJmaXd5enN4SElVRHBQZUY4QW9BYUJ0RjgybjJkTVpGUmdIRFpkV3lmdnJpbVhrYUNwQWE4UUhvelR0Y2R5azg4R05ncUZvNG04V25xcThGTG1TbFlBeVg5SWNiU2lNc2VhTDNpVkhFQk1fZ19VSnNCQnpaR2JkUGplb1FnODdVX1lOU3p0cDdMajNDVDF3?oc=5",
-      "guid": "CBMiigNBVV95cUxPcjJ1cWhwb3Nsa001WmJFaG1BMUF1a0NXNThJVnlmTzdRWDVBUDFuZ3J5ZVhKYktvN1JDLUhkVVNrTnBubURJaE41WUNWakVSODd1WDY5X3Q5NUZFdmNtMnpGR1Z3T0o1cVJ3VG9ZdXFGb0o0NGN4ZHhzVkNNMG5kNFNIcVlnNGEyVU1ueThkZDlpYWplSkY0TVBFRFRseHRZUy1yN1hpc0VwdTJKdm5rbDI0SFFSS2Y1NzNHUG5vdzhUQVM5b19oaWtJTkhfVk93VzdXdW9LYmo3dElWSVBFcUlvbkVuOEZtY01YNGozY1kxVlhLZWI4a3MzVXJmaXd5enN4SElVRHBQZUY4QW9BYUJ0RjgybjJkTVpGUmdIRFpkV3lmdnJpbVhrYUNwQWE4UUhvelR0Y2R5azg4R05ncUZvNG04V25xcThGTG1TbFlBeVg5SWNiU2lNc2VhTDNpVkhFQk1fZ19VSnNCQnpaR2JkUGplb1FnODdVX1lOU3p0cDdMajNDVDF3",
-      "pub_date": "Mon, 05 Oct 2026 18:35:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxPcjJ1cWhwb3Nsa001WmJFaG1BMUF1a0NXNThJVnlmTzdRWDVBUDFuZ3J5ZVhKYktvN1JDLUhkVVNrTnBubURJaE41WUNWakVSODd1WDY5X3Q5NUZFdmNtMnpGR1Z3T0o1cVJ3VG9ZdXFGb0o0NGN4ZHhzVkNNMG5kNFNIcVlnNGEyVU1ueThkZDlpYWplSkY0TVBFRFRseHRZUy1yN1hpc0VwdTJKdm5rbDI0SFFSS2Y1NzNHUG5vdzhUQVM5b19oaWtJTkhfVk93VzdXdW9LYmo3dElWSVBFcUlvbkVuOEZtY01YNGozY1kxVlhLZWI4a3MzVXJmaXd5enN4SElVRHBQZUY4QW9BYUJ0RjgybjJkTVpGUmdIRFpkV3lmdnJpbVhrYUNwQWE4UUhvelR0Y2R5azg4R05ncUZvNG04V25xcThGTG1TbFlBeVg5SWNiU2lNc2VhTDNpVkhFQk1fZ19VSnNCQnpaR2JkUGplb1FnODdVX1lOU3p0cDdMajNDVDF3?oc=5\" target=\"_blank\">功率半導體掀漲價潮 國際大廠帶頭喊上看15%！「它」目標價喊出205元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
+      "title": "大摩力挺！輝達重回半導體「首選股」寶座 目標價上看300美元 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQR1lPRkt5b0ljVWR4VGNaVXdqd3d1Q1AxSkRxZHYwQkd1ZXgzbVRqZWkxckFNQlBPaGl3bkJGYmtVTVRBdzk5Snh3Q1I3WGdtbmluZ2lzaTh1cFEtaDZaZEktNGpoclk1YW9La3U4cjRRazV0QVE3YVhrR0ZPOFI1SURfUHRtcnJ6bk9vRnY4QUJsYlFyVmQ0VVp5OHRDaXJvVkRzeUFadzg2dHk4VnctampGbXk2c0JjamJUdXpDaVlWLTd1YWdfRGhFdmI0c3FDTEZQSDRYNDNZMVJ1TU5ycmtQS3Y0MU8wSjJRUjJ4MXNaTjBVX2xtdDNzWHhRVW5KZ3lmX05MTC1ORi1XcnlHU2ZXMnByYkxMbkZKWTRUSW1idDhWcW1uQTFFOVg0VE5uOWFMd3Z5THUybElfU05HOXlHeVJzSHdOVzRUd1lqQmJ2YjQ0UUh4YTJZOEdSbWxiRDQyX3N1VzZMMnpPakprUA?oc=5",
+      "guid": "CBMi8AJBVV95cUxQR1lPRkt5b0ljVWR4VGNaVXdqd3d1Q1AxSkRxZHYwQkd1ZXgzbVRqZWkxckFNQlBPaGl3bkJGYmtVTVRBdzk5Snh3Q1I3WGdtbmluZ2lzaTh1cFEtaDZaZEktNGpoclk1YW9La3U4cjRRazV0QVE3YVhrR0ZPOFI1SURfUHRtcnJ6bk9vRnY4QUJsYlFyVmQ0VVp5OHRDaXJvVkRzeUFadzg2dHk4VnctampGbXk2c0JjamJUdXpDaVlWLTd1YWdfRGhFdmI0c3FDTEZQSDRYNDNZMVJ1TU5ycmtQS3Y0MU8wSjJRUjJ4MXNaTjBVX2xtdDNzWHhRVW5KZ3lmX05MTC1ORi1XcnlHU2ZXMnByYkxMbkZKWTRUSW1idDhWcW1uQTFFOVg0VE5uOWFMd3Z5THUybElfU05HOXlHeVJzSHdOVzRUd1lqQmJ2YjQ0UUh4YTJZOEdSbWxiRDQyX3N1VzZMMnpPakprUA",
+      "pub_date": "Mon, 05 Oct 2026 22:41:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi8AJBVV95cUxQR1lPRkt5b0ljVWR4VGNaVXdqd3d1Q1AxSkRxZHYwQkd1ZXgzbVRqZWkxckFNQlBPaGl3bkJGYmtVTVRBdzk5Snh3Q1I3WGdtbmluZ2lzaTh1cFEtaDZaZEktNGpoclk1YW9La3U4cjRRazV0QVE3YVhrR0ZPOFI1SURfUHRtcnJ6bk9vRnY4QUJsYlFyVmQ0VVp5OHRDaXJvVkRzeUFadzg2dHk4VnctampGbXk2c0JjamJUdXpDaVlWLTd1YWdfRGhFdmI0c3FDTEZQSDRYNDNZMVJ1TU5ycmtQS3Y0MU8wSjJRUjJ4MXNaTjBVX2xtdDNzWHhRVW5KZ3lmX05MTC1ORi1XcnlHU2ZXMnByYkxMbkZKWTRUSW1idDhWcW1uQTFFOVg0VE5uOWFMd3Z5THUybElfU05HOXlHeVJzSHdOVzRUd1lqQmJ2YjQ0UUh4YTJZOEdSbWxiRDQyX3N1VzZMMnpPakprUA?oc=5\" target=\"_blank\">大摩力挺！輝達重回半導體「首選股」寶座 目標價上看300美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
       "source_name": "Yahoo新聞",
       "source_url": "https://tw.news.yahoo.com"
     },
@@ -2182,13 +2182,13 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "日本半導體國家隊強碰台積電Rapidus攜手17大咖搶訂單| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04N1Y4QmtiWFJuSVYtdS14NkFLcDRpbHd0c214RlByUHNIV3Q2UmtJUTREbzlFWklYaWxiaXVCRV9PcGVUdWNqVlZUcmx4bTlC?oc=5",
-      "guid": "CBMiUEFVX3lxTE04N1Y4QmtiWFJuSVYtdS14NkFLcDRpbHd0c214RlByUHNIV3Q2UmtJUTREbzlFWklYaWxiaXVCRV9PcGVUdWNqVlZUcmx4bTlC",
-      "pub_date": "Mon, 05 Oct 2026 18:31:57 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE04N1Y4QmtiWFJuSVYtdS14NkFLcDRpbHd0c214RlByUHNIV3Q2UmtJUTREbzlFWklYaWxiaXVCRV9PcGVUdWNqVlZUcmx4bTlC?oc=5\" target=\"_blank\">日本半導體國家隊強碰台積電Rapidus攜手17大咖搶訂單| 全球財經| 全球</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UDN</font>",
-      "source_name": "UDN",
-      "source_url": "https://udn.com"
+      "title": "功率半導體掀漲價潮 國際大廠帶頭喊上看15%！「它」目標價喊出205元 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPcjJ1cWhwb3Nsa001WmJFaG1BMUF1a0NXNThJVnlmTzdRWDVBUDFuZ3J5ZVhKYktvN1JDLUhkVVNrTnBubURJaE41WUNWakVSODd1WDY5X3Q5NUZFdmNtMnpGR1Z3T0o1cVJ3VG9ZdXFGb0o0NGN4ZHhzVkNNMG5kNFNIcVlnNGEyVU1ueThkZDlpYWplSkY0TVBFRFRseHRZUy1yN1hpc0VwdTJKdm5rbDI0SFFSS2Y1NzNHUG5vdzhUQVM5b19oaWtJTkhfVk93VzdXdW9LYmo3dElWSVBFcUlvbkVuOEZtY01YNGozY1kxVlhLZWI4a3MzVXJmaXd5enN4SElVRHBQZUY4QW9BYUJ0RjgybjJkTVpGUmdIRFpkV3lmdnJpbVhrYUNwQWE4UUhvelR0Y2R5azg4R05ncUZvNG04V25xcThGTG1TbFlBeVg5SWNiU2lNc2VhTDNpVkhFQk1fZ19VSnNCQnpaR2JkUGplb1FnODdVX1lOU3p0cDdMajNDVDF3?oc=5",
+      "guid": "CBMiigNBVV95cUxPcjJ1cWhwb3Nsa001WmJFaG1BMUF1a0NXNThJVnlmTzdRWDVBUDFuZ3J5ZVhKYktvN1JDLUhkVVNrTnBubURJaE41WUNWakVSODd1WDY5X3Q5NUZFdmNtMnpGR1Z3T0o1cVJ3VG9ZdXFGb0o0NGN4ZHhzVkNNMG5kNFNIcVlnNGEyVU1ueThkZDlpYWplSkY0TVBFRFRseHRZUy1yN1hpc0VwdTJKdm5rbDI0SFFSS2Y1NzNHUG5vdzhUQVM5b19oaWtJTkhfVk93VzdXdW9LYmo3dElWSVBFcUlvbkVuOEZtY01YNGozY1kxVlhLZWI4a3MzVXJmaXd5enN4SElVRHBQZUY4QW9BYUJ0RjgybjJkTVpGUmdIRFpkV3lmdnJpbVhrYUNwQWE4UUhvelR0Y2R5azg4R05ncUZvNG04V25xcThGTG1TbFlBeVg5SWNiU2lNc2VhTDNpVkhFQk1fZ19VSnNCQnpaR2JkUGplb1FnODdVX1lOU3p0cDdMajNDVDF3",
+      "pub_date": "Mon, 05 Oct 2026 18:35:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiigNBVV95cUxPcjJ1cWhwb3Nsa001WmJFaG1BMUF1a0NXNThJVnlmTzdRWDVBUDFuZ3J5ZVhKYktvN1JDLUhkVVNrTnBubURJaE41WUNWakVSODd1WDY5X3Q5NUZFdmNtMnpGR1Z3T0o1cVJ3VG9ZdXFGb0o0NGN4ZHhzVkNNMG5kNFNIcVlnNGEyVU1ueThkZDlpYWplSkY0TVBFRFRseHRZUy1yN1hpc0VwdTJKdm5rbDI0SFFSS2Y1NzNHUG5vdzhUQVM5b19oaWtJTkhfVk93VzdXdW9LYmo3dElWSVBFcUlvbkVuOEZtY01YNGozY1kxVlhLZWI4a3MzVXJmaXd5enN4SElVRHBQZUY4QW9BYUJ0RjgybjJkTVpGUmdIRFpkV3lmdnJpbVhrYUNwQWE4UUhvelR0Y2R5azg4R05ncUZvNG04V25xcThGTG1TbFlBeVg5SWNiU2lNc2VhTDNpVkhFQk1fZ19VSnNCQnpaR2JkUGplb1FnODdVX1lOU3p0cDdMajNDVDF3?oc=5\" target=\"_blank\">功率半導體掀漲價潮 國際大廠帶頭喊上看15%！「它」目標價喊出205元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
+      "source_name": "Yahoo新聞",
+      "source_url": "https://tw.news.yahoo.com"
     },
     {
       "query": "半導體 OR AI伺服器",
@@ -2242,6 +2242,16 @@
     },
     {
       "query": "半導體 OR AI伺服器",
+      "title": "日本半導體國家隊強碰台積電Rapidus攜手17大咖搶訂單| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04N1Y4QmtiWFJuSVYtdS14NkFLcDRpbHd0c214RlByUHNIV3Q2UmtJUTREbzlFWklYaWxiaXVCRV9PcGVUdWNqVlZUcmx4bTlC?oc=5",
+      "guid": "CBMiUEFVX3lxTE04N1Y4QmtiWFJuSVYtdS14NkFLcDRpbHd0c214RlByUHNIV3Q2UmtJUTREbzlFWklYaWxiaXVCRV9PcGVUdWNqVlZUcmx4bTlC",
+      "pub_date": "Mon, 05 Oct 2026 18:31:57 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE04N1Y4QmtiWFJuSVYtdS14NkFLcDRpbHd0c214RlByUHNIV3Q2UmtJUTREbzlFWklYaWxiaXVCRV9PcGVUdWNqVlZUcmx4bTlC?oc=5\" target=\"_blank\">日本半導體國家隊強碰台積電Rapidus攜手17大咖搶訂單| 全球財經| 全球</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UDN</font>",
+      "source_name": "UDN",
+      "source_url": "https://udn.com"
+    },
+    {
+      "query": "半導體 OR AI伺服器",
       "title": "點名台積電！外媒曝必抱「2檔」長期投資 半導體關鍵命脈難被取代 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZOVFwREpjM09JR2FaQzlqY3UyZWxvdEFhamVhVGpIU213VUFmcUEyUnZZYk1CU0VFTUZpelJIc1FGZXZRVFpRTmdncndDQ3FsZXFVd1hmeW1SREhmVHV30gFkQVVfeXFMTmxOYzNaYkxTd0VvMzJTNkVWaTZLbHhjSTlpZ2FFa3RYU0JDX1gxMEMtNlhXdXRGTEZoeUJxWG1mY3NpZnA3bHRaeEVnamRTOXdza2hjVk1VcTdlUGh3SUJIVHYwSQ?oc=5",
       "guid": "CBMiX0FVX3lxTE1ZOVFwREpjM09JR2FaQzlqY3UyZWxvdEFhamVhVGpIU213VUFmcUEyUnZZYk1CU0VFTUZpelJIc1FGZXZRVFpRTmdncndDQ3FsZXFVd1hmeW1SREhmVHV30gFkQVVfeXFMTmxOYzNaYkxTd0VvMzJTNkVWaTZLbHhjSTlpZ2FFa3RYU0JDX1gxMEMtNlhXdXRGTEZoeUJxWG1mY3NpZnA3bHRaeEVnamRTOXdza2hjVk1VcTdlUGh3SUJIVHYwSQ",
@@ -2272,12 +2282,12 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "經部：2026年電子及半導體生產用機械設備業產值可望續創新高- 要聞 - 工商時報",
+      "title": "經部：2026年電子及半導體生產用機械設備業產值可望續創新高- 要聞 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FZ0xUN0U2UHc5aV9KTF9qSkZTYk1NNFQzZ2JBWjVjRnNyWHdTalpaTGhjcVBRQ2pyZFJ4Wkl5UVMzalR4am1UWUN6UUNjMno2S3E4aktydF9xbEVKaDF3?oc=5",
       "guid": "CBMiX0FVX3lxTE9FZ0xUN0U2UHc5aV9KTF9qSkZTYk1NNFQzZ2JBWjVjRnNyWHdTalpaTGhjcVBRQ2pyZFJ4Wkl5UVMzalR4am1UWUN6UUNjMno2S3E4aktydF9xbEVKaDF3",
       "pub_date": "Mon, 05 Oct 2026 10:03:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FZ0xUN0U2UHc5aV9KTF9qSkZTYk1NNFQzZ2JBWjVjRnNyWHdTalpaTGhjcVBRQ2pyZFJ4Wkl5UVMzalR4am1UWUN6UUNjMno2S3E4aktydF9xbEVKaDF3?oc=5\" target=\"_blank\">經部：2026年電子及半導體生產用機械設備業產值可望續創新高- 要聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FZ0xUN0U2UHc5aV9KTF9qSkZTYk1NNFQzZ2JBWjVjRnNyWHdTalpaTGhjcVBRQ2pyZFJ4Wkl5UVMzalR4am1UWUN6UUNjMno2S3E4aktydF9xbEVKaDF3?oc=5\" target=\"_blank\">經部：2026年電子及半導體生產用機械設備業產值可望續創新高- 要聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -2402,16 +2412,6 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "半導體擴廠帶旺2／大易橙跟著客戶打天下 見證AI電力需求刺激銅價飆升 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQTHNZZngweHlKTlB2MURJWDFxZll2cTRvWGRJcHhIajNCWF9GODE1dDFPbl8zZjRGcUxXRnlqS0dwRFpIVHE2c1d6SEpmTUI4QnR6OEwteGp0cUhXaVNydlE5YWFZTzJmdXpJQzd3V2ZHY1AyRVFJamZLdDRKZGtpOWNrX2YtNGhzMktDV1Z2dU1pcHVIR3F2cnNMNWt4Ync5dDhrNU1FcGZZZXdCVEFKeWlPU1Z2VWx1VmVPVzJWYUQzc2pPa29nb0Z1OTh0OUpHZHJWZXYtNWRvRmJRa0ZNMEJRRWsyTk9CTFdUcC1JTnVaZjRnem1iREVqZzMzTTJXOVAwSHFteU9kZlFUM0RKRGlibUo5Z0NLeVlNUG9PVVF2V19Bd3pwZXdLRFF5ZEhiNHNaNEhoRlRXSWY4N3VQbEpGT0dxb0k5ZDhyb3hqb2VZUnJyaDZFQ2F3T0pCM1JVZ21DMHljakRrYjFhRS1ZNGgySjZlOXRzM3VEYkhfMlFOSHlNQ0dlRHRnWEw2c3VfREYzRzFjV2F4cmR0Y0VhM0pyeGJTUGg5Y0NQcWxZWkIzQ2Q1aWc?oc=5",
-      "guid": "CBMitgNBVV95cUxQTHNZZngweHlKTlB2MURJWDFxZll2cTRvWGRJcHhIajNCWF9GODE1dDFPbl8zZjRGcUxXRnlqS0dwRFpIVHE2c1d6SEpmTUI4QnR6OEwteGp0cUhXaVNydlE5YWFZTzJmdXpJQzd3V2ZHY1AyRVFJamZLdDRKZGtpOWNrX2YtNGhzMktDV1Z2dU1pcHVIR3F2cnNMNWt4Ync5dDhrNU1FcGZZZXdCVEFKeWlPU1Z2VWx1VmVPVzJWYUQzc2pPa29nb0Z1OTh0OUpHZHJWZXYtNWRvRmJRa0ZNMEJRRWsyTk9CTFdUcC1JTnVaZjRnem1iREVqZzMzTTJXOVAwSHFteU9kZlFUM0RKRGlibUo5Z0NLeVlNUG9PVVF2V19Bd3pwZXdLRFF5ZEhiNHNaNEhoRlRXSWY4N3VQbEpGT0dxb0k5ZDhyb3hqb2VZUnJyaDZFQ2F3T0pCM1JVZ21DMHljakRrYjFhRS1ZNGgySjZlOXRzM3VEYkhfMlFOSHlNQ0dlRHRnWEw2c3VfREYzRzFjV2F4cmR0Y0VhM0pyeGJTUGg5Y0NQcWxZWkIzQ2Q1aWc",
-      "pub_date": "Mon, 05 Oct 2026 11:55:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgNBVV95cUxQTHNZZngweHlKTlB2MURJWDFxZll2cTRvWGRJcHhIajNCWF9GODE1dDFPbl8zZjRGcUxXRnlqS0dwRFpIVHE2c1d6SEpmTUI4QnR6OEwteGp0cUhXaVNydlE5YWFZTzJmdXpJQzd3V2ZHY1AyRVFJamZLdDRKZGtpOWNrX2YtNGhzMktDV1Z2dU1pcHVIR3F2cnNMNWt4Ync5dDhrNU1FcGZZZXdCVEFKeWlPU1Z2VWx1VmVPVzJWYUQzc2pPa29nb0Z1OTh0OUpHZHJWZXYtNWRvRmJRa0ZNMEJRRWsyTk9CTFdUcC1JTnVaZjRnem1iREVqZzMzTTJXOVAwSHFteU9kZlFUM0RKRGlibUo5Z0NLeVlNUG9PVVF2V19Bd3pwZXdLRFF5ZEhiNHNaNEhoRlRXSWY4N3VQbEpGT0dxb0k5ZDhyb3hqb2VZUnJyaDZFQ2F3T0pCM1JVZ21DMHljakRrYjFhRS1ZNGgySjZlOXRzM3VEYkhfMlFOSHlNQ0dlRHRnWEw2c3VfREYzRzFjV2F4cmR0Y0VhM0pyeGJTUGg5Y0NQcWxZWkIzQ2Q1aWc?oc=5\" target=\"_blank\">半導體擴廠帶旺2／大易橙跟著客戶打天下 見證AI電力需求刺激銅價飆升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
-      "source_name": "Yahoo新聞",
-      "source_url": "https://tw.news.yahoo.com"
-    },
-    {
-      "query": "半導體 OR AI伺服器",
       "title": "中美半導體戰再開新線、答案卻不是晶片 ! 中國這次盯上的東西「你幾乎看不見」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91N3pQcE04LXBNZHozbDNraWdhdTVzTlY0Y2tfbVctSjhVNUFNOTNtYlI4UXh5bzV4bkpLdUVHWHBFeVBSVVp2ZVFJZ2MyeWJ5Zlc0OFh1ZlpsM0JnS1pJ0gFkQVVfeXFMT0VVZnA2OUlyNjhMc2N1bEpTTi1tWjdQdDJuWEx4ZWxsWVR3ZDBNZkJxRDEtUmg5OGRLNEswZTljT3UxSGV2dWNrSWpPZWlyakJjOXA1ZnJVNHQ3cDU2ajV5X3Zldw?oc=5",
       "guid": "CBMiX0FVX3lxTE91N3pQcE04LXBNZHozbDNraWdhdTVzTlY0Y2tfbVctSjhVNUFNOTNtYlI4UXh5bzV4bkpLdUVHWHBFeVBSVVp2ZVFJZ2MyeWJ5Zlc0OFh1ZlpsM0JnS1pJ0gFkQVVfeXFMT0VVZnA2OUlyNjhMc2N1bEpTTi1tWjdQdDJuWEx4ZWxsWVR3ZDBNZkJxRDEtUmg5OGRLNEswZTljT3UxSGV2dWNrSWpPZWlyakJjOXA1ZnJVNHQ3cDU2ajV5X3Zldw",
@@ -2419,6 +2419,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE91N3pQcE04LXBNZHozbDNraWdhdTVzTlY0Y2tfbVctSjhVNUFNOTNtYlI4UXh5bzV4bkpLdUVHWHBFeVBSVVp2ZVFJZ2MyeWJ5Zlc0OFh1ZlpsM0JnS1pJ0gFkQVVfeXFMT0VVZnA2OUlyNjhMc2N1bEpTTi1tWjdQdDJuWEx4ZWxsWVR3ZDBNZkJxRDEtUmg5OGRLNEswZTljT3UxSGV2dWNrSWpPZWlyakJjOXA1ZnJVNHQ3cDU2ajV5X3Zldw?oc=5\" target=\"_blank\">中美半導體戰再開新線、答案卻不是晶片 ! 中國這次盯上的東西「你幾乎看不見」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">自由財經</font>",
       "source_name": "自由財經",
       "source_url": "https://ec.ltn.com.tw"
+    },
+    {
+      "query": "半導體 OR AI伺服器",
+      "title": "半導體擴廠帶旺2／大易橙跟著客戶打天下 見證AI電力需求刺激銅價飆升 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQTHNZZngweHlKTlB2MURJWDFxZll2cTRvWGRJcHhIajNCWF9GODE1dDFPbl8zZjRGcUxXRnlqS0dwRFpIVHE2c1d6SEpmTUI4QnR6OEwteGp0cUhXaVNydlE5YWFZTzJmdXpJQzd3V2ZHY1AyRVFJamZLdDRKZGtpOWNrX2YtNGhzMktDV1Z2dU1pcHVIR3F2cnNMNWt4Ync5dDhrNU1FcGZZZXdCVEFKeWlPU1Z2VWx1VmVPVzJWYUQzc2pPa29nb0Z1OTh0OUpHZHJWZXYtNWRvRmJRa0ZNMEJRRWsyTk9CTFdUcC1JTnVaZjRnem1iREVqZzMzTTJXOVAwSHFteU9kZlFUM0RKRGlibUo5Z0NLeVlNUG9PVVF2V19Bd3pwZXdLRFF5ZEhiNHNaNEhoRlRXSWY4N3VQbEpGT0dxb0k5ZDhyb3hqb2VZUnJyaDZFQ2F3T0pCM1JVZ21DMHljakRrYjFhRS1ZNGgySjZlOXRzM3VEYkhfMlFOSHlNQ0dlRHRnWEw2c3VfREYzRzFjV2F4cmR0Y0VhM0pyeGJTUGg5Y0NQcWxZWkIzQ2Q1aWc?oc=5",
+      "guid": "CBMitgNBVV95cUxQTHNZZngweHlKTlB2MURJWDFxZll2cTRvWGRJcHhIajNCWF9GODE1dDFPbl8zZjRGcUxXRnlqS0dwRFpIVHE2c1d6SEpmTUI4QnR6OEwteGp0cUhXaVNydlE5YWFZTzJmdXpJQzd3V2ZHY1AyRVFJamZLdDRKZGtpOWNrX2YtNGhzMktDV1Z2dU1pcHVIR3F2cnNMNWt4Ync5dDhrNU1FcGZZZXdCVEFKeWlPU1Z2VWx1VmVPVzJWYUQzc2pPa29nb0Z1OTh0OUpHZHJWZXYtNWRvRmJRa0ZNMEJRRWsyTk9CTFdUcC1JTnVaZjRnem1iREVqZzMzTTJXOVAwSHFteU9kZlFUM0RKRGlibUo5Z0NLeVlNUG9PVVF2V19Bd3pwZXdLRFF5ZEhiNHNaNEhoRlRXSWY4N3VQbEpGT0dxb0k5ZDhyb3hqb2VZUnJyaDZFQ2F3T0pCM1JVZ21DMHljakRrYjFhRS1ZNGgySjZlOXRzM3VEYkhfMlFOSHlNQ0dlRHRnWEw2c3VfREYzRzFjV2F4cmR0Y0VhM0pyeGJTUGg5Y0NQcWxZWkIzQ2Q1aWc",
+      "pub_date": "Mon, 05 Oct 2026 11:55:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMitgNBVV95cUxQTHNZZngweHlKTlB2MURJWDFxZll2cTRvWGRJcHhIajNCWF9GODE1dDFPbl8zZjRGcUxXRnlqS0dwRFpIVHE2c1d6SEpmTUI4QnR6OEwteGp0cUhXaVNydlE5YWFZTzJmdXpJQzd3V2ZHY1AyRVFJamZLdDRKZGtpOWNrX2YtNGhzMktDV1Z2dU1pcHVIR3F2cnNMNWt4Ync5dDhrNU1FcGZZZXdCVEFKeWlPU1Z2VWx1VmVPVzJWYUQzc2pPa29nb0Z1OTh0OUpHZHJWZXYtNWRvRmJRa0ZNMEJRRWsyTk9CTFdUcC1JTnVaZjRnem1iREVqZzMzTTJXOVAwSHFteU9kZlFUM0RKRGlibUo5Z0NLeVlNUG9PVVF2V19Bd3pwZXdLRFF5ZEhiNHNaNEhoRlRXSWY4N3VQbEpGT0dxb0k5ZDhyb3hqb2VZUnJyaDZFQ2F3T0pCM1JVZ21DMHljakRrYjFhRS1ZNGgySjZlOXRzM3VEYkhfMlFOSHlNQ0dlRHRnWEw2c3VfREYzRzFjV2F4cmR0Y0VhM0pyeGJTUGg5Y0NQcWxZWkIzQ2Q1aWc?oc=5\" target=\"_blank\">半導體擴廠帶旺2／大易橙跟著客戶打天下 見證AI電力需求刺激銅價飆升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
+      "source_name": "Yahoo新聞",
+      "source_url": "https://tw.news.yahoo.com"
     },
     {
       "query": "半導體 OR AI伺服器",
@@ -2442,12 +2452,12 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "目標價340元！「AI伺服器大廠」EPS攻21元 輝達Vera Rubin放量營運看旺 - ftnn.com.tw",
+      "title": "目標價340元！「AI伺服器大廠」EPS攻21元 輝達Vera Rubin放量營運看旺 - FTNN",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkNWhzMWhJR1B2cnN2cldFZUtsdUZjUjloU2xOdDRNcmFkZUd4ZUtCUVl6LWpwUVNGYktPcVN0aHhHRU16M2ZaelBxVQ?oc=5",
       "guid": "CBMiS0FVX3lxTFBkNWhzMWhJR1B2cnN2cldFZUtsdUZjUjloU2xOdDRNcmFkZUd4ZUtCUVl6LWpwUVNGYktPcVN0aHhHRU16M2ZaelBxVQ",
       "pub_date": "Mon, 05 Oct 2026 13:45:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkNWhzMWhJR1B2cnN2cldFZUtsdUZjUjloU2xOdDRNcmFkZUd4ZUtCUVl6LWpwUVNGYktPcVN0aHhHRU16M2ZaelBxVQ?oc=5\" target=\"_blank\">目標價340元！「AI伺服器大廠」EPS攻21元 輝達Vera Rubin放量營運看旺</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ftnn.com.tw</font>",
-      "source_name": "ftnn.com.tw",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkNWhzMWhJR1B2cnN2cldFZUtsdUZjUjloU2xOdDRNcmFkZUd4ZUtCUVl6LWpwUVNGYktPcVN0aHhHRU16M2ZaelBxVQ?oc=5\" target=\"_blank\">目標價340元！「AI伺服器大廠」EPS攻21元 輝達Vera Rubin放量營運看旺</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTNN</font>",
+      "source_name": "FTNN",
       "source_url": "https://www.ftnn.com.tw"
     },
     {
@@ -2512,12 +2522,12 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "龍華科大半導體研究大突破技術登國際期刊並完成專利布局- 商情 - 工商時報",
+      "title": "龍華科大半導體研究大突破技術登國際期刊並完成專利布局- 商情 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDdVlLYWNINmtTSDJoSnk4NkxvT3hxenVFOU1lNGpkUGZNWGl1T0dwcWRNR1BzOHU5RDVFdWNZX1JiVWhZT2FGVlBuZmJmcnhkYVROVWlTenFuQnpCb0hr?oc=5",
       "guid": "CBMiX0FVX3lxTFBDdVlLYWNINmtTSDJoSnk4NkxvT3hxenVFOU1lNGpkUGZNWGl1T0dwcWRNR1BzOHU5RDVFdWNZX1JiVWhZT2FGVlBuZmJmcnhkYVROVWlTenFuQnpCb0hr",
       "pub_date": "Mon, 05 Oct 2026 06:56:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDdVlLYWNINmtTSDJoSnk4NkxvT3hxenVFOU1lNGpkUGZNWGl1T0dwcWRNR1BzOHU5RDVFdWNZX1JiVWhZT2FGVlBuZmJmcnhkYVROVWlTenFuQnpCb0hr?oc=5\" target=\"_blank\">龍華科大半導體研究大突破技術登國際期刊並完成專利布局- 商情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDdVlLYWNINmtTSDJoSnk4NkxvT3hxenVFOU1lNGpkUGZNWGl1T0dwcWRNR1BzOHU5RDVFdWNZX1JiVWhZT2FGVlBuZmJmcnhkYVROVWlTenFuQnpCb0hr?oc=5\" target=\"_blank\">龍華科大半導體研究大突破技術登國際期刊並完成專利布局- 商情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -2532,12 +2542,12 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "MetaOptics拓展馬來西亞市場成立全資子公司深化半導體光學布局ㄒ- 商情 - 工商時報",
+      "title": "MetaOptics拓展馬來西亞市場成立全資子公司深化半導體光學布局ㄒ- 商情 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JNFU4ejdmWmgteXJxcEkwOTBYcWJySUpEUE5XM3o1UUY4NXZKWFV6TTcxUTVadUhqRlZpY3d2anJOQWQ1TU1wZ3lMRFI1Mm1HVWpwdzNNQVBnUlducGdv?oc=5",
       "guid": "CBMiX0FVX3lxTE5JNFU4ejdmWmgteXJxcEkwOTBYcWJySUpEUE5XM3o1UUY4NXZKWFV6TTcxUTVadUhqRlZpY3d2anJOQWQ1TU1wZ3lMRFI1Mm1HVWpwdzNNQVBnUlducGdv",
       "pub_date": "Mon, 05 Oct 2026 10:16:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JNFU4ejdmWmgteXJxcEkwOTBYcWJySUpEUE5XM3o1UUY4NXZKWFV6TTcxUTVadUhqRlZpY3d2anJOQWQ1TU1wZ3lMRFI1Mm1HVWpwdzNNQVBnUlducGdv?oc=5\" target=\"_blank\">MetaOptics拓展馬來西亞市場成立全資子公司深化半導體光學布局ㄒ- 商情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JNFU4ejdmWmgteXJxcEkwOTBYcWJySUpEUE5XM3o1UUY4NXZKWFV6TTcxUTVadUhqRlZpY3d2anJOQWQ1TU1wZ3lMRFI1Mm1HVWpwdzNNQVBnUlducGdv?oc=5\" target=\"_blank\">MetaOptics拓展馬來西亞市場成立全資子公司深化半導體光學布局ㄒ- 商情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -2712,16 +2722,6 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "功率半導體掀漲價潮　國際大廠帶頭喊上看15%！「它」目標價喊出205元 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sRFhITUF4bHN0TXF6RGp3Z1Rhc05Xa0NIdG40cjJ6bjNsZU01SmFMMzItQXJqTy1LN29LeFd0N3pWQzFQQ0stSdIBTEFVX3lxTFBJWHZUVGJ5LUh1YzBrQjNzbXVuNVZZT0stLTl1a1QzazRaUG1MOUxtbV8zTnBWcXE0MTBKNzViRG4taHNKRjRIYVZteGQ?oc=5",
-      "guid": "CBMiSEFVX3lxTE1sRFhITUF4bHN0TXF6RGp3Z1Rhc05Xa0NIdG40cjJ6bjNsZU01SmFMMzItQXJqTy1LN29LeFd0N3pWQzFQQ0stSdIBTEFVX3lxTFBJWHZUVGJ5LUh1YzBrQjNzbXVuNVZZT0stLTl1a1QzazRaUG1MOUxtbV8zTnBWcXE0MTBKNzViRG4taHNKRjRIYVZteGQ",
-      "pub_date": "Mon, 05 Oct 2026 18:30:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sRFhITUF4bHN0TXF6RGp3Z1Rhc05Xa0NIdG40cjJ6bjNsZU01SmFMMzItQXJqTy1LN29LeFd0N3pWQzFQQ0stSdIBTEFVX3lxTFBJWHZUVGJ5LUh1YzBrQjNzbXVuNVZZT0stLTl1a1QzazRaUG1MOUxtbV8zTnBWcXE0MTBKNzViRG4taHNKRjRIYVZteGQ?oc=5\" target=\"_blank\">功率半導體掀漲價潮　國際大廠帶頭喊上看15%！「它」目標價喊出205元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">三立新聞網SETN.com</font>",
-      "source_name": "三立新聞網SETN.com",
-      "source_url": "https://www.setn.com"
-    },
-    {
-      "query": "半導體 OR AI伺服器",
       "title": "AI伺服器需求帶動半導體9月營收飆新高，鴻海單月狂攬破兆元創台股紀錄-財經焦點情報站 - CMoney投資網誌",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT185MHpOUHh0c2twbDJjRVk1ODc5M0xCVmNhVUFRTVlheG9LU2p6OGFjVThlM1l1ajBYclVOQ1RVeTNNMEZhdHRhRnlmSUhpZE9zcWZrakdaNWZfLXVOekRKTmZCbExWd1pSaHdjTlVickx3VzQwS0c4bVhVSEN2UGc1X2RPX0pPejZFUks3MUJIaWVnaXBLaUI0VXZzZi1zWDlFRFg5NFdNZ1ctdkt0dDdHVXMtRTV6ejdCQThIbFlveTQ?oc=5",
       "guid": "CBMiwwFBVV95cUxNT185MHpOUHh0c2twbDJjRVk1ODc5M0xCVmNhVUFRTVlheG9LU2p6OGFjVThlM1l1ajBYclVOQ1RVeTNNMEZhdHRhRnlmSUhpZE9zcWZrakdaNWZfLXVOekRKTmZCbExWd1pSaHdjTlVickx3VzQwS0c4bVhVSEN2UGc1X2RPX0pPejZFUks3MUJIaWVnaXBLaUI0VXZzZi1zWDlFRFg5NFdNZ1ctdkt0dDdHVXMtRTV6ejdCQThIbFlveTQ",
@@ -2729,6 +2729,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT185MHpOUHh0c2twbDJjRVk1ODc5M0xCVmNhVUFRTVlheG9LU2p6OGFjVThlM1l1ajBYclVOQ1RVeTNNMEZhdHRhRnlmSUhpZE9zcWZrakdaNWZfLXVOekRKTmZCbExWd1pSaHdjTlVickx3VzQwS0c4bVhVSEN2UGc1X2RPX0pPejZFUks3MUJIaWVnaXBLaUI0VXZzZi1zWDlFRFg5NFdNZ1ctdkt0dDdHVXMtRTV6ejdCQThIbFlveTQ?oc=5\" target=\"_blank\">AI伺服器需求帶動半導體9月營收飆新高，鴻海單月狂攬破兆元創台股紀錄-財經焦點情報站</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CMoney投資網誌</font>",
       "source_name": "CMoney投資網誌",
       "source_url": "https://cmnews.com.tw"
+    },
+    {
+      "query": "半導體 OR AI伺服器",
+      "title": "功率半導體掀漲價潮　國際大廠帶頭喊上看15%！「它」目標價喊出205元 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sRFhITUF4bHN0TXF6RGp3Z1Rhc05Xa0NIdG40cjJ6bjNsZU01SmFMMzItQXJqTy1LN29LeFd0N3pWQzFQQ0stSdIBTEFVX3lxTFBJWHZUVGJ5LUh1YzBrQjNzbXVuNVZZT0stLTl1a1QzazRaUG1MOUxtbV8zTnBWcXE0MTBKNzViRG4taHNKRjRIYVZteGQ?oc=5",
+      "guid": "CBMiSEFVX3lxTE1sRFhITUF4bHN0TXF6RGp3Z1Rhc05Xa0NIdG40cjJ6bjNsZU01SmFMMzItQXJqTy1LN29LeFd0N3pWQzFQQ0stSdIBTEFVX3lxTFBJWHZUVGJ5LUh1YzBrQjNzbXVuNVZZT0stLTl1a1QzazRaUG1MOUxtbV8zTnBWcXE0MTBKNzViRG4taHNKRjRIYVZteGQ",
+      "pub_date": "Mon, 05 Oct 2026 18:30:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sRFhITUF4bHN0TXF6RGp3Z1Rhc05Xa0NIdG40cjJ6bjNsZU01SmFMMzItQXJqTy1LN29LeFd0N3pWQzFQQ0stSdIBTEFVX3lxTFBJWHZUVGJ5LUh1YzBrQjNzbXVuNVZZT0stLTl1a1QzazRaUG1MOUxtbV8zTnBWcXE0MTBKNzViRG4taHNKRjRIYVZteGQ?oc=5\" target=\"_blank\">功率半導體掀漲價潮　國際大廠帶頭喊上看15%！「它」目標價喊出205元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">三立新聞網SETN.com</font>",
+      "source_name": "三立新聞網SETN.com",
+      "source_url": "https://www.setn.com"
     },
     {
       "query": "半導體 OR AI伺服器",
@@ -2982,23 +2992,13 @@
     },
     {
       "query": "半導體 OR AI伺服器",
-      "title": "歷時2個月順利填息！「半導體設備零組件廠」飆漲停創5個月新高切2奈米、CoWoS供應鏈營運續旺 - ftnn.com.tw",
+      "title": "歷時2個月順利填息！「半導體設備零組件廠」飆漲停創5個月新高切2奈米、CoWoS供應鏈營運續旺 - FTNN",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pYjZhZjdPUklXYW4zTUVmajAwVUpKTV80Y1lPQld2RTVpRWZoYjBJTW8xRmJ3X0doenI3TUNHelRMUUZQcVA4d085cw?oc=5",
       "guid": "CBMiS0FVX3lxTE9pYjZhZjdPUklXYW4zTUVmajAwVUpKTV80Y1lPQld2RTVpRWZoYjBJTW8xRmJ3X0doenI3TUNHelRMUUZQcVA4d085cw",
       "pub_date": "Mon, 05 Oct 2026 11:15:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pYjZhZjdPUklXYW4zTUVmajAwVUpKTV80Y1lPQld2RTVpRWZoYjBJTW8xRmJ3X0doenI3TUNHelRMUUZQcVA4d085cw?oc=5\" target=\"_blank\">歷時2個月順利填息！「半導體設備零組件廠」飆漲停創5個月新高切2奈米、CoWoS供應鏈營運續旺</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ftnn.com.tw</font>",
-      "source_name": "ftnn.com.tw",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pYjZhZjdPUklXYW4zTUVmajAwVUpKTV80Y1lPQld2RTVpRWZoYjBJTW8xRmJ3X0doenI3TUNHelRMUUZQcVA4d085cw?oc=5\" target=\"_blank\">歷時2個月順利填息！「半導體設備零組件廠」飆漲停創5個月新高切2奈米、CoWoS供應鏈營運續旺</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTNN</font>",
+      "source_name": "FTNN",
       "source_url": "https://www.ftnn.com.tw"
-    },
-    {
-      "query": "半導體 OR AI伺服器",
-      "title": "半導體擴產帶旺1／大易橙笑擁百億訂單在手　明年獲利營收拚倍增！ - 鏡週刊Mirror Media",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xdEJ5N19rZ0hhYlFmVURMUlRrV254bFdscGhqbVZ0dHpTZ2xVMkF1ZHNLMHFBMmFPbXdRTHM0MXllWlNlUGtSNGlvWmN6WlNQVDdmZGNkNzJJSDF2clh1ZFh1dF9lZ9IBa0FVX3lxTE1aNzBzVk14UjcyR3dCQnF1OHpoanBPcUE5WFh4ekR2cG5lSk9kNndZdUdKc0w4b2lzMTIxRVg1V0FQZVZKZ3Fvbi1ON1FILXdQTzhsaEI1dWxndy1VaUdrY0NMYzBYc21OMWEw?oc=5",
-      "guid": "CBMiZkFVX3lxTE8xdEJ5N19rZ0hhYlFmVURMUlRrV254bFdscGhqbVZ0dHpTZ2xVMkF1ZHNLMHFBMmFPbXdRTHM0MXllWlNlUGtSNGlvWmN6WlNQVDdmZGNkNzJJSDF2clh1ZFh1dF9lZ9IBa0FVX3lxTE1aNzBzVk14UjcyR3dCQnF1OHpoanBPcUE5WFh4ekR2cG5lSk9kNndZdUdKc0w4b2lzMTIxRVg1V0FQZVZKZ3Fvbi1ON1FILXdQTzhsaEI1dWxndy1VaUdrY0NMYzBYc21OMWEw",
-      "pub_date": "Mon, 05 Oct 2026 11:51:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xdEJ5N19rZ0hhYlFmVURMUlRrV254bFdscGhqbVZ0dHpTZ2xVMkF1ZHNLMHFBMmFPbXdRTHM0MXllWlNlUGtSNGlvWmN6WlNQVDdmZGNkNzJJSDF2clh1ZFh1dF9lZ9IBa0FVX3lxTE1aNzBzVk14UjcyR3dCQnF1OHpoanBPcUE5WFh4ekR2cG5lSk9kNndZdUdKc0w4b2lzMTIxRVg1V0FQZVZKZ3Fvbi1ON1FILXdQTzhsaEI1dWxndy1VaUdrY0NMYzBYc21OMWEw?oc=5\" target=\"_blank\">半導體擴產帶旺1／大易橙笑擁百億訂單在手　明年獲利營收拚倍增！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鏡週刊Mirror Media</font>",
-      "source_name": "鏡週刊Mirror Media",
-      "source_url": "https://www.mirrormedia.mg"
     },
     {
       "query": "半導體 OR AI伺服器",
@@ -3009,6 +3009,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZEtCeVUzcklyeVo5V0ZTRGRZS1V2NWFtaVZPT2xYR01sN3EtaTlLbTlOY0xTUW11ZTd2dk1wdmhPTUh2bkV6bWJsV083elJiQzE4b2RiMWkwQjBobklyX1VsNDFwRDBHY1QxWjFrNVZ2RDZydm5LUmVLNTNieVRJX25nY05IWDNVd05OeG5qNWZNZw?oc=5\" target=\"_blank\">德律9月營收年增54%，伺服器/半導體需求續強- 新聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MoneyDJ理財網</font>",
       "source_name": "MoneyDJ理財網",
       "source_url": "https://www.moneydj.com"
+    },
+    {
+      "query": "半導體 OR AI伺服器",
+      "title": "半導體擴產帶旺1／大易橙笑擁百億訂單在手　明年獲利營收拚倍增！ - 鏡週刊Mirror Media",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xdEJ5N19rZ0hhYlFmVURMUlRrV254bFdscGhqbVZ0dHpTZ2xVMkF1ZHNLMHFBMmFPbXdRTHM0MXllWlNlUGtSNGlvWmN6WlNQVDdmZGNkNzJJSDF2clh1ZFh1dF9lZ9IBa0FVX3lxTE1aNzBzVk14UjcyR3dCQnF1OHpoanBPcUE5WFh4ekR2cG5lSk9kNndZdUdKc0w4b2lzMTIxRVg1V0FQZVZKZ3Fvbi1ON1FILXdQTzhsaEI1dWxndy1VaUdrY0NMYzBYc21OMWEw?oc=5",
+      "guid": "CBMiZkFVX3lxTE8xdEJ5N19rZ0hhYlFmVURMUlRrV254bFdscGhqbVZ0dHpTZ2xVMkF1ZHNLMHFBMmFPbXdRTHM0MXllWlNlUGtSNGlvWmN6WlNQVDdmZGNkNzJJSDF2clh1ZFh1dF9lZ9IBa0FVX3lxTE1aNzBzVk14UjcyR3dCQnF1OHpoanBPcUE5WFh4ekR2cG5lSk9kNndZdUdKc0w4b2lzMTIxRVg1V0FQZVZKZ3Fvbi1ON1FILXdQTzhsaEI1dWxndy1VaUdrY0NMYzBYc21OMWEw",
+      "pub_date": "Mon, 05 Oct 2026 11:51:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xdEJ5N19rZ0hhYlFmVURMUlRrV254bFdscGhqbVZ0dHpTZ2xVMkF1ZHNLMHFBMmFPbXdRTHM0MXllWlNlUGtSNGlvWmN6WlNQVDdmZGNkNzJJSDF2clh1ZFh1dF9lZ9IBa0FVX3lxTE1aNzBzVk14UjcyR3dCQnF1OHpoanBPcUE5WFh4ekR2cG5lSk9kNndZdUdKc0w4b2lzMTIxRVg1V0FQZVZKZ3Fvbi1ON1FILXdQTzhsaEI1dWxndy1VaUdrY0NMYzBYc21OMWEw?oc=5\" target=\"_blank\">半導體擴產帶旺1／大易橙笑擁百億訂單在手　明年獲利營收拚倍增！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鏡週刊Mirror Media</font>",
+      "source_name": "鏡週刊Mirror Media",
+      "source_url": "https://www.mirrormedia.mg"
     },
     {
       "query": "半導體 OR AI伺服器",
@@ -3039,16 +3049,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjRaQUxQUjYwU3RWN2dab0xRc2FzcWFlSm5fY1pwRm9JVHZJTTk3NmdTbHFvRlA3VW1qT2JUaEpqaEppMVQ2Uk84WUsyUjdqdzg4eWR3SFpJMzk5MTVUVmo0Mmt4ZHM2WGtqSWpIbXpDLXh5N0hRYzhwX0pkR2hFMGRIcFpBaW9rZDBpeldB?oc=5\" target=\"_blank\">半導體警報響起？SOX被指重演 2000 科技泡沫、Skyworks(Qorvo)併購案添變數</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CMoney投資網誌</font>",
       "source_name": "CMoney投資網誌",
       "source_url": "https://cmnews.com.tw"
-    },
-    {
-      "query": "半導體 OR AI伺服器",
-      "title": "半導體風雲／「讓我們先動工」南亞科選屏東這話埋伏筆 - 聯合報數位版",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TdTd6blpQdVE5Z2pWend1QkV6V1VucUxxSWVndl9HZ29iV1hRV0U2V2pzaWh2UXk5RUxNNVMzWHBlRDY2RDhnVXBTVU8zbGxYMVBqeVp5aw?oc=5",
-      "guid": "CBMiV0FVX3lxTE1TdTd6blpQdVE5Z2pWend1QkV6V1VucUxxSWVndl9HZ29iV1hRV0U2V2pzaWh2UXk5RUxNNVMzWHBlRDY2RDhnVXBTVU8zbGxYMVBqeVp5aw",
-      "pub_date": "Fri, 02 Oct 2026 03:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TdTd6blpQdVE5Z2pWend1QkV6V1VucUxxSWVndl9HZ29iV1hRV0U2V2pzaWh2UXk5RUxNNVMzWHBlRDY2RDhnVXBTVU8zbGxYMVBqeVp5aw?oc=5\" target=\"_blank\">半導體風雲／「讓我們先動工」南亞科選屏東這話埋伏筆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">聯合報數位版</font>",
-      "source_name": "聯合報數位版",
-      "source_url": "https://vip.udn.com"
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
@@ -3132,12 +3132,12 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
-      "title": "美元與人民幣雙強對台灣的警訊- 日報 - 工商時報",
+      "title": "美元與人民幣雙強對台灣的警訊- 日報 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyYXdmemNacGk0dzJLZEc4R3lSTW5na1RZelVEcU9SUC1OQTMzMVh4aENYQlhfODdaVmprNVJZdFROSEpRY3JLcExNbEZQdFFsTzJMcTQtZ2pOUDBSRGxJ?oc=5",
       "guid": "CBMiX0FVX3lxTFAyYXdmemNacGk0dzJLZEc4R3lSTW5na1RZelVEcU9SUC1OQTMzMVh4aENYQlhfODdaVmprNVJZdFROSEpRY3JLcExNbEZQdFFsTzJMcTQtZ2pOUDBSRGxJ",
       "pub_date": "Fri, 02 Oct 2026 19:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyYXdmemNacGk0dzJLZEc4R3lSTW5na1RZelVEcU9SUC1OQTMzMVh4aENYQlhfODdaVmprNVJZdFROSEpRY3JLcExNbEZQdFFsTzJMcTQtZ2pOUDBSRGxJ?oc=5\" target=\"_blank\">美元與人民幣雙強對台灣的警訊- 日報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyYXdmemNacGk0dzJLZEc4R3lSTW5na1RZelVEcU9SUC1OQTMzMVh4aENYQlhfODdaVmprNVJZdFROSEpRY3JLcExNbEZQdFFsTzJMcTQtZ2pOUDBSRGxJ?oc=5\" target=\"_blank\">美元與人民幣雙強對台灣的警訊- 日報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -3172,12 +3172,12 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
-      "title": "股市創高、外資匯入 新台幣拉出連四紅 收31.788元 - 工商時報",
+      "title": "股市創高、外資匯入 新台幣拉出連四紅 收31.788元 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MLTY3X2gyalAtbW02dkZIcGNPRDN1RzhTaWE5U2UtckNESHhPay1CZXNMRWNhdkVHQXdMaEJMZUM5TDdjUFZtRzNfUGNZaFkyU0txSHpLUlpJZkdJV25J?oc=5",
       "guid": "CBMiX0FVX3lxTE1MLTY3X2gyalAtbW02dkZIcGNPRDN1RzhTaWE5U2UtckNESHhPay1CZXNMRWNhdkVHQXdMaEJMZUM5TDdjUFZtRzNfUGNZaFkyU0txSHpLUlpJZkdJV25J",
       "pub_date": "Mon, 05 Oct 2026 10:17:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MLTY3X2gyalAtbW02dkZIcGNPRDN1RzhTaWE5U2UtckNESHhPay1CZXNMRWNhdkVHQXdMaEJMZUM5TDdjUFZtRzNfUGNZaFkyU0txSHpLUlpJZkdJV25J?oc=5\" target=\"_blank\">股市創高、外資匯入 新台幣拉出連四紅 收31.788元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MLTY3X2gyalAtbW02dkZIcGNPRDN1RzhTaWE5U2UtckNESHhPay1CZXNMRWNhdkVHQXdMaEJMZUM5TDdjUFZtRzNfUGNZaFkyU0txSHpLUlpJZkdJV25J?oc=5\" target=\"_blank\">股市創高、外資匯入 新台幣拉出連四紅 收31.788元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -3282,12 +3282,12 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
-      "title": "輝達創歷史新高 鴻海AI伺服器需求強勁助攻 - 鉅亨網",
+      "title": "輝達創歷史新高 鴻海AI伺服器需求強勁助攻 - cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw?oc=5",
       "guid": "CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw",
       "pub_date": "Mon, 05 Oct 2026 22:31:17 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw?oc=5\" target=\"_blank\">輝達創歷史新高 鴻海AI伺服器需求強勁助攻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鉅亨網</font>",
-      "source_name": "鉅亨網",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fYVJnLVlnM00yTVRmT2cyMzFxWEVWOFFCdExXUXlVcGoyYkJUUE40TkVQNHRua1hKOFFuTWpVZDBUMnJuekVtSzRiYw?oc=5\" target=\"_blank\">輝達創歷史新高 鴻海AI伺服器需求強勁助攻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cnyes.com</font>",
+      "source_name": "cnyes.com",
       "source_url": "https://m.cnyes.com"
     },
     {
@@ -3352,16 +3352,6 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
-      "title": "最高78億美元合作！諾華攜艾博生物開發自體免疫T細胞銜接器 - 環球生技",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TWTBZN19VWU9VZ0hmZno2UGQ5SklLc2V2elVLbGZOTU9KM2NqVUhVcFl3MG9helhYUk84SVNKekMzN1lzT1paYjYtRWZLTzg1UnJuQjQ0Ti1QblpnT3RIUnZ1X2hfbThB?oc=5",
-      "guid": "CBMiaEFVX3lxTE1TWTBZN19VWU9VZ0hmZno2UGQ5SklLc2V2elVLbGZOTU9KM2NqVUhVcFl3MG9helhYUk84SVNKekMzN1lzT1paYjYtRWZLTzg1UnJuQjQ0Ti1QblpnT3RIUnZ1X2hfbThB",
-      "pub_date": "Mon, 05 Oct 2026 20:18:37 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TWTBZN19VWU9VZ0hmZno2UGQ5SklLc2V2elVLbGZOTU9KM2NqVUhVcFl3MG9helhYUk84SVNKekMzN1lzT1paYjYtRWZLTzg1UnJuQjQ0Ti1QblpnT3RIUnZ1X2hfbThB?oc=5\" target=\"_blank\">最高78億美元合作！諾華攜艾博生物開發自體免疫T細胞銜接器</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">環球生技</font>",
-      "source_name": "環球生技",
-      "source_url": "https://news.gbimonthly.com"
-    },
-    {
-      "query": "匯率 OR 新台幣 OR 美元",
       "title": "金磚國家會議決議漸進「去美元化」 擺脫國際貿易美元依賴 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNa0k5WVpSbWx4eU5qMWJjS2UtamlxbXQ1cDFDaW1ReWFNT0hJS2NUS2FEUXJ6RnhDU1FYNUpZWmFCWHJmbDRnZHVUUDR2LUw0VnhOMFhGTXFnR0YzWHNIUUxpbTJtV1AyUkpfd2puQ0JIUVNQUFZHWjl2aDBEZUdDWmhTQ2pXZDc1SlUydFo4eWlsYkYxdF93ODZTeU52WDdZY2ZDUGVWUURxZE9WQm84T24tNHY2eFJjc1VNWEgyWGx0TWx0Zl9RTDJzWHdLOENKWUZrWDhDNFFQeFZxM0RVSlZTemV4R3VvRkFUS25rLW5MMk1rWG4xRUdhVjlFVXJCTkwxalZGYmlPbHQzQ2ZjNXQ4UWRHZmhXTENFbUVYQ2trNkNEOGcxWUJTbG1maVlLRlk2UVIwdWphUDlTZnZrZFdSUU5EdXRyQnFQSzZvTWJ5di10T3VMakNSandmSFRzWXVFTWtxRDM3RkFUNGlKcldULUJJMl9QcUU0WHJ3?oc=5",
       "guid": "CBMi_gJBVV95cUxNa0k5WVpSbWx4eU5qMWJjS2UtamlxbXQ1cDFDaW1ReWFNT0hJS2NUS2FEUXJ6RnhDU1FYNUpZWmFCWHJmbDRnZHVUUDR2LUw0VnhOMFhGTXFnR0YzWHNIUUxpbTJtV1AyUkpfd2puQ0JIUVNQUFZHWjl2aDBEZUdDWmhTQ2pXZDc1SlUydFo4eWlsYkYxdF93ODZTeU52WDdZY2ZDUGVWUURxZE9WQm84T24tNHY2eFJjc1VNWEgyWGx0TWx0Zl9RTDJzWHdLOENKWUZrWDhDNFFQeFZxM0RVSlZTemV4R3VvRkFUS25rLW5MMk1rWG4xRUdhVjlFVXJCTkwxalZGYmlPbHQzQ2ZjNXQ4UWRHZmhXTENFbUVYQ2trNkNEOGcxWUJTbG1maVlLRlk2UVIwdWphUDlTZnZrZFdSUU5EdXRyQnFQSzZvTWJ5di10T3VMakNSandmSFRzWXVFTWtxRDM3RkFUNGlKcldULUJJMl9QcUU0WHJ3",
@@ -3392,12 +3382,12 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
-      "title": "輝達市值逼近6兆美元選擇權交易商預期達標時間點在這一天- 國際 - 工商時報",
+      "title": "輝達市值逼近6兆美元選擇權交易商預期達標時間點在這一天- 國際 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zRDZNTFpmMDZTcUxRMHJnOU12YVFXVU9NdnNrNUY2RDllWnloRUdSbVRTMkFBdEhhLTlnN3p0Z2JvQkJwb3M5SXFpMHd3N1JaZEUwcjktNHJDbDdqM29R?oc=5",
       "guid": "CBMiX0FVX3lxTE5zRDZNTFpmMDZTcUxRMHJnOU12YVFXVU9NdnNrNUY2RDllWnloRUdSbVRTMkFBdEhhLTlnN3p0Z2JvQkJwb3M5SXFpMHd3N1JaZEUwcjktNHJDbDdqM29R",
       "pub_date": "Mon, 05 Oct 2026 13:46:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zRDZNTFpmMDZTcUxRMHJnOU12YVFXVU9NdnNrNUY2RDllWnloRUdSbVRTMkFBdEhhLTlnN3p0Z2JvQkJwb3M5SXFpMHd3N1JaZEUwcjktNHJDbDdqM29R?oc=5\" target=\"_blank\">輝達市值逼近6兆美元選擇權交易商預期達標時間點在這一天- 國際</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zRDZNTFpmMDZTcUxRMHJnOU12YVFXVU9NdnNrNUY2RDllWnloRUdSbVRTMkFBdEhhLTlnN3p0Z2JvQkJwb3M5SXFpMHd3N1JaZEUwcjktNHJDbDdqM29R?oc=5\" target=\"_blank\">輝達市值逼近6兆美元選擇權交易商預期達標時間點在這一天- 國際</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -3419,16 +3409,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTzZ5NDMxU3djT0VMUWs0RWw4dWY4SkFPT3dUZ3VEZldnRWwzSmJxWDRBTF9DN0RfZ2NiVTQ2TlYwc3k4YzV5WXRtcmtxb2p5M1VlMXpOUUdRUjV3ZEIzT1BnQ1FqajRMZmxfTEtwSGNJakcxYkt5OU1uZWtUOXpILWlxMmlxYkxVUEtNUDNn?oc=5\" target=\"_blank\">美國能源部確認向Vistra提供高達42億美元貸款 提升核能發電能力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CMoney投資網誌</font>",
       "source_name": "CMoney投資網誌",
       "source_url": "https://cmnews.com.tw"
-    },
-    {
-      "query": "匯率 OR 新台幣 OR 美元",
-      "title": "國內匯市：風險情緒回溫、外資大買助攻，新台幣升4.2分收31.788元連四天走強 - 富聯網",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDg4cVBZSHRDSHZXcTlOMGpvbmpEYy02SnczY3hoOFRUTkZYRTVac0tEODJUOUx3SW8wRXdkZHc1WlhMMGNqWFVZNUJDdGhhR25MRWdLM0lJQTVBTV9IN0o0Tm5KUEdBTzhwQkYzVXN6bEdGNWQ4QUZ4S28wZGh4aUlMdS1lSzZ0?oc=5",
-      "guid": "CBMiiAFBVV95cUxPNDg4cVBZSHRDSHZXcTlOMGpvbmpEYy02SnczY3hoOFRUTkZYRTVac0tEODJUOUx3SW8wRXdkZHc1WlhMMGNqWFVZNUJDdGhhR25MRWdLM0lJQTVBTV9IN0o0Tm5KUEdBTzhwQkYzVXN6bEdGNWQ4QUZ4S28wZGh4aUlMdS1lSzZ0",
-      "pub_date": "Mon, 05 Oct 2026 23:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNDg4cVBZSHRDSHZXcTlOMGpvbmpEYy02SnczY3hoOFRUTkZYRTVac0tEODJUOUx3SW8wRXdkZHc1WlhMMGNqWFVZNUJDdGhhR25MRWdLM0lJQTVBTV9IN0o0Tm5KUEdBTzhwQkYzVXN6bEdGNWQ4QUZ4S28wZGh4aUlMdS1lSzZ0?oc=5\" target=\"_blank\">國內匯市：風險情緒回溫、外資大買助攻，新台幣升4.2分收31.788元連四天走強</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富聯網</font>",
-      "source_name": "富聯網",
-      "source_url": "https://ww2.money-link.com.tw"
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
@@ -3562,16 +3542,6 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
-      "title": "避險熱潮的最大贏家 美元指數升破102 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zOWFnLWVQTVdMOUVIWVcwSVItNV9IV1d2b3FyeENyU2FOT29jVkROMGxzS1NkNGtjM3pQdDJ3czduRnc2cDBXWkUycV9vVFBXa05mTFlRVWU5di13NmpXREtTUW1GdGhqclFJ?oc=5",
-      "guid": "CBMia0FVX3lxTE9zOWFnLWVQTVdMOUVIWVcwSVItNV9IV1d2b3FyeENyU2FOT29jVkROMGxzS1NkNGtjM3pQdDJ3czduRnc2cDBXWkUycV9vVFBXa05mTFlRVWU5di13NmpXREtTUW1GdGhqclFJ",
-      "pub_date": "Mon, 05 Oct 2026 20:10:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9zOWFnLWVQTVdMOUVIWVcwSVItNV9IV1d2b3FyeENyU2FOT29jVkROMGxzS1NkNGtjM3pQdDJ3czduRnc2cDBXWkUycV9vVFBXa05mTFlRVWU5di13NmpXREtTUW1GdGhqclFJ?oc=5\" target=\"_blank\">避險熱潮的最大贏家 美元指數升破102</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中時新聞網</font>",
-      "source_name": "中時新聞網",
-      "source_url": "https://www.chinatimes.com"
-    },
-    {
-      "query": "匯率 OR 新台幣 OR 美元",
       "title": "C.H. Robinson砸58億美元收購RXO，打造北美物流巨擘 - BigGo 財經",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ub3BqMFZCRndnUGdZVmwzYzRKcExRblI3MUk3OHFYS19XMlZWR3RiMzdOUi0zVElNWGszZUQ5a0xVRmc1bE5UUVVyZzE1cWNMYTQ0MHV1dkdnM1Q4YUloRUpwVWlTM1M3N3kyZE9ySGJ2c2NvbmNsLVh3?oc=5",
       "guid": "CBMiekFVX3lxTE9Ub3BqMFZCRndnUGdZVmwzYzRKcExRblI3MUk3OHFYS19XMlZWR3RiMzdOUi0zVElNWGszZUQ5a0xVRmc1bE5UUVVyZzE1cWNMYTQ0MHV1dkdnM1Q4YUloRUpwVWlTM1M3N3kyZE9ySGJ2c2NvbmNsLVh3",
@@ -3579,6 +3549,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ub3BqMFZCRndnUGdZVmwzYzRKcExRblI3MUk3OHFYS19XMlZWR3RiMzdOUi0zVElNWGszZUQ5a0xVRmc1bE5UUVVyZzE1cWNMYTQ0MHV1dkdnM1Q4YUloRUpwVWlTM1M3N3kyZE9ySGJ2c2NvbmNsLVh3?oc=5\" target=\"_blank\">C.H. Robinson砸58億美元收購RXO，打造北美物流巨擘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BigGo 財經</font>",
       "source_name": "BigGo 財經",
       "source_url": "https://finance.biggo.com.tw"
+    },
+    {
+      "query": "匯率 OR 新台幣 OR 美元",
+      "title": "避險熱潮的最大贏家 美元指數升破102 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zOWFnLWVQTVdMOUVIWVcwSVItNV9IV1d2b3FyeENyU2FOT29jVkROMGxzS1NkNGtjM3pQdDJ3czduRnc2cDBXWkUycV9vVFBXa05mTFlRVWU5di13NmpXREtTUW1GdGhqclFJ?oc=5",
+      "guid": "CBMia0FVX3lxTE9zOWFnLWVQTVdMOUVIWVcwSVItNV9IV1d2b3FyeENyU2FOT29jVkROMGxzS1NkNGtjM3pQdDJ3czduRnc2cDBXWkUycV9vVFBXa05mTFlRVWU5di13NmpXREtTUW1GdGhqclFJ",
+      "pub_date": "Mon, 05 Oct 2026 20:10:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9zOWFnLWVQTVdMOUVIWVcwSVItNV9IV1d2b3FyeENyU2FOT29jVkROMGxzS1NkNGtjM3pQdDJ3czduRnc2cDBXWkUycV9vVFBXa05mTFlRVWU5di13NmpXREtTUW1GdGhqclFJ?oc=5\" target=\"_blank\">避險熱潮的最大贏家 美元指數升破102</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中時新聞網</font>",
+      "source_name": "中時新聞網",
+      "source_url": "https://www.chinatimes.com"
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
@@ -3629,6 +3609,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9Takg0aUVLNUNzWkV6MjNLQkxETTZWYm5xeFB4bWlXZEZ3WHJSV0ZiM3pEOG15ckVhc2kxZlM3VHdWNHJZNllMZUpSSmpSYkgyOTI4a2o5YnNUNEtxNm9Cd211RzNiVEFjOXpCeGpyOUJWOFI4a3pN?oc=5\" target=\"_blank\">隨著美元和美國國債收益率攀升、油價回落，納斯達克指數創下歷史新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
       "source_name": "TradingView",
       "source_url": "https://tw.tradingview.com"
+    },
+    {
+      "query": "匯率 OR 新台幣 OR 美元",
+      "title": "國內匯市：風險情緒回溫、外資大買助攻，新台幣升4.2分收31.788元連四天走強 - 富聯網",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWxuaDVaeEJaaWFEdVVkbE0ybmRCVlhsbXF1UzBySGVTYm5HcXlPSjllV0duZnZoMTAwbThKQThHRlFPRkQ0X0xmNVNaUTJ0S0FEV0xLNkt2cW1IVFNUTklPaVlpY0dkTGc2dXpXazcxS2t1WEhCNGFEOGcwU3NON0xJWEs0VWky?oc=5",
+      "guid": "CBMiiAFBVV95cUxPLWxuaDVaeEJaaWFEdVVkbE0ybmRCVlhsbXF1UzBySGVTYm5HcXlPSjllV0duZnZoMTAwbThKQThHRlFPRkQ0X0xmNVNaUTJ0S0FEV0xLNkt2cW1IVFNUTklPaVlpY0dkTGc2dXpXazcxS2t1WEhCNGFEOGcwU3NON0xJWEs0VWky",
+      "pub_date": "Mon, 05 Oct 2026 23:00:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLWxuaDVaeEJaaWFEdVVkbE0ybmRCVlhsbXF1UzBySGVTYm5HcXlPSjllV0duZnZoMTAwbThKQThHRlFPRkQ0X0xmNVNaUTJ0S0FEV0xLNkt2cW1IVFNUTklPaVlpY0dkTGc2dXpXazcxS2t1WEhCNGFEOGcwU3NON0xJWEs0VWky?oc=5\" target=\"_blank\">國內匯市：風險情緒回溫、外資大買助攻，新台幣升4.2分收31.788元連四天走強</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富聯網</font>",
+      "source_name": "富聯網",
+      "source_url": "https://ww2.money-link.com.tw"
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
@@ -3732,12 +3722,12 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
-      "title": "《金融》泰金寶科技、泰電通3.9億美元永續連結聯貸案簽約- 金融 - 工商時報",
+      "title": "《金融》泰金寶科技、泰電通3.9億美元永續連結聯貸案簽約- 金融 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fOGZ0dDllSkVaMXpfb1RTcEJkN1JTeFRkckdUZEJPb3diUnN1MFRONlFrVFpLRnVNUVRkV0YzNllpeEZfS01zU1d4ZmFjTHB3bXJuM01pOGhXS0lBUlFZ?oc=5",
       "guid": "CBMiX0FVX3lxTE5fOGZ0dDllSkVaMXpfb1RTcEJkN1JTeFRkckdUZEJPb3diUnN1MFRONlFrVFpLRnVNUVRkV0YzNllpeEZfS01zU1d4ZmFjTHB3bXJuM01pOGhXS0lBUlFZ",
       "pub_date": "Mon, 05 Oct 2026 08:41:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fOGZ0dDllSkVaMXpfb1RTcEJkN1JTeFRkckdUZEJPb3diUnN1MFRONlFrVFpLRnVNUVRkV0YzNllpeEZfS01zU1d4ZmFjTHB3bXJuM01pOGhXS0lBUlFZ?oc=5\" target=\"_blank\">《金融》泰金寶科技、泰電通3.9億美元永續連結聯貸案簽約- 金融</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fOGZ0dDllSkVaMXpfb1RTcEJkN1JTeFRkckdUZEJPb3diUnN1MFRONlFrVFpLRnVNUVRkV0YzNllpeEZfS01zU1d4ZmFjTHB3bXJuM01pOGhXS0lBUlFZ?oc=5\" target=\"_blank\">《金融》泰金寶科技、泰電通3.9億美元永續連結聯貸案簽約- 金融</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -4012,12 +4002,12 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
-      "title": "美元強勢攻高 新台幣周線翻黑、回測32元壓力大- 金融 - 工商時報",
+      "title": "美元強勢攻高 新台幣周線翻黑、回測32元壓力大- 金融 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NeDkzYjVfd3ctZGJlS01Yc3Z6a1gwcTVMdmhRU2xiQVhlVmkzandpY1JRb2pqVE9HTVNvaFo3YnA4M3lJeHlxUkNySlcwY2VXN1d4WVpJa1VEMDJzNGQ4?oc=5",
       "guid": "CBMiX0FVX3lxTE1NeDkzYjVfd3ctZGJlS01Yc3Z6a1gwcTVMdmhRU2xiQVhlVmkzandpY1JRb2pqVE9HTVNvaFo3YnA4M3lJeHlxUkNySlcwY2VXN1d4WVpJa1VEMDJzNGQ4",
       "pub_date": "Fri, 02 Oct 2026 09:27:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NeDkzYjVfd3ctZGJlS01Yc3Z6a1gwcTVMdmhRU2xiQVhlVmkzandpY1JRb2pqVE9HTVNvaFo3YnA4M3lJeHlxUkNySlcwY2VXN1d4WVpJa1VEMDJzNGQ4?oc=5\" target=\"_blank\">美元強勢攻高 新台幣周線翻黑、回測32元壓力大- 金融</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NeDkzYjVfd3ctZGJlS01Yc3Z6a1gwcTVMdmhRU2xiQVhlVmkzandpY1JRb2pqVE9HTVNvaFo3YnA4M3lJeHlxUkNySlcwY2VXN1d4WVpJa1VEMDJzNGQ4?oc=5\" target=\"_blank\">美元強勢攻高 新台幣周線翻黑、回測32元壓力大- 金融</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -4032,6 +4022,16 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
+      "title": "美元走強！9月外匯存底降至6007億美元 穩居全球第4 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxVzNhM1pvLXlzcm81c00xa2s2QkUtUGZGMVJOZTR0dXk0dXkzNXVCVlo4X2hQQ0w5WWVoQl9RVmFQQ3RxVkswdjBXZUtkSFBrVnFNZzB1NEo?oc=5",
+      "guid": "CBMiWEFVX3lxTFAxVzNhM1pvLXlzcm81c00xa2s2QkUtUGZGMVJOZTR0dXk0dXkzNXVCVlo4X2hQQ0w5WWVoQl9RVmFQQ3RxVkswdjBXZUtkSFBrVnFNZzB1NEo",
+      "pub_date": "Sun, 04 Oct 2026 18:45:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxVzNhM1pvLXlzcm81c00xa2s2QkUtUGZGMVJOZTR0dXk0dXkzNXVCVlo4X2hQQ0w5WWVoQl9RVmFQQ3RxVkswdjBXZUtkSFBrVnFNZzB1NEo?oc=5\" target=\"_blank\">美元走強！9月外匯存底降至6007億美元 穩居全球第4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">自由時報</font>",
+      "source_name": "自由時報",
+      "source_url": "https://stock.ltn.com.tw"
+    },
+    {
+      "query": "匯率 OR 新台幣 OR 美元",
       "title": "美國新車平均貸款額創新高 達44664美元 - 大紀元",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RVTdpempCNi1aV3g4UUVVblZpcWhwRnI2S2pPWWc0OUhZZWpkWEJKQnNHWWhLNW9vVFRJclptX2VDUjMwMU45cGpHSEE2WUYxN0FyUnFzUUxHSEpiSGpDddIBZkFVX3lxTE5LMmJ0TVFERmhmYThGc3RlZV8temdFR04xVzFRNTFsNkxIVEFsckQzOGIzUGNRR1duMEpKS05rTVZ6ZzlZeXhMeVNFUVpSeVhSNzZKdTdrNE9Ma21FYzdUYnM0c0lEdw?oc=5",
       "guid": "CBMiYEFVX3lxTE9RVTdpempCNi1aV3g4UUVVblZpcWhwRnI2S2pPWWc0OUhZZWpkWEJKQnNHWWhLNW9vVFRJclptX2VDUjMwMU45cGpHSEE2WUYxN0FyUnFzUUxHSEpiSGpDddIBZkFVX3lxTE5LMmJ0TVFERmhmYThGc3RlZV8temdFR04xVzFRNTFsNkxIVEFsckQzOGIzUGNRR1duMEpKS05rTVZ6ZzlZeXhMeVNFUVpSeVhSNzZKdTdrNE9Ma21FYzdUYnM0c0lEdw",
@@ -4042,13 +4042,13 @@
     },
     {
       "query": "匯率 OR 新台幣 OR 美元",
-      "title": "美元走強！9月外匯存底降至6007億美元 穩居全球第4 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxVzNhM1pvLXlzcm81c00xa2s2QkUtUGZGMVJOZTR0dXk0dXkzNXVCVlo4X2hQQ0w5WWVoQl9RVmFQQ3RxVkswdjBXZUtkSFBrVnFNZzB1NEo?oc=5",
-      "guid": "CBMiWEFVX3lxTFAxVzNhM1pvLXlzcm81c00xa2s2QkUtUGZGMVJOZTR0dXk0dXkzNXVCVlo4X2hQQ0w5WWVoQl9RVmFQQ3RxVkswdjBXZUtkSFBrVnFNZzB1NEo",
-      "pub_date": "Sun, 04 Oct 2026 18:45:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxVzNhM1pvLXlzcm81c00xa2s2QkUtUGZGMVJOZTR0dXk0dXkzNXVCVlo4X2hQQ0w5WWVoQl9RVmFQQ3RxVkswdjBXZUtkSFBrVnFNZzB1NEo?oc=5\" target=\"_blank\">美元走強！9月外匯存底降至6007億美元 穩居全球第4</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">自由時報</font>",
-      "source_name": "自由時報",
-      "source_url": "https://stock.ltn.com.tw"
+      "title": "台灣國防危險了？驚傳「破百億美元軍售」恐泡湯 民進黨團緊急回應 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxQNkdERl9WaThlNnB5OXlUSW5DQ05GeGtQQy1FOWJXLW1oOFN2TlV5ODVjSUkwb3VnS1hNYk1kSXlZSmRBN1VzUzduNERoZllOMXVMbXNURWdLdUQxUi1BckhIQVY0ZW44OFpNQjdGRGd2OEZVZlkyWXdpWk1zRVJZNXNtVzBEdlA0ZTBfaEdHTFB5ejF2ZGpjSUxyd1RBZWEyRE56VEhsU1g5SlZOclliN1YtX2d6QzJQY2ZJcTlyeDVNaXRlRGdFYkF6eEJac08xZ1hacXpCZkIwQ3JmSmVTNC1ya3R1a1dFX0pDUHBtd2hCYWxiS2xqMzgwd1U4SFJzOUoxVFRPRGd0UmpCOUFpVVU1aUl5OE5jR1g0UF9UbFNLQnFnWXpPY2t4NnYwZHlQWVhPQm00NGlaSzVqRndIaGxQSEd5MU03akVjWHVLalRiOFl3QWxaNjVfMHpDMGhoQTNMLWZpN2JHTXlndjZqNGFUUGNLMk9RdXktZEtVRXR3R1FpOE1OY21yaHJScnB6QXZyVmdvR0FESENsaTc2NlozcjI?oc=5",
+      "guid": "CBMipANBVV95cUxQNkdERl9WaThlNnB5OXlUSW5DQ05GeGtQQy1FOWJXLW1oOFN2TlV5ODVjSUkwb3VnS1hNYk1kSXlZSmRBN1VzUzduNERoZllOMXVMbXNURWdLdUQxUi1BckhIQVY0ZW44OFpNQjdGRGd2OEZVZlkyWXdpWk1zRVJZNXNtVzBEdlA0ZTBfaEdHTFB5ejF2ZGpjSUxyd1RBZWEyRE56VEhsU1g5SlZOclliN1YtX2d6QzJQY2ZJcTlyeDVNaXRlRGdFYkF6eEJac08xZ1hacXpCZkIwQ3JmSmVTNC1ya3R1a1dFX0pDUHBtd2hCYWxiS2xqMzgwd1U4SFJzOUoxVFRPRGd0UmpCOUFpVVU1aUl5OE5jR1g0UF9UbFNLQnFnWXpPY2t4NnYwZHlQWVhPQm00NGlaSzVqRndIaGxQSEd5MU03akVjWHVLalRiOFl3QWxaNjVfMHpDMGhoQTNMLWZpN2JHTXlndjZqNGFUUGNLMk9RdXktZEtVRXR3R1FpOE1OY21yaHJScnB6QXZyVmdvR0FESENsaTc2NlozcjI",
+      "pub_date": "Mon, 05 Oct 2026 05:53:56 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxQNkdERl9WaThlNnB5OXlUSW5DQ05GeGtQQy1FOWJXLW1oOFN2TlV5ODVjSUkwb3VnS1hNYk1kSXlZSmRBN1VzUzduNERoZllOMXVMbXNURWdLdUQxUi1BckhIQVY0ZW44OFpNQjdGRGd2OEZVZlkyWXdpWk1zRVJZNXNtVzBEdlA0ZTBfaEdHTFB5ejF2ZGpjSUxyd1RBZWEyRE56VEhsU1g5SlZOclliN1YtX2d6QzJQY2ZJcTlyeDVNaXRlRGdFYkF6eEJac08xZ1hacXpCZkIwQ3JmSmVTNC1ya3R1a1dFX0pDUHBtd2hCYWxiS2xqMzgwd1U4SFJzOUoxVFRPRGd0UmpCOUFpVVU1aUl5OE5jR1g0UF9UbFNLQnFnWXpPY2t4NnYwZHlQWVhPQm00NGlaSzVqRndIaGxQSEd5MU03akVjWHVLalRiOFl3QWxaNjVfMHpDMGhoQTNMLWZpN2JHTXlndjZqNGFUUGNLMk9RdXktZEtVRXR3R1FpOE1OY21yaHJScnB6QXZyVmdvR0FESENsaTc2NlozcjI?oc=5\" target=\"_blank\">台灣國防危險了？驚傳「破百億美元軍售」恐泡湯 民進黨團緊急回應</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo股市</font>",
+      "source_name": "Yahoo股市",
+      "source_url": "https://tw.stock.yahoo.com"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
@@ -4062,12 +4062,12 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "美元與人民幣雙強對台灣的警訊- 日報 - 工商時報",
+      "title": "美元與人民幣雙強對台灣的警訊- 日報 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyYXdmemNacGk0dzJLZEc4R3lSTW5na1RZelVEcU9SUC1OQTMzMVh4aENYQlhfODdaVmprNVJZdFROSEpRY3JLcExNbEZQdFFsTzJMcTQtZ2pOUDBSRGxJ?oc=5",
       "guid": "CBMiX0FVX3lxTFAyYXdmemNacGk0dzJLZEc4R3lSTW5na1RZelVEcU9SUC1OQTMzMVh4aENYQlhfODdaVmprNVJZdFROSEpRY3JLcExNbEZQdFFsTzJMcTQtZ2pOUDBSRGxJ",
       "pub_date": "Fri, 02 Oct 2026 19:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyYXdmemNacGk0dzJLZEc4R3lSTW5na1RZelVEcU9SUC1OQTMzMVh4aENYQlhfODdaVmprNVJZdFROSEpRY3JLcExNbEZQdFFsTzJMcTQtZ2pOUDBSRGxJ?oc=5\" target=\"_blank\">美元與人民幣雙強對台灣的警訊- 日報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyYXdmemNacGk0dzJLZEc4R3lSTW5na1RZelVEcU9SUC1OQTMzMVh4aENYQlhfODdaVmprNVJZdFROSEpRY3JLcExNbEZQdFFsTzJMcTQtZ2pOUDBSRGxJ?oc=5\" target=\"_blank\">美元與人民幣雙強對台灣的警訊- 日報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -4212,12 +4212,12 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "在岸人民幣收跌16個基本點專家：預計將繼續受息差結匯影響- 兩岸 - 工商時報",
+      "title": "在岸人民幣收跌16個基本點專家：預計將繼續受息差結匯影響- 兩岸 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ySFdwaEd4RVdfV3NrSHMyRVBydVdIdzVQMVBtb011NUt5ZC0zOW5IcnczT0lXQWpQbnVhWnhnLTRTMzRPMVFrdDBxSzljZ2J3WFBzY0VSZ0J2YndxUmZF?oc=5",
       "guid": "CBMiX0FVX3lxTE9ySFdwaEd4RVdfV3NrSHMyRVBydVdIdzVQMVBtb011NUt5ZC0zOW5IcnczT0lXQWpQbnVhWnhnLTRTMzRPMVFrdDBxSzljZ2J3WFBzY0VSZ0J2YndxUmZF",
       "pub_date": "Wed, 30 Sep 2026 11:47:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ySFdwaEd4RVdfV3NrSHMyRVBydVdIdzVQMVBtb011NUt5ZC0zOW5IcnczT0lXQWpQbnVhWnhnLTRTMzRPMVFrdDBxSzljZ2J3WFBzY0VSZ0J2YndxUmZF?oc=5\" target=\"_blank\">在岸人民幣收跌16個基本點專家：預計將繼續受息差結匯影響- 兩岸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ySFdwaEd4RVdfV3NrSHMyRVBydVdIdzVQMVBtb011NUt5ZC0zOW5IcnczT0lXQWpQbnVhWnhnLTRTMzRPMVFrdDBxSzljZ2J3WFBzY0VSZ0J2YndxUmZF?oc=5\" target=\"_blank\">在岸人民幣收跌16個基本點專家：預計將繼續受息差結匯影響- 兩岸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -4252,22 +4252,22 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "挺台獨還想賺人民幣？蔡康永兩頭討好夢碎！ - 巴士的報",
+      "title": "挺台獨還想賺人民幣？蔡康永兩頭討好夢碎！ - bastillepost.com",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTFRENk9fQTRNUWQtR1ZMWW9BT0tGMGhMamtaUkQxbHBQQnc2TlJ2dlVSRGw0dzhVV0pPdGdFTnV6bjU3ZTJMdlhTeVQyQXBmQ3Z3d04yamF4U1pPMGI4eXRVR0hVOGxKNlhmY21oeF9QZXVhNEdmaG95VHhDeUxhWTJHaTI5Rk5UMGRCR2NPREFjSVZldE9EczhIbEFwTzBlRy04eDl5V2VLN291TFJLYlBES2tuVnVsRHJVLTcxTHVUOVgzZmpLNHdEcWJodDlwaGR5MldqZ0lMc3FZYk5SWk01UWtmTEdYSkxnaXpiMFNhaHV3R2VNUC1YMzF5X25HdnBSQV84RTlyNGNVbUpfcFEybmdDUlY0Z0d0dW9Rd2NjQ1dhSnF5bWxnb0E2R1Ric3hZTTlCWkdoZVBkQVFXdFp1Nm93X19JYWl6UFV5N1JHSnhKb0E?oc=5",
       "guid": "CBMi1gJBVV95cUxPTFRENk9fQTRNUWQtR1ZMWW9BT0tGMGhMamtaUkQxbHBQQnc2TlJ2dlVSRGw0dzhVV0pPdGdFTnV6bjU3ZTJMdlhTeVQyQXBmQ3Z3d04yamF4U1pPMGI4eXRVR0hVOGxKNlhmY21oeF9QZXVhNEdmaG95VHhDeUxhWTJHaTI5Rk5UMGRCR2NPREFjSVZldE9EczhIbEFwTzBlRy04eDl5V2VLN291TFJLYlBES2tuVnVsRHJVLTcxTHVUOVgzZmpLNHdEcWJodDlwaGR5MldqZ0lMc3FZYk5SWk01UWtmTEdYSkxnaXpiMFNhaHV3R2VNUC1YMzF5X25HdnBSQV84RTlyNGNVbUpfcFEybmdDUlY0Z0d0dW9Rd2NjQ1dhSnF5bWxnb0E2R1Ric3hZTTlCWkdoZVBkQVFXdFp1Nm93X19JYWl6UFV5N1JHSnhKb0E",
       "pub_date": "Mon, 05 Oct 2026 11:08:32 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTFRENk9fQTRNUWQtR1ZMWW9BT0tGMGhMamtaUkQxbHBQQnc2TlJ2dlVSRGw0dzhVV0pPdGdFTnV6bjU3ZTJMdlhTeVQyQXBmQ3Z3d04yamF4U1pPMGI4eXRVR0hVOGxKNlhmY21oeF9QZXVhNEdmaG95VHhDeUxhWTJHaTI5Rk5UMGRCR2NPREFjSVZldE9EczhIbEFwTzBlRy04eDl5V2VLN291TFJLYlBES2tuVnVsRHJVLTcxTHVUOVgzZmpLNHdEcWJodDlwaGR5MldqZ0lMc3FZYk5SWk01UWtmTEdYSkxnaXpiMFNhaHV3R2VNUC1YMzF5X25HdnBSQV84RTlyNGNVbUpfcFEybmdDUlY0Z0d0dW9Rd2NjQ1dhSnF5bWxnb0E2R1Ric3hZTTlCWkdoZVBkQVFXdFp1Nm93X19JYWl6UFV5N1JHSnhKb0E?oc=5\" target=\"_blank\">挺台獨還想賺人民幣？蔡康永兩頭討好夢碎！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">巴士的報</font>",
-      "source_name": "巴士的報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTFRENk9fQTRNUWQtR1ZMWW9BT0tGMGhMamtaUkQxbHBQQnc2TlJ2dlVSRGw0dzhVV0pPdGdFTnV6bjU3ZTJMdlhTeVQyQXBmQ3Z3d04yamF4U1pPMGI4eXRVR0hVOGxKNlhmY21oeF9QZXVhNEdmaG95VHhDeUxhWTJHaTI5Rk5UMGRCR2NPREFjSVZldE9EczhIbEFwTzBlRy04eDl5V2VLN291TFJLYlBES2tuVnVsRHJVLTcxTHVUOVgzZmpLNHdEcWJodDlwaGR5MldqZ0lMc3FZYk5SWk01UWtmTEdYSkxnaXpiMFNhaHV3R2VNUC1YMzF5X25HdnBSQV84RTlyNGNVbUpfcFEybmdDUlY0Z0d0dW9Rd2NjQ1dhSnF5bWxnb0E2R1Ric3hZTTlCWkdoZVBkQVFXdFp1Nm93X19JYWl6UFV5N1JHSnhKb0E?oc=5\" target=\"_blank\">挺台獨還想賺人民幣？蔡康永兩頭討好夢碎！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bastillepost.com</font>",
+      "source_name": "bastillepost.com",
       "source_url": "https://www.bastillepost.com"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "中國匯市：人民幣兌美元中間價創近三年八個月新高，較路透預測偏弱約330點 - es.tradingview.com",
+      "title": "中國匯市：人民幣兌美元中間價創近三年八個月新高，較路透預測偏弱約330點 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XZWt0UWJLVG9xaHpReC1sQS1lN0JBYTNwVFlkZC1OVm5VSFdzYmJRclctaDVUM2NadGIwRGV1b0RXdFdxc2V2eV9jeXg4OERDRWpNaWxURHZxR1ZGcnhYdVRSTEZ5RGdaYXpJcVkzYmlMbG9MdjRv?oc=5",
       "guid": "CBMid0FVX3lxTE1XZWt0UWJLVG9xaHpReC1sQS1lN0JBYTNwVFlkZC1OVm5VSFdzYmJRclctaDVUM2NadGIwRGV1b0RXdFdxc2V2eV9jeXg4OERDRWpNaWxURHZxR1ZGcnhYdVRSTEZ5RGdaYXpJcVkzYmlMbG9MdjRv",
       "pub_date": "Wed, 30 Sep 2026 01:24:06 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1XZWt0UWJLVG9xaHpReC1sQS1lN0JBYTNwVFlkZC1OVm5VSFdzYmJRclctaDVUM2NadGIwRGV1b0RXdFdxc2V2eV9jeXg4OERDRWpNaWxURHZxR1ZGcnhYdVRSTEZ5RGdaYXpJcVkzYmlMbG9MdjRv?oc=5\" target=\"_blank\">中國匯市：人民幣兌美元中間價創近三年八個月新高，較路透預測偏弱約330點</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.tradingview.com</font>",
-      "source_name": "es.tradingview.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1XZWt0UWJLVG9xaHpReC1sQS1lN0JBYTNwVFlkZC1OVm5VSFdzYmJRclctaDVUM2NadGIwRGV1b0RXdFdxc2V2eV9jeXg4OERDRWpNaWxURHZxR1ZGcnhYdVRSTEZ5RGdaYXpJcVkzYmlMbG9MdjRv?oc=5\" target=\"_blank\">中國匯市：人民幣兌美元中間價創近三年八個月新高，較路透預測偏弱約330點</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "source_name": "TradingView",
       "source_url": "https://es.tradingview.com"
     },
     {
@@ -4342,22 +4342,22 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "金融觀察/香港離岸人民幣市場擴容提質\\鄧宇- 經濟 - 大公文匯網",
+      "title": "金融觀察/香港離岸人民幣市場擴容提質\\鄧宇- 經濟 - epaper.tkww.hk",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WR3VZaUtxREplbkExYk9EaVFLZERtb1Q1WVRZZVFzZXNyNU5hTEwtRFh5cUltdk00SFJQSDVtUWlWLThiX0N5N3kzT0VUelJyanozVlFXUmVUd0luX0xiWmROMjA5U2U4UzY1dlB4SUtPUFNQ?oc=5",
       "guid": "CBMidEFVX3lxTE9WR3VZaUtxREplbkExYk9EaVFLZERtb1Q1WVRZZVFzZXNyNU5hTEwtRFh5cUltdk00SFJQSDVtUWlWLThiX0N5N3kzT0VUelJyanozVlFXUmVUd0luX0xiWmROMjA5U2U4UzY1dlB4SUtPUFNQ",
       "pub_date": "Sun, 04 Oct 2026 08:18:21 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9WR3VZaUtxREplbkExYk9EaVFLZERtb1Q1WVRZZVFzZXNyNU5hTEwtRFh5cUltdk00SFJQSDVtUWlWLThiX0N5N3kzT0VUelJyanozVlFXUmVUd0luX0xiWmROMjA5U2U4UzY1dlB4SUtPUFNQ?oc=5\" target=\"_blank\">金融觀察/香港離岸人民幣市場擴容提質\\鄧宇- 經濟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">大公文匯網</font>",
-      "source_name": "大公文匯網",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9WR3VZaUtxREplbkExYk9EaVFLZERtb1Q1WVRZZVFzZXNyNU5hTEwtRFh5cUltdk00SFJQSDVtUWlWLThiX0N5N3kzT0VUelJyanozVlFXUmVUd0luX0xiWmROMjA5U2U4UzY1dlB4SUtPUFNQ?oc=5\" target=\"_blank\">金融觀察/香港離岸人民幣市場擴容提質\\鄧宇- 經濟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">epaper.tkww.hk</font>",
+      "source_name": "epaper.tkww.hk",
       "source_url": "https://epaper.tkww.hk"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "A股IPO第三季降溫今年前三季募資仍逾人民幣2,200億元- 兩岸 - 工商時報",
+      "title": "A股IPO第三季降溫今年前三季募資仍逾人民幣2,200億元- 兩岸 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wQjBHbzZ5dlg4VDV2cVFnM2NRaklrbXc2LTNXcXJpVy1ZVERRbk56eVFjeEw5d3JiczZHLWV5bDBvWEl5aDFtQmwtR2RvWmJuRFhBSmM1NEdGU1lrYWdn?oc=5",
       "guid": "CBMiX0FVX3lxTE4wQjBHbzZ5dlg4VDV2cVFnM2NRaklrbXc2LTNXcXJpVy1ZVERRbk56eVFjeEw5d3JiczZHLWV5bDBvWEl5aDFtQmwtR2RvWmJuRFhBSmM1NEdGU1lrYWdn",
       "pub_date": "Sat, 03 Oct 2026 09:20:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wQjBHbzZ5dlg4VDV2cVFnM2NRaklrbXc2LTNXcXJpVy1ZVERRbk56eVFjeEw5d3JiczZHLWV5bDBvWEl5aDFtQmwtR2RvWmJuRFhBSmM1NEdGU1lrYWdn?oc=5\" target=\"_blank\">A股IPO第三季降溫今年前三季募資仍逾人民幣2,200億元- 兩岸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wQjBHbzZ5dlg4VDV2cVFnM2NRaklrbXc2LTNXcXJpVy1ZVERRbk56eVFjeEw5d3JiczZHLWV5bDBvWEl5aDFtQmwtR2RvWmJuRFhBSmM1NEdGU1lrYWdn?oc=5\" target=\"_blank\">A股IPO第三季降溫今年前三季募資仍逾人民幣2,200億元- 兩岸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -4422,32 +4422,22 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "人民幣走向世界 聯博人民幣收益策略 迎接點心債大趨勢 | 專題透視 - 新聞 - etnet.com.hk",
+      "title": "人民幣走向世界 聯博人民幣收益策略 迎接點心債大趨勢 | 專題透視 - 新聞 - etnet 經濟通",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmtkRF91cGlqZXFqTE14ejRTTVprcExHUExqeTVZdThCUGcteW93N3ZRdWZDWGxmMnQwa1RfNWlEU1NiUWExTXQzaWRzbC1rdWJ5clZOY2dEdVE0NnYyXzZPS1Y2dFVuRXhvenpoYmxlZHBoWHIwdmhqcjlSWk9ldFd2QWE5cVM3Sjdnbw?oc=5",
       "guid": "CBMijAFBVV95cUxOdmtkRF91cGlqZXFqTE14ejRTTVprcExHUExqeTVZdThCUGcteW93N3ZRdWZDWGxmMnQwa1RfNWlEU1NiUWExTXQzaWRzbC1rdWJ5clZOY2dEdVE0NnYyXzZPS1Y2dFVuRXhvenpoYmxlZHBoWHIwdmhqcjlSWk9ldFd2QWE5cVM3Sjdnbw",
       "pub_date": "Mon, 05 Oct 2026 04:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmtkRF91cGlqZXFqTE14ejRTTVprcExHUExqeTVZdThCUGcteW93N3ZRdWZDWGxmMnQwa1RfNWlEU1NiUWExTXQzaWRzbC1rdWJ5clZOY2dEdVE0NnYyXzZPS1Y2dFVuRXhvenpoYmxlZHBoWHIwdmhqcjlSWk9ldFd2QWE5cVM3Sjdnbw?oc=5\" target=\"_blank\">人民幣走向世界 聯博人民幣收益策略 迎接點心債大趨勢 | 專題透視 - 新聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">etnet.com.hk</font>",
-      "source_name": "etnet.com.hk",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmtkRF91cGlqZXFqTE14ejRTTVprcExHUExqeTVZdThCUGcteW93N3ZRdWZDWGxmMnQwa1RfNWlEU1NiUWExTXQzaWRzbC1rdWJ5clZOY2dEdVE0NnYyXzZPS1Y2dFVuRXhvenpoYmxlZHBoWHIwdmhqcjlSWk9ldFd2QWE5cVM3Sjdnbw?oc=5\" target=\"_blank\">人民幣走向世界 聯博人民幣收益策略 迎接點心債大趨勢 | 專題透視 - 新聞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">etnet 經濟通</font>",
+      "source_name": "etnet 經濟通",
       "source_url": "https://www.etnet.com.hk"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "中國撥出2500 億元人民幣推消費品以舊換新計劃 - 巴士的報",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPbnVPaUY1Q0o4Qlc0WlJSYlBWR0hwVXpualk5X01VWGF2QVRsVTIyZGItblQ5RmNtMnpaajRmY3RjaXpQMFBlcEpvTDVhWV9qd0xlVDVoTUljMXpkZ1pfNE5VTG5XOTdMNFZBMmJqN2I3Z1ZodUpHdEtjVDRkNVV0WmdrQmhneEJjUEhTeEZtVkNBSU54ZXNNcVlfdk9WRXZJRHhTaU9Lb2I4QXhpcDRyZGl5MGVaN01iNjRYLTNzcDN1Q1FidEtFVTJrQk9TY0tEX1ZrVnB3YWZuNERjdkN0UmY4UHNhcWZORF9XaE9PR3kxRElYLVhqN2ZkMUJWNm5jeVktSHhHMmhxN0h2RzdqZW83d2xBZkxpb2dtQ2dpMHF4R3dCMjlsd2pLYTMxRW9fclMzMFp2dFdHWGV5NDRva1J1R0gxNkFJLUhDTGJwUQ?oc=5",
-      "guid": "CBMizwJBVV95cUxPbnVPaUY1Q0o4Qlc0WlJSYlBWR0hwVXpualk5X01VWGF2QVRsVTIyZGItblQ5RmNtMnpaajRmY3RjaXpQMFBlcEpvTDVhWV9qd0xlVDVoTUljMXpkZ1pfNE5VTG5XOTdMNFZBMmJqN2I3Z1ZodUpHdEtjVDRkNVV0WmdrQmhneEJjUEhTeEZtVkNBSU54ZXNNcVlfdk9WRXZJRHhTaU9Lb2I4QXhpcDRyZGl5MGVaN01iNjRYLTNzcDN1Q1FidEtFVTJrQk9TY0tEX1ZrVnB3YWZuNERjdkN0UmY4UHNhcWZORF9XaE9PR3kxRElYLVhqN2ZkMUJWNm5jeVktSHhHMmhxN0h2RzdqZW83d2xBZkxpb2dtQ2dpMHF4R3dCMjlsd2pLYTMxRW9fclMzMFp2dFdHWGV5NDRva1J1R0gxNkFJLUhDTGJwUQ",
-      "pub_date": "Fri, 02 Oct 2026 13:48:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxPbnVPaUY1Q0o4Qlc0WlJSYlBWR0hwVXpualk5X01VWGF2QVRsVTIyZGItblQ5RmNtMnpaajRmY3RjaXpQMFBlcEpvTDVhWV9qd0xlVDVoTUljMXpkZ1pfNE5VTG5XOTdMNFZBMmJqN2I3Z1ZodUpHdEtjVDRkNVV0WmdrQmhneEJjUEhTeEZtVkNBSU54ZXNNcVlfdk9WRXZJRHhTaU9Lb2I4QXhpcDRyZGl5MGVaN01iNjRYLTNzcDN1Q1FidEtFVTJrQk9TY0tEX1ZrVnB3YWZuNERjdkN0UmY4UHNhcWZORF9XaE9PR3kxRElYLVhqN2ZkMUJWNm5jeVktSHhHMmhxN0h2RzdqZW83d2xBZkxpb2dtQ2dpMHF4R3dCMjlsd2pLYTMxRW9fclMzMFp2dFdHWGV5NDRva1J1R0gxNkFJLUhDTGJwUQ?oc=5\" target=\"_blank\">中國撥出2500 億元人民幣推消費品以舊換新計劃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">巴士的報</font>",
-      "source_name": "巴士的報",
-      "source_url": "https://www.bastillepost.com"
-    },
-    {
-      "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "外幣現金💱日圓、美元、人民幣、歐元兌換新台幣匯率一覽表 - 鷹眼觀察",
+      "title": "外幣現金💱日圓、美元、人民幣、歐元兌換新台幣匯率一覽表 - vedfolnir.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54TlE1WHZKZ0FRYXBIVjhsN1ZMZFgzdVhFSG9zTEx6T3N5RHctTk5VVGxmSVB0ZTVGTmhFTGhnNC04anpyekJsQ0xVc0Y2WWVBeFpQMTYzVQ?oc=5",
       "guid": "CBMiV0FVX3lxTE54TlE1WHZKZ0FRYXBIVjhsN1ZMZFgzdVhFSG9zTEx6T3N5RHctTk5VVGxmSVB0ZTVGTmhFTGhnNC04anpyekJsQ0xVc0Y2WWVBeFpQMTYzVQ",
       "pub_date": "Sun, 04 Oct 2026 22:16:26 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE54TlE1WHZKZ0FRYXBIVjhsN1ZMZFgzdVhFSG9zTEx6T3N5RHctTk5VVGxmSVB0ZTVGTmhFTGhnNC04anpyekJsQ0xVc0Y2WWVBeFpQMTYzVQ?oc=5\" target=\"_blank\">外幣現金💱日圓、美元、人民幣、歐元兌換新台幣匯率一覽表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">鷹眼觀察</font>",
-      "source_name": "鷹眼觀察",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE54TlE1WHZKZ0FRYXBIVjhsN1ZMZFgzdVhFSG9zTEx6T3N5RHctTk5VVGxmSVB0ZTVGTmhFTGhnNC04anpyekJsQ0xVc0Y2WWVBeFpQMTYzVQ?oc=5\" target=\"_blank\">外幣現金💱日圓、美元、人民幣、歐元兌換新台幣匯率一覽表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vedfolnir.com</font>",
+      "source_name": "vedfolnir.com",
       "source_url": "https://www.vedfolnir.com"
     },
     {
@@ -4472,16 +4462,6 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "蔡康永遭出征嗆「別來賺人民幣」 蔣萬安籲對岸：尊重台灣自由民主 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNTVBRl9Wa09sOWtMTXZXdVVkWDF6SFJDRjJiS2lpN2ktTlFyazZZN2Y4ZnJiaHRuVGZzajItV1ZkcE5JeFFqS3dQblhZX1ZWMUJ3?oc=5",
-      "guid": "CBMiU0FVX3lxTFBpNTVBRl9Wa09sOWtMTXZXdVVkWDF6SFJDRjJiS2lpN2ktTlFyazZZN2Y4ZnJiaHRuVGZzajItV1ZkcE5JeFFqS3dQblhZX1ZWMUJ3",
-      "pub_date": "Mon, 05 Oct 2026 02:27:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNTVBRl9Wa09sOWtMTXZXdVVkWDF6SFJDRjJiS2lpN2ktTlFyazZZN2Y4ZnJiaHRuVGZzajItV1ZkcE5JeFFqS3dQblhZX1ZWMUJ3?oc=5\" target=\"_blank\">蔡康永遭出征嗆「別來賺人民幣」 蔣萬安籲對岸：尊重台灣自由民主</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TVBS新聞網</font>",
-      "source_name": "TVBS新聞網",
-      "source_url": "https://news.tvbs.com.tw"
-    },
-    {
-      "query": "陸股 OR 中國股市 OR 人民幣",
       "title": "蔡康永現身沈伯洋12萬人造勢衝微博熱搜！中國車商切割 網喊抵制：別想再賺一分人民幣 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxQc3ZzLWN5Nm5aUzRzRk1acVhDYVZEZWhzckp3Mld4V3NJbGx6YklsWGpyZHNXWWd3bFZ5RnhaZjJSMjZVWmdTX3VlOXZwNXlidkdoWEZUVnF2N1YtOHFlWm1kWE45d1oyNXJmcWtUeVBNeDVtUnRuX00tRWwxM1VBcG52U0dhdFgwWW1MUjVpU1hJTVJNSUwwZlN1b2g1bmd5WVgySjR5LUdHRUROSFBmLXdSMnhrSGd0eEpRMTE2OVVBVjJxVUlTaVpERjZaZG5OeGdVSEY3cTljaEVjeURiZk5UVEMxUzgweE1lMnhhS1hpVkJLNEVSNFYwWGFSV2ZXRk1jQzNCalVYa1JNWk0tMjAtd3FwLWVzd0JUbDNETnlVcndTOHhQS2NtZmlLQklNTjBLeDdQRWlWWTNoQTNKbXp4Smo4QlpxYm9IdXY2S0JYS1duSm5fQjR1SGlLWEhLaUFQLVRocmpKazBhTkNFbWpaSEpxeW9kRk5DTTNwR2o0dl9mTGt5N1M2QkF5dkt5UklUZVhXY2lKZXMxbXFzY29JUzBRRDlVbllVdkRGRnpYTHVDcXNNZDdHcmRsT1lMTWtpcmZVVThVd0V6em1TWWFlR25leG5sQjE4UjNyNW1pTUNURzVzcVNFSmlkckRMQVVMY3hOSHdJYUs2RmNj?oc=5",
       "guid": "CBMi_wNBVV95cUxQc3ZzLWN5Nm5aUzRzRk1acVhDYVZEZWhzckp3Mld4V3NJbGx6YklsWGpyZHNXWWd3bFZ5RnhaZjJSMjZVWmdTX3VlOXZwNXlidkdoWEZUVnF2N1YtOHFlWm1kWE45d1oyNXJmcWtUeVBNeDVtUnRuX00tRWwxM1VBcG52U0dhdFgwWW1MUjVpU1hJTVJNSUwwZlN1b2g1bmd5WVgySjR5LUdHRUROSFBmLXdSMnhrSGd0eEpRMTE2OVVBVjJxVUlTaVpERjZaZG5OeGdVSEY3cTljaEVjeURiZk5UVEMxUzgweE1lMnhhS1hpVkJLNEVSNFYwWGFSV2ZXRk1jQzNCalVYa1JNWk0tMjAtd3FwLWVzd0JUbDNETnlVcndTOHhQS2NtZmlLQklNTjBLeDdQRWlWWTNoQTNKbXp4Smo4QlpxYm9IdXY2S0JYS1duSm5fQjR1SGlLWEhLaUFQLVRocmpKazBhTkNFbWpaSEpxeW9kRk5DTTNwR2o0dl9mTGt5N1M2QkF5dkt5UklUZVhXY2lKZXMxbXFzY29JUzBRRDlVbllVdkRGRnpYTHVDcXNNZDdHcmRsT1lMTWtpcmZVVThVd0V6em1TWWFlR25leG5sQjE4UjNyNW1pTUNURzVzcVNFSmlkckRMQVVMY3hOSHdJYUs2RmNj",
@@ -4489,6 +4469,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMi_wNBVV95cUxQc3ZzLWN5Nm5aUzRzRk1acVhDYVZEZWhzckp3Mld4V3NJbGx6YklsWGpyZHNXWWd3bFZ5RnhaZjJSMjZVWmdTX3VlOXZwNXlidkdoWEZUVnF2N1YtOHFlWm1kWE45d1oyNXJmcWtUeVBNeDVtUnRuX00tRWwxM1VBcG52U0dhdFgwWW1MUjVpU1hJTVJNSUwwZlN1b2g1bmd5WVgySjR5LUdHRUROSFBmLXdSMnhrSGd0eEpRMTE2OVVBVjJxVUlTaVpERjZaZG5OeGdVSEY3cTljaEVjeURiZk5UVEMxUzgweE1lMnhhS1hpVkJLNEVSNFYwWGFSV2ZXRk1jQzNCalVYa1JNWk0tMjAtd3FwLWVzd0JUbDNETnlVcndTOHhQS2NtZmlLQklNTjBLeDdQRWlWWTNoQTNKbXp4Smo4QlpxYm9IdXY2S0JYS1duSm5fQjR1SGlLWEhLaUFQLVRocmpKazBhTkNFbWpaSEpxeW9kRk5DTTNwR2o0dl9mTGt5N1M2QkF5dkt5UklUZVhXY2lKZXMxbXFzY29JUzBRRDlVbllVdkRGRnpYTHVDcXNNZDdHcmRsT1lMTWtpcmZVVThVd0V6em1TWWFlR25leG5sQjE4UjNyNW1pTUNURzVzcVNFSmlkckRMQVVMY3hOSHdJYUs2RmNj?oc=5\" target=\"_blank\">蔡康永現身沈伯洋12萬人造勢衝微博熱搜！中國車商切割 網喊抵制：別想再賺一分人民幣</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
       "source_name": "Yahoo新聞",
       "source_url": "https://tw.news.yahoo.com"
+    },
+    {
+      "query": "陸股 OR 中國股市 OR 人民幣",
+      "title": "蔡康永遭出征嗆「別來賺人民幣」 蔣萬安籲對岸：尊重台灣自由民主 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNTVBRl9Wa09sOWtMTXZXdVVkWDF6SFJDRjJiS2lpN2ktTlFyazZZN2Y4ZnJiaHRuVGZzajItV1ZkcE5JeFFqS3dQblhZX1ZWMUJ3?oc=5",
+      "guid": "CBMiU0FVX3lxTFBpNTVBRl9Wa09sOWtMTXZXdVVkWDF6SFJDRjJiS2lpN2ktTlFyazZZN2Y4ZnJiaHRuVGZzajItV1ZkcE5JeFFqS3dQblhZX1ZWMUJ3",
+      "pub_date": "Mon, 05 Oct 2026 02:27:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpNTVBRl9Wa09sOWtMTXZXdVVkWDF6SFJDRjJiS2lpN2ktTlFyazZZN2Y4ZnJiaHRuVGZzajItV1ZkcE5JeFFqS3dQblhZX1ZWMUJ3?oc=5\" target=\"_blank\">蔡康永遭出征嗆「別來賺人民幣」 蔣萬安籲對岸：尊重台灣自由民主</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TVBS新聞網</font>",
+      "source_name": "TVBS新聞網",
+      "source_url": "https://news.tvbs.com.tw"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
@@ -4542,12 +4532,12 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "人民幣支付丨許正宇：政府開支續以港元為主 聯繫匯率絕不受影響 - 橙新聞",
+      "title": "人民幣支付丨許正宇：政府開支續以港元為主 聯繫匯率絕不受影響 - orangenews.hk",
       "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNTlRyVjhhcVJISTBWQnB2LWgtRmtwNG9xek4wV2dLOGxiY2JWREdYeVlQWTBVTGc4SmhRM0wwcC1WTmF5OHl3Ry1fUkMyXzJBOU9sNWxvZXlfSHFwbGtRcXJhWEs3NWN2dWMxd25nczRqZTlNZFpaWGQ1c1hIRGxtemRJOEFDd2txT0NIMl9Fd3RTOVhidmZHc0ZMYmtSMXllMDVqb0V5eGdBUkZvUTNJeU55ZzRUaVVzLUIyT01BcVhDbFBhZ1ExZ2xNNGpDQXV2bDAtTEhpZko3WkFkQW80RGZOa0xvdy1NSGFEMUJoRjhxcVdmbExyZ0tZNkVBb2RaZnhJZVVUS29ocUI5eXp1RDBESzQybnVvQ2RxTlJ4Z3BPUldzMEdUVVREMm0tVHIya0NKbmgzQmFkZ2ZFOWNwYjNCT3pUalpRMGZKLU5UZlpXeXNKOFZRLW1zNUllZExRRml4cC12MklsVXRibl9yN2tJQWktQ1pMWHROQkdJMm9vblB3YVhqU3dvTzdkX1o2TDU4ODN6cUc5bFpqeTFn?oc=5",
       "guid": "CBMinwNBVV95cUxNTlRyVjhhcVJISTBWQnB2LWgtRmtwNG9xek4wV2dLOGxiY2JWREdYeVlQWTBVTGc4SmhRM0wwcC1WTmF5OHl3Ry1fUkMyXzJBOU9sNWxvZXlfSHFwbGtRcXJhWEs3NWN2dWMxd25nczRqZTlNZFpaWGQ1c1hIRGxtemRJOEFDd2txT0NIMl9Fd3RTOVhidmZHc0ZMYmtSMXllMDVqb0V5eGdBUkZvUTNJeU55ZzRUaVVzLUIyT01BcVhDbFBhZ1ExZ2xNNGpDQXV2bDAtTEhpZko3WkFkQW80RGZOa0xvdy1NSGFEMUJoRjhxcVdmbExyZ0tZNkVBb2RaZnhJZVVUS29ocUI5eXp1RDBESzQybnVvQ2RxTlJ4Z3BPUldzMEdUVVREMm0tVHIya0NKbmgzQmFkZ2ZFOWNwYjNCT3pUalpRMGZKLU5UZlpXeXNKOFZRLW1zNUllZExRRml4cC12MklsVXRibl9yN2tJQWktQ1pMWHROQkdJMm9vblB3YVhqU3dvTzdkX1o2TDU4ODN6cUc5bFpqeTFn",
       "pub_date": "Mon, 05 Oct 2026 03:40:24 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwNBVV95cUxNTlRyVjhhcVJISTBWQnB2LWgtRmtwNG9xek4wV2dLOGxiY2JWREdYeVlQWTBVTGc4SmhRM0wwcC1WTmF5OHl3Ry1fUkMyXzJBOU9sNWxvZXlfSHFwbGtRcXJhWEs3NWN2dWMxd25nczRqZTlNZFpaWGQ1c1hIRGxtemRJOEFDd2txT0NIMl9Fd3RTOVhidmZHc0ZMYmtSMXllMDVqb0V5eGdBUkZvUTNJeU55ZzRUaVVzLUIyT01BcVhDbFBhZ1ExZ2xNNGpDQXV2bDAtTEhpZko3WkFkQW80RGZOa0xvdy1NSGFEMUJoRjhxcVdmbExyZ0tZNkVBb2RaZnhJZVVUS29ocUI5eXp1RDBESzQybnVvQ2RxTlJ4Z3BPUldzMEdUVVREMm0tVHIya0NKbmgzQmFkZ2ZFOWNwYjNCT3pUalpRMGZKLU5UZlpXeXNKOFZRLW1zNUllZExRRml4cC12MklsVXRibl9yN2tJQWktQ1pMWHROQkdJMm9vblB3YVhqU3dvTzdkX1o2TDU4ODN6cUc5bFpqeTFn?oc=5\" target=\"_blank\">人民幣支付丨許正宇：政府開支續以港元為主 聯繫匯率絕不受影響</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">橙新聞</font>",
-      "source_name": "橙新聞",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinwNBVV95cUxNTlRyVjhhcVJISTBWQnB2LWgtRmtwNG9xek4wV2dLOGxiY2JWREdYeVlQWTBVTGc4SmhRM0wwcC1WTmF5OHl3Ry1fUkMyXzJBOU9sNWxvZXlfSHFwbGtRcXJhWEs3NWN2dWMxd25nczRqZTlNZFpaWGQ1c1hIRGxtemRJOEFDd2txT0NIMl9Fd3RTOVhidmZHc0ZMYmtSMXllMDVqb0V5eGdBUkZvUTNJeU55ZzRUaVVzLUIyT01BcVhDbFBhZ1ExZ2xNNGpDQXV2bDAtTEhpZko3WkFkQW80RGZOa0xvdy1NSGFEMUJoRjhxcVdmbExyZ0tZNkVBb2RaZnhJZVVUS29ocUI5eXp1RDBESzQybnVvQ2RxTlJ4Z3BPUldzMEdUVVREMm0tVHIya0NKbmgzQmFkZ2ZFOWNwYjNCT3pUalpRMGZKLU5UZlpXeXNKOFZRLW1zNUllZExRRml4cC12MklsVXRibl9yN2tJQWktQ1pMWHROQkdJMm9vblB3YVhqU3dvTzdkX1o2TDU4ODN6cUc5bFpqeTFn?oc=5\" target=\"_blank\">人民幣支付丨許正宇：政府開支續以港元為主 聯繫匯率絕不受影響</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">orangenews.hk</font>",
+      "source_name": "orangenews.hk",
       "source_url": "https://www.orangenews.hk"
     },
     {
@@ -4582,16 +4572,6 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "【商界心聲】從石油美元到新能源人民幣：一場改寫世界秩序的中國突圍 - hkcd.com.hk",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4eVVoamVNaGVCR3FrRGFHdHFndnF0TnVsQVVlTnBXMkNaR1I3cXFWSEl1UFVWU01CTFhQSUstZ0VvMjQzWndZSjJmRk91cmtPdmxvSHJlYjR0RDRZQW9MMW9kMVJiVnNDZTZTdDRybW1jMzQ0S0RWQTZmNA?oc=5",
-      "guid": "CBMie0FVX3lxTFB4eVVoamVNaGVCR3FrRGFHdHFndnF0TnVsQVVlTnBXMkNaR1I3cXFWSEl1UFVWU01CTFhQSUstZ0VvMjQzWndZSjJmRk91cmtPdmxvSHJlYjR0RDRZQW9MMW9kMVJiVnNDZTZTdDRybW1jMzQ0S0RWQTZmNA",
-      "pub_date": "Mon, 05 Oct 2026 02:28:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB4eVVoamVNaGVCR3FrRGFHdHFndnF0TnVsQVVlTnBXMkNaR1I3cXFWSEl1UFVWU01CTFhQSUstZ0VvMjQzWndZSjJmRk91cmtPdmxvSHJlYjR0RDRZQW9MMW9kMVJiVnNDZTZTdDRybW1jMzQ0S0RWQTZmNA?oc=5\" target=\"_blank\">【商界心聲】從石油美元到新能源人民幣：一場改寫世界秩序的中國突圍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hkcd.com.hk</font>",
-      "source_name": "hkcd.com.hk",
-      "source_url": "https://www.hkcd.com.hk"
-    },
-    {
-      "query": "陸股 OR 中國股市 OR 人民幣",
       "title": "全球首個離岸人民幣創投基金香港啟動 落地人工智能賽道 - hkcna.hk",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5NkpzNmw5eEs3cXhqYV9FNXV6M3Z0TWN0Wk1YRUUyUVJocFZVckJOVVJFR19YR3J1bkEzSmJRRVpacG1DdW9JczRkNERVcE5ZaHJVcHVUUThyRFlwNEFvbGtjYld6RTk2MlRoaXh4SUpGVG8?oc=5",
       "guid": "CBMic0FVX3lxTFB5NkpzNmw5eEs3cXhqYV9FNXV6M3Z0TWN0Wk1YRUUyUVJocFZVckJOVVJFR19YR3J1bkEzSmJRRVpacG1DdW9JczRkNERVcE5ZaHJVcHVUUThyRFlwNEFvbGtjYld6RTk2MlRoaXh4SUpGVG8",
@@ -4599,6 +4579,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFB5NkpzNmw5eEs3cXhqYV9FNXV6M3Z0TWN0Wk1YRUUyUVJocFZVckJOVVJFR19YR3J1bkEzSmJRRVpacG1DdW9JczRkNERVcE5ZaHJVcHVUUThyRFlwNEFvbGtjYld6RTk2MlRoaXh4SUpGVG8?oc=5\" target=\"_blank\">全球首個離岸人民幣創投基金香港啟動 落地人工智能賽道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hkcna.hk</font>",
       "source_name": "hkcna.hk",
       "source_url": "https://www.hkcna.hk"
+    },
+    {
+      "query": "陸股 OR 中國股市 OR 人民幣",
+      "title": "【商界心聲】從石油美元到新能源人民幣：一場改寫世界秩序的中國突圍 - 香港商报",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4eVVoamVNaGVCR3FrRGFHdHFndnF0TnVsQVVlTnBXMkNaR1I3cXFWSEl1UFVWU01CTFhQSUstZ0VvMjQzWndZSjJmRk91cmtPdmxvSHJlYjR0RDRZQW9MMW9kMVJiVnNDZTZTdDRybW1jMzQ0S0RWQTZmNA?oc=5",
+      "guid": "CBMie0FVX3lxTFB4eVVoamVNaGVCR3FrRGFHdHFndnF0TnVsQVVlTnBXMkNaR1I3cXFWSEl1UFVWU01CTFhQSUstZ0VvMjQzWndZSjJmRk91cmtPdmxvSHJlYjR0RDRZQW9MMW9kMVJiVnNDZTZTdDRybW1jMzQ0S0RWQTZmNA",
+      "pub_date": "Mon, 05 Oct 2026 02:28:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFB4eVVoamVNaGVCR3FrRGFHdHFndnF0TnVsQVVlTnBXMkNaR1I3cXFWSEl1UFVWU01CTFhQSUstZ0VvMjQzWndZSjJmRk91cmtPdmxvSHJlYjR0RDRZQW9MMW9kMVJiVnNDZTZTdDRybW1jMzQ0S0RWQTZmNA?oc=5\" target=\"_blank\">【商界心聲】從石油美元到新能源人民幣：一場改寫世界秩序的中國突圍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">香港商报</font>",
+      "source_name": "香港商报",
+      "source_url": "https://www.hkcd.com.hk"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
@@ -4622,12 +4612,12 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "十一黃金周｜本台直擊48元人民幣香港一天團導遊臨時加插購物行程兼推銷疑未有註冊中成藥產品 - Yahoo",
+      "title": "十一黃金周｜本台直擊48元人民幣香港一天團導遊臨時加插購物行程兼推銷疑未有註冊中成藥產品 - hk.news.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMirwRBVV95cUxQcU5XYWZ0Y0VSNW5EOWhyODJlazF5ak1NUS0weFZhMVl3WF96MC1DMk9qbWZLZGdyRjJVTFE0RmdxOFVidmhiYW52cnltWVdYZFAxYjBtRmkwb1djbzJabzdNcWVtUTNER3l6S29CY1FkMHJ3d3g2NHhBUDZMdHdVcllvZXBTWEFnTTlsNXlXTUhKYTdtYXBhMGxyZWZnb1VFd25ZT2EtN3pBSmFWSU45OWE0ZnFaV0VvM3VZbDNobkNNdGVCNTE3V0Y1U2Q4WnNaM1J2eXNsZXNZWWhsZDMtOVlpVnkyd1RJVVgzaFBJdmlBOTlBdnRGQ3c3TmtrSHJoUXZBaDlfNEVSelF4bUhveWtMeUlWV3V0eFdRR1prN1lzLWFUUXZaZlFhXzZISTFyYlV2a3QxNXlxYTZMbE95NUV0S081VGJRczE2LU1zYS1GNWJOYXJudHV4SjNOWG8wU2hKdXg2d3pZVTRob2swUHV5YUdld2JuNWVRaHFXZmd5c3MtYlYxY1U3aVlNVHJmS2FOSlBiNkxUTktNN090SDhzckRZSjY1MWtKMWg4elpJcFJ1WjBqakQySFFodzNhUlo2cm0tSjlETXZiN0l1dXBLcmpKZVVIcnlrdU84VG41NUw1VXVhSzlON0hzcFNBVnBUbEtaa21yWHpNemRsN0hqclEwQ1JvMm41QVNvVU9lMzZ2SlA2QU1QNVk2ZFhlRmEzc2FJUzdGZE5YdEdj?oc=5",
       "guid": "CBMirwRBVV95cUxQcU5XYWZ0Y0VSNW5EOWhyODJlazF5ak1NUS0weFZhMVl3WF96MC1DMk9qbWZLZGdyRjJVTFE0RmdxOFVidmhiYW52cnltWVdYZFAxYjBtRmkwb1djbzJabzdNcWVtUTNER3l6S29CY1FkMHJ3d3g2NHhBUDZMdHdVcllvZXBTWEFnTTlsNXlXTUhKYTdtYXBhMGxyZWZnb1VFd25ZT2EtN3pBSmFWSU45OWE0ZnFaV0VvM3VZbDNobkNNdGVCNTE3V0Y1U2Q4WnNaM1J2eXNsZXNZWWhsZDMtOVlpVnkyd1RJVVgzaFBJdmlBOTlBdnRGQ3c3TmtrSHJoUXZBaDlfNEVSelF4bUhveWtMeUlWV3V0eFdRR1prN1lzLWFUUXZaZlFhXzZISTFyYlV2a3QxNXlxYTZMbE95NUV0S081VGJRczE2LU1zYS1GNWJOYXJudHV4SjNOWG8wU2hKdXg2d3pZVTRob2swUHV5YUdld2JuNWVRaHFXZmd5c3MtYlYxY1U3aVlNVHJmS2FOSlBiNkxUTktNN090SDhzckRZSjY1MWtKMWg4elpJcFJ1WjBqakQySFFodzNhUlo2cm0tSjlETXZiN0l1dXBLcmpKZVVIcnlrdU84VG41NUw1VXVhSzlON0hzcFNBVnBUbEtaa21yWHpNemRsN0hqclEwQ1JvMm41QVNvVU9lMzZ2SlA2QU1QNVk2ZFhlRmEzc2FJUzdGZE5YdEdj",
       "pub_date": "Thu, 01 Oct 2026 23:32:24 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwRBVV95cUxQcU5XYWZ0Y0VSNW5EOWhyODJlazF5ak1NUS0weFZhMVl3WF96MC1DMk9qbWZLZGdyRjJVTFE0RmdxOFVidmhiYW52cnltWVdYZFAxYjBtRmkwb1djbzJabzdNcWVtUTNER3l6S29CY1FkMHJ3d3g2NHhBUDZMdHdVcllvZXBTWEFnTTlsNXlXTUhKYTdtYXBhMGxyZWZnb1VFd25ZT2EtN3pBSmFWSU45OWE0ZnFaV0VvM3VZbDNobkNNdGVCNTE3V0Y1U2Q4WnNaM1J2eXNsZXNZWWhsZDMtOVlpVnkyd1RJVVgzaFBJdmlBOTlBdnRGQ3c3TmtrSHJoUXZBaDlfNEVSelF4bUhveWtMeUlWV3V0eFdRR1prN1lzLWFUUXZaZlFhXzZISTFyYlV2a3QxNXlxYTZMbE95NUV0S081VGJRczE2LU1zYS1GNWJOYXJudHV4SjNOWG8wU2hKdXg2d3pZVTRob2swUHV5YUdld2JuNWVRaHFXZmd5c3MtYlYxY1U3aVlNVHJmS2FOSlBiNkxUTktNN090SDhzckRZSjY1MWtKMWg4elpJcFJ1WjBqakQySFFodzNhUlo2cm0tSjlETXZiN0l1dXBLcmpKZVVIcnlrdU84VG41NUw1VXVhSzlON0hzcFNBVnBUbEtaa21yWHpNemRsN0hqclEwQ1JvMm41QVNvVU9lMzZ2SlA2QU1QNVk2ZFhlRmEzc2FJUzdGZE5YdEdj?oc=5\" target=\"_blank\">十一黃金周｜本台直擊48元人民幣香港一天團導遊臨時加插購物行程兼推銷疑未有註冊中成藥產品</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "source_name": "Yahoo",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMirwRBVV95cUxQcU5XYWZ0Y0VSNW5EOWhyODJlazF5ak1NUS0weFZhMVl3WF96MC1DMk9qbWZLZGdyRjJVTFE0RmdxOFVidmhiYW52cnltWVdYZFAxYjBtRmkwb1djbzJabzdNcWVtUTNER3l6S29CY1FkMHJ3d3g2NHhBUDZMdHdVcllvZXBTWEFnTTlsNXlXTUhKYTdtYXBhMGxyZWZnb1VFd25ZT2EtN3pBSmFWSU45OWE0ZnFaV0VvM3VZbDNobkNNdGVCNTE3V0Y1U2Q4WnNaM1J2eXNsZXNZWWhsZDMtOVlpVnkyd1RJVVgzaFBJdmlBOTlBdnRGQ3c3TmtrSHJoUXZBaDlfNEVSelF4bUhveWtMeUlWV3V0eFdRR1prN1lzLWFUUXZaZlFhXzZISTFyYlV2a3QxNXlxYTZMbE95NUV0S081VGJRczE2LU1zYS1GNWJOYXJudHV4SjNOWG8wU2hKdXg2d3pZVTRob2swUHV5YUdld2JuNWVRaHFXZmd5c3MtYlYxY1U3aVlNVHJmS2FOSlBiNkxUTktNN090SDhzckRZSjY1MWtKMWg4elpJcFJ1WjBqakQySFFodzNhUlo2cm0tSjlETXZiN0l1dXBLcmpKZVVIcnlrdU84VG41NUw1VXVhSzlON0hzcFNBVnBUbEtaa21yWHpNemRsN0hqclEwQ1JvMm41QVNvVU9lMzZ2SlA2QU1QNVk2ZFhlRmEzc2FJUzdGZE5YdEdj?oc=5\" target=\"_blank\">十一黃金周｜本台直擊48元人民幣香港一天團導遊臨時加插購物行程兼推銷疑未有註冊中成藥產品</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hk.news.yahoo.com</font>",
+      "source_name": "hk.news.yahoo.com",
       "source_url": "https://hk.news.yahoo.com"
     },
     {
@@ -4692,32 +4682,32 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "中國匯市：人民幣收創近一周新低，美元偏強且長假臨近共同推升購匯需求 - es.tradingview.com",
+      "title": "中國匯市：人民幣收創近一周新低，美元偏強且長假臨近共同推升購匯需求 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SbWVzcmhCM3VwYUMwM2RUUnE5aTFFWmpkVmp2RzdCd2NTMTJUYUkzT3dBRmRlODJMOG1HaFNtLWRHa25TTUFUaHNDU2RSU24zRnNTaTdtMFQ5cDA5aDRYV3B2NFprOFE1NjRrTjRvX19ZR1BKTngw?oc=5",
       "guid": "CBMid0FVX3lxTE9SbWVzcmhCM3VwYUMwM2RUUnE5aTFFWmpkVmp2RzdCd2NTMTJUYUkzT3dBRmRlODJMOG1HaFNtLWRHa25TTUFUaHNDU2RSU24zRnNTaTdtMFQ5cDA5aDRYV3B2NFprOFE1NjRrTjRvX19ZR1BKTngw",
       "pub_date": "Wed, 23 Sep 2026 07:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9SbWVzcmhCM3VwYUMwM2RUUnE5aTFFWmpkVmp2RzdCd2NTMTJUYUkzT3dBRmRlODJMOG1HaFNtLWRHa25TTUFUaHNDU2RSU24zRnNTaTdtMFQ5cDA5aDRYV3B2NFprOFE1NjRrTjRvX19ZR1BKTngw?oc=5\" target=\"_blank\">中國匯市：人民幣收創近一周新低，美元偏強且長假臨近共同推升購匯需求</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">es.tradingview.com</font>",
-      "source_name": "es.tradingview.com",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9SbWVzcmhCM3VwYUMwM2RUUnE5aTFFWmpkVmp2RzdCd2NTMTJUYUkzT3dBRmRlODJMOG1HaFNtLWRHa25TTUFUaHNDU2RSU24zRnNTaTdtMFQ5cDA5aDRYV3B2NFprOFE1NjRrTjRvX19ZR1BKTngw?oc=5\" target=\"_blank\">中國匯市：人民幣收創近一周新低，美元偏強且長假臨近共同推升購匯需求</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "source_name": "TradingView",
       "source_url": "https://es.tradingview.com"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "中國電影票房截至今年已超300億元人民幣 國慶檔《神探之痕跡》領先 - 巴士的報",
+      "title": "中國電影票房截至今年已超300億元人民幣 國慶檔《神探之痕跡》領先 - bastillepost.com",
       "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPOTlMNlhmQTJpNTBNOU5wcTJaSkdNREtGcl9LS2NuMENMUERoLVd4ek9rZjZjUHczZGswN1dnbUQzemExMDRXOEVTNWdyU0RjaTQ4TXh3NGl2NzFfRUNxWUxidjhNZXY5T1dOc1QtSlhmU09NN2Z4Y1prTzFGT0ZKbmptaWVVdEY4Sk9BUzgtaWFUUFpnU2xfNzZfSjVScGFiOFVud2JTbTNTS0psOFpmZHRydW54V0xINTF1SGdhVzR3bUJZVG5JYzNyS3p2S1hqbk4wQzVwSjU5VmIyaDlxblVkYkxlQjJfVnBKdFZrV2lPNENEalA1R09mdC0xZmJKbENjNGRaeHhxRUlvRkZOQ3JqZUVoZmRKLUJxM3lrSDM2SHZ2YW1yN3ZfQmVCR1NSelBhSXhuNG81QXZZUlhBcVZ0SEZkN3ZrOXRVX1JuV253Zmx4MFBNY3gwLUFnbDRua2g5TkVrTQ?oc=5",
       "guid": "CBMi5wJBVV95cUxPOTlMNlhmQTJpNTBNOU5wcTJaSkdNREtGcl9LS2NuMENMUERoLVd4ek9rZjZjUHczZGswN1dnbUQzemExMDRXOEVTNWdyU0RjaTQ4TXh3NGl2NzFfRUNxWUxidjhNZXY5T1dOc1QtSlhmU09NN2Z4Y1prTzFGT0ZKbmptaWVVdEY4Sk9BUzgtaWFUUFpnU2xfNzZfSjVScGFiOFVud2JTbTNTS0psOFpmZHRydW54V0xINTF1SGdhVzR3bUJZVG5JYzNyS3p2S1hqbk4wQzVwSjU5VmIyaDlxblVkYkxlQjJfVnBKdFZrV2lPNENEalA1R09mdC0xZmJKbENjNGRaeHhxRUlvRkZOQ3JqZUVoZmRKLUJxM3lrSDM2SHZ2YW1yN3ZfQmVCR1NSelBhSXhuNG81QXZZUlhBcVZ0SEZkN3ZrOXRVX1JuV253Zmx4MFBNY3gwLUFnbDRua2g5TkVrTQ",
       "pub_date": "Sat, 03 Oct 2026 08:37:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPOTlMNlhmQTJpNTBNOU5wcTJaSkdNREtGcl9LS2NuMENMUERoLVd4ek9rZjZjUHczZGswN1dnbUQzemExMDRXOEVTNWdyU0RjaTQ4TXh3NGl2NzFfRUNxWUxidjhNZXY5T1dOc1QtSlhmU09NN2Z4Y1prTzFGT0ZKbmptaWVVdEY4Sk9BUzgtaWFUUFpnU2xfNzZfSjVScGFiOFVud2JTbTNTS0psOFpmZHRydW54V0xINTF1SGdhVzR3bUJZVG5JYzNyS3p2S1hqbk4wQzVwSjU5VmIyaDlxblVkYkxlQjJfVnBKdFZrV2lPNENEalA1R09mdC0xZmJKbENjNGRaeHhxRUlvRkZOQ3JqZUVoZmRKLUJxM3lrSDM2SHZ2YW1yN3ZfQmVCR1NSelBhSXhuNG81QXZZUlhBcVZ0SEZkN3ZrOXRVX1JuV253Zmx4MFBNY3gwLUFnbDRua2g5TkVrTQ?oc=5\" target=\"_blank\">中國電影票房截至今年已超300億元人民幣 國慶檔《神探之痕跡》領先</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">巴士的報</font>",
-      "source_name": "巴士的報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi5wJBVV95cUxPOTlMNlhmQTJpNTBNOU5wcTJaSkdNREtGcl9LS2NuMENMUERoLVd4ek9rZjZjUHczZGswN1dnbUQzemExMDRXOEVTNWdyU0RjaTQ4TXh3NGl2NzFfRUNxWUxidjhNZXY5T1dOc1QtSlhmU09NN2Z4Y1prTzFGT0ZKbmptaWVVdEY4Sk9BUzgtaWFUUFpnU2xfNzZfSjVScGFiOFVud2JTbTNTS0psOFpmZHRydW54V0xINTF1SGdhVzR3bUJZVG5JYzNyS3p2S1hqbk4wQzVwSjU5VmIyaDlxblVkYkxlQjJfVnBKdFZrV2lPNENEalA1R09mdC0xZmJKbENjNGRaeHhxRUlvRkZOQ3JqZUVoZmRKLUJxM3lrSDM2SHZ2YW1yN3ZfQmVCR1NSelBhSXhuNG81QXZZUlhBcVZ0SEZkN3ZrOXRVX1JuV253Zmx4MFBNY3gwLUFnbDRua2g5TkVrTQ?oc=5\" target=\"_blank\">中國電影票房截至今年已超300億元人民幣 國慶檔《神探之痕跡》領先</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">bastillepost.com</font>",
+      "source_name": "bastillepost.com",
       "source_url": "https://www.bastillepost.com"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "蔡康永現身沈伯洋競總　陸網嗆舉報：別想再賺一分人民幣！ - ettoday.net",
+      "title": "蔡康永現身沈伯洋競總　陸網嗆舉報：別想再賺一分人民幣！ - ETtoday新聞雲",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yc0syWFNkR0otMkhzMWFuYUtZa1NhdElvWVE0YXRKb3BJOHp2MjZjOTR1WmZiaTlEYnlRWk1GR2ZWTWZMRkFxVDhndXF0TmFXRnBNeFAtT0pma3NSSEHSAUtBVV95cUxOUHJWZm9tQzhWWGVyclR4eW5mVEt0STdOc21YMWVCdmVwR1NkUHlTendnTWczUWp6UVlIREVpVkJ4OFlzVUt4YnZvMTA?oc=5",
       "guid": "CBMiXkFVX3lxTE9yc0syWFNkR0otMkhzMWFuYUtZa1NhdElvWVE0YXRKb3BJOHp2MjZjOTR1WmZiaTlEYnlRWk1GR2ZWTWZMRkFxVDhndXF0TmFXRnBNeFAtT0pma3NSSEHSAUtBVV95cUxOUHJWZm9tQzhWWGVyclR4eW5mVEt0STdOc21YMWVCdmVwR1NkUHlTendnTWczUWp6UVlIREVpVkJ4OFlzVUt4YnZvMTA",
       "pub_date": "Sun, 04 Oct 2026 10:55:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yc0syWFNkR0otMkhzMWFuYUtZa1NhdElvWVE0YXRKb3BJOHp2MjZjOTR1WmZiaTlEYnlRWk1GR2ZWTWZMRkFxVDhndXF0TmFXRnBNeFAtT0pma3NSSEHSAUtBVV95cUxOUHJWZm9tQzhWWGVyclR4eW5mVEt0STdOc21YMWVCdmVwR1NkUHlTendnTWczUWp6UVlIREVpVkJ4OFlzVUt4YnZvMTA?oc=5\" target=\"_blank\">蔡康永現身沈伯洋競總　陸網嗆舉報：別想再賺一分人民幣！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ettoday.net</font>",
-      "source_name": "ettoday.net",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yc0syWFNkR0otMkhzMWFuYUtZa1NhdElvWVE0YXRKb3BJOHp2MjZjOTR1WmZiaTlEYnlRWk1GR2ZWTWZMRkFxVDhndXF0TmFXRnBNeFAtT0pma3NSSEHSAUtBVV95cUxOUHJWZm9tQzhWWGVyclR4eW5mVEt0STdOc21YMWVCdmVwR1NkUHlTendnTWczUWp6UVlIREVpVkJ4OFlzVUt4YnZvMTA?oc=5\" target=\"_blank\">蔡康永現身沈伯洋競總　陸網嗆舉報：別想再賺一分人民幣！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETtoday新聞雲</font>",
+      "source_name": "ETtoday新聞雲",
       "source_url": "https://www.ettoday.net"
     },
     {
@@ -4742,12 +4732,12 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "十一黃金周｜本台直擊48元人民幣香港一天團導遊臨時加插購物行程部分中成藥產品疑未有註冊 - Yahoo",
+      "title": "十一黃金周｜本台直擊48元人民幣香港一天團導遊臨時加插購物行程部分中成藥產品疑未有註冊 - hk.news.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQSUpHSXRjVWI0aElwb25zM1JJdFNyNWJONVpvZTd0T0hqQ2J6MzBMRTJ4YjRxYXgySnZoVnFBTGVsZ29xMVk5N1REY2FNSmZPNTRtV2wyUm1McHJLczZTRnBMbWZXWDh0S2QxbVFlVTlrTnl4OThsZ3hVVjVLMnBQZGc4OGtoSWk3c2xXdTVyVFJkY2dILXZyTW1LMW1jZkVkYnBwUjJPaVFNQXREeVdwMmprUkhlYWNna1hwejA5LVBIXzhDSXZLTE43OEI5eEwwUlphcndUM1kxZE5FUEJJcUd1YTVnQ0YxVVNxMktoQjRxV1NweDRET2V3VFJ3cy1yS2FHVU1fT3JtMlZDNU91OVNMc0pEYUtIYVJzcWg1MjNVaTAxNS00VHYxQ1ZxUWU2dnFBVko0YVVIYjJHMlhidTljdjN3WldDaWhySW5tVUdUTW1MQnlNeHozYlNjbE1fTFc3dmdIMXBqbW5ZU1p0Zk81bWVSWkpkQzFPZFBOREkxamlpYkhSeUZZTVdYaEZ5UFhN?oc=5",
       "guid": "CBMikwNBVV95cUxQSUpHSXRjVWI0aElwb25zM1JJdFNyNWJONVpvZTd0T0hqQ2J6MzBMRTJ4YjRxYXgySnZoVnFBTGVsZ29xMVk5N1REY2FNSmZPNTRtV2wyUm1McHJLczZTRnBMbWZXWDh0S2QxbVFlVTlrTnl4OThsZ3hVVjVLMnBQZGc4OGtoSWk3c2xXdTVyVFJkY2dILXZyTW1LMW1jZkVkYnBwUjJPaVFNQXREeVdwMmprUkhlYWNna1hwejA5LVBIXzhDSXZLTE43OEI5eEwwUlphcndUM1kxZE5FUEJJcUd1YTVnQ0YxVVNxMktoQjRxV1NweDRET2V3VFJ3cy1yS2FHVU1fT3JtMlZDNU91OVNMc0pEYUtIYVJzcWg1MjNVaTAxNS00VHYxQ1ZxUWU2dnFBVko0YVVIYjJHMlhidTljdjN3WldDaWhySW5tVUdUTW1MQnlNeHozYlNjbE1fTFc3dmdIMXBqbW5ZU1p0Zk81bWVSWkpkQzFPZFBOREkxamlpYkhSeUZZTVdYaEZ5UFhN",
       "pub_date": "Fri, 02 Oct 2026 10:02:17 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwNBVV95cUxQSUpHSXRjVWI0aElwb25zM1JJdFNyNWJONVpvZTd0T0hqQ2J6MzBMRTJ4YjRxYXgySnZoVnFBTGVsZ29xMVk5N1REY2FNSmZPNTRtV2wyUm1McHJLczZTRnBMbWZXWDh0S2QxbVFlVTlrTnl4OThsZ3hVVjVLMnBQZGc4OGtoSWk3c2xXdTVyVFJkY2dILXZyTW1LMW1jZkVkYnBwUjJPaVFNQXREeVdwMmprUkhlYWNna1hwejA5LVBIXzhDSXZLTE43OEI5eEwwUlphcndUM1kxZE5FUEJJcUd1YTVnQ0YxVVNxMktoQjRxV1NweDRET2V3VFJ3cy1yS2FHVU1fT3JtMlZDNU91OVNMc0pEYUtIYVJzcWg1MjNVaTAxNS00VHYxQ1ZxUWU2dnFBVko0YVVIYjJHMlhidTljdjN3WldDaWhySW5tVUdUTW1MQnlNeHozYlNjbE1fTFc3dmdIMXBqbW5ZU1p0Zk81bWVSWkpkQzFPZFBOREkxamlpYkhSeUZZTVdYaEZ5UFhN?oc=5\" target=\"_blank\">十一黃金周｜本台直擊48元人民幣香港一天團導遊臨時加插購物行程部分中成藥產品疑未有註冊</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "source_name": "Yahoo",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMikwNBVV95cUxQSUpHSXRjVWI0aElwb25zM1JJdFNyNWJONVpvZTd0T0hqQ2J6MzBMRTJ4YjRxYXgySnZoVnFBTGVsZ29xMVk5N1REY2FNSmZPNTRtV2wyUm1McHJLczZTRnBMbWZXWDh0S2QxbVFlVTlrTnl4OThsZ3hVVjVLMnBQZGc4OGtoSWk3c2xXdTVyVFJkY2dILXZyTW1LMW1jZkVkYnBwUjJPaVFNQXREeVdwMmprUkhlYWNna1hwejA5LVBIXzhDSXZLTE43OEI5eEwwUlphcndUM1kxZE5FUEJJcUd1YTVnQ0YxVVNxMktoQjRxV1NweDRET2V3VFJ3cy1yS2FHVU1fT3JtMlZDNU91OVNMc0pEYUtIYVJzcWg1MjNVaTAxNS00VHYxQ1ZxUWU2dnFBVko0YVVIYjJHMlhidTljdjN3WldDaWhySW5tVUdUTW1MQnlNeHozYlNjbE1fTFc3dmdIMXBqbW5ZU1p0Zk81bWVSWkpkQzFPZFBOREkxamlpYkhSeUZZTVdYaEZ5UFhN?oc=5\" target=\"_blank\">十一黃金周｜本台直擊48元人民幣香港一天團導遊臨時加插購物行程部分中成藥產品疑未有註冊</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hk.news.yahoo.com</font>",
+      "source_name": "hk.news.yahoo.com",
       "source_url": "https://hk.news.yahoo.com"
     },
     {
@@ -4792,12 +4782,12 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "法國報紙摘要 - 《費加羅報》：推動人民幣國際化雄心與資本管控政策相互矛盾 - RFI",
+      "title": "法國報紙摘要 - 《費加羅報》：推動人民幣國際化雄心與資本管控政策相互矛盾 - rfi.fr",
       "link": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPWThrWUUyLU9NRzlMdktXTnd1VWUtLUxmZC13UlpFeWU1Ykw0cUdDQVZsVnJKNFVJaFYwTmtnZ0pmVlRlMDZYcDh1czhYZ2hCODZJaDBQYW1GRy1zcUl1RnFjSXl2OFN5VWRXRmdDOEJSZTlsVFZyZXBvNGVOdkdSOGNJLUlOYlV2ajczck9DbHlfcnNLVlpzUTJmZDg1V3oyNG9ld0JyajgyVmpkSWY1cjJyWmZxZ3JtS21hY3JoTHpQVDZmSEJWZjJlUVBGNUxidjVTRG1yRDJVU0xCS0t2Z20wUU9JSUdWcGYtY245dnl4ZVV1a0w3WWlDaXJTTndlaVdSMkJYeEJIbDJaUDFFbTVWRUpXczRkUFVoWEZleXpueXZIZW85WHpHWEh1eXE4TjllaHl3N0U5WHpYSXhNLWpDQWVUNC1zR1N1TkRHb2JWcFdwMFc1LU4zRzJLSUlHVEpaU3RSM1ZwMmxvY19FblFpYldFaVJBbmkweXFSbVd3S3doOXAwLS1aWUtPSms0TzdCTVVBaDRvTTlpTnNjRnpXa2Eya1BPNUJWdThaZ21kN0ZNVjRpUk5TYldtbG5UcUZoMzQ2bXg0RE9Cc2ZNOXNEMVhILXkzZnBEUmNNU0JZR09KeDIxd3p3RmQ1QQ?oc=5",
       "guid": "CBMi7gNBVV95cUxPWThrWUUyLU9NRzlMdktXTnd1VWUtLUxmZC13UlpFeWU1Ykw0cUdDQVZsVnJKNFVJaFYwTmtnZ0pmVlRlMDZYcDh1czhYZ2hCODZJaDBQYW1GRy1zcUl1RnFjSXl2OFN5VWRXRmdDOEJSZTlsVFZyZXBvNGVOdkdSOGNJLUlOYlV2ajczck9DbHlfcnNLVlpzUTJmZDg1V3oyNG9ld0JyajgyVmpkSWY1cjJyWmZxZ3JtS21hY3JoTHpQVDZmSEJWZjJlUVBGNUxidjVTRG1yRDJVU0xCS0t2Z20wUU9JSUdWcGYtY245dnl4ZVV1a0w3WWlDaXJTTndlaVdSMkJYeEJIbDJaUDFFbTVWRUpXczRkUFVoWEZleXpueXZIZW85WHpHWEh1eXE4TjllaHl3N0U5WHpYSXhNLWpDQWVUNC1zR1N1TkRHb2JWcFdwMFc1LU4zRzJLSUlHVEpaU3RSM1ZwMmxvY19FblFpYldFaVJBbmkweXFSbVd3S3doOXAwLS1aWUtPSms0TzdCTVVBaDRvTTlpTnNjRnpXa2Eya1BPNUJWdThaZ21kN0ZNVjRpUk5TYldtbG5UcUZoMzQ2bXg0RE9Cc2ZNOXNEMVhILXkzZnBEUmNNU0JZR09KeDIxd3p3RmQ1QQ",
       "pub_date": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gNBVV95cUxPWThrWUUyLU9NRzlMdktXTnd1VWUtLUxmZC13UlpFeWU1Ykw0cUdDQVZsVnJKNFVJaFYwTmtnZ0pmVlRlMDZYcDh1czhYZ2hCODZJaDBQYW1GRy1zcUl1RnFjSXl2OFN5VWRXRmdDOEJSZTlsVFZyZXBvNGVOdkdSOGNJLUlOYlV2ajczck9DbHlfcnNLVlpzUTJmZDg1V3oyNG9ld0JyajgyVmpkSWY1cjJyWmZxZ3JtS21hY3JoTHpQVDZmSEJWZjJlUVBGNUxidjVTRG1yRDJVU0xCS0t2Z20wUU9JSUdWcGYtY245dnl4ZVV1a0w3WWlDaXJTTndlaVdSMkJYeEJIbDJaUDFFbTVWRUpXczRkUFVoWEZleXpueXZIZW85WHpHWEh1eXE4TjllaHl3N0U5WHpYSXhNLWpDQWVUNC1zR1N1TkRHb2JWcFdwMFc1LU4zRzJLSUlHVEpaU3RSM1ZwMmxvY19FblFpYldFaVJBbmkweXFSbVd3S3doOXAwLS1aWUtPSms0TzdCTVVBaDRvTTlpTnNjRnpXa2Eya1BPNUJWdThaZ21kN0ZNVjRpUk5TYldtbG5UcUZoMzQ2bXg0RE9Cc2ZNOXNEMVhILXkzZnBEUmNNU0JZR09KeDIxd3p3RmQ1QQ?oc=5\" target=\"_blank\">法國報紙摘要 - 《費加羅報》：推動人民幣國際化雄心與資本管控政策相互矛盾</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
-      "source_name": "RFI",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi7gNBVV95cUxPWThrWUUyLU9NRzlMdktXTnd1VWUtLUxmZC13UlpFeWU1Ykw0cUdDQVZsVnJKNFVJaFYwTmtnZ0pmVlRlMDZYcDh1czhYZ2hCODZJaDBQYW1GRy1zcUl1RnFjSXl2OFN5VWRXRmdDOEJSZTlsVFZyZXBvNGVOdkdSOGNJLUlOYlV2ajczck9DbHlfcnNLVlpzUTJmZDg1V3oyNG9ld0JyajgyVmpkSWY1cjJyWmZxZ3JtS21hY3JoTHpQVDZmSEJWZjJlUVBGNUxidjVTRG1yRDJVU0xCS0t2Z20wUU9JSUdWcGYtY245dnl4ZVV1a0w3WWlDaXJTTndlaVdSMkJYeEJIbDJaUDFFbTVWRUpXczRkUFVoWEZleXpueXZIZW85WHpHWEh1eXE4TjllaHl3N0U5WHpYSXhNLWpDQWVUNC1zR1N1TkRHb2JWcFdwMFc1LU4zRzJLSUlHVEpaU3RSM1ZwMmxvY19FblFpYldFaVJBbmkweXFSbVd3S3doOXAwLS1aWUtPSms0TzdCTVVBaDRvTTlpTnNjRnpXa2Eya1BPNUJWdThaZ21kN0ZNVjRpUk5TYldtbG5UcUZoMzQ2bXg0RE9Cc2ZNOXNEMVhILXkzZnBEUmNNU0JZR09KeDIxd3p3RmQ1QQ?oc=5\" target=\"_blank\">法國報紙摘要 - 《費加羅報》：推動人民幣國際化雄心與資本管控政策相互矛盾</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rfi.fr</font>",
+      "source_name": "rfi.fr",
       "source_url": "https://www.rfi.fr"
     },
     {
@@ -4812,12 +4802,12 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "韓股跌破7千點、陸股也重挫！台股明開市恐承壓- 國際 - 工商時報",
+      "title": "韓股跌破7千點、陸股也重挫！台股明開市恐承壓- 國際 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aeUV6ZmdoZGNwNko0akpHdTlmcFFpTE8wQlNVYS1OUzNyX0ZBZlhGQ1BQeDRQZDFxQW1OUzZBTWNua200ZkVabHFFTERtc3dIb2ZoNzVNLWoySElMWnNr?oc=5",
       "guid": "CBMiX0FVX3lxTE9aeUV6ZmdoZGNwNko0akpHdTlmcFFpTE8wQlNVYS1OUzNyX0ZBZlhGQ1BQeDRQZDFxQW1OUzZBTWNua200ZkVabHFFTERtc3dIb2ZoNzVNLWoySElMWnNr",
       "pub_date": "Mon, 28 Sep 2026 06:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aeUV6ZmdoZGNwNko0akpHdTlmcFFpTE8wQlNVYS1OUzNyX0ZBZlhGQ1BQeDRQZDFxQW1OUzZBTWNua200ZkVabHFFTERtc3dIb2ZoNzVNLWoySElMWnNr?oc=5\" target=\"_blank\">韓股跌破7千點、陸股也重挫！台股明開市恐承壓- 國際</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aeUV6ZmdoZGNwNko0akpHdTlmcFFpTE8wQlNVYS1OUzNyX0ZBZlhGQ1BQeDRQZDFxQW1OUzZBTWNua200ZkVabHFFTERtc3dIb2ZoNzVNLWoySElMWnNr?oc=5\" target=\"_blank\">韓股跌破7千點、陸股也重挫！台股明開市恐承壓- 國際</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -4852,6 +4842,16 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
+      "title": "成績斐然/港投：逾30被投公司擬年內申上市離岸人民幣創投基金已運作參投AI與腦機界面- 經濟 - epaper.tkww.hk",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00azVFVjlhMUUwVVFWTnZpMFdxTm5YRjBGVld4TFV2VE52TVdGZ21IeHhtYlZWTHFYcmR4LWlVNFZsRTY1eFJFNUdDT09Vc1Uxb0JzaThHSzZZNjRNZXBaNFZvc2xSbGNja1pzTDJtSkd6X2J3?oc=5",
+      "guid": "CBMidEFVX3lxTE00azVFVjlhMUUwVVFWTnZpMFdxTm5YRjBGVld4TFV2VE52TVdGZ21IeHhtYlZWTHFYcmR4LWlVNFZsRTY1eFJFNUdDT09Vc1Uxb0JzaThHSzZZNjRNZXBaNFZvc2xSbGNja1pzTDJtSkd6X2J3",
+      "pub_date": "Sun, 04 Oct 2026 08:25:42 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE00azVFVjlhMUUwVVFWTnZpMFdxTm5YRjBGVld4TFV2VE52TVdGZ21IeHhtYlZWTHFYcmR4LWlVNFZsRTY1eFJFNUdDT09Vc1Uxb0JzaThHSzZZNjRNZXBaNFZvc2xSbGNja1pzTDJtSkd6X2J3?oc=5\" target=\"_blank\">成績斐然/港投：逾30被投公司擬年內申上市離岸人民幣創投基金已運作參投AI與腦機界面- 經濟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">epaper.tkww.hk</font>",
+      "source_name": "epaper.tkww.hk",
+      "source_url": "https://epaper.tkww.hk"
+    },
+    {
+      "query": "陸股 OR 中國股市 OR 人民幣",
       "title": "養老金被燒毀！陸銀行人工搶救「近百萬焦黑鈔票」 結局曝光 - TVBS新聞網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83RUE3UWZTNkxKbGYwMGdwdVh1N0cxbFdvSzZ1SUhabktNMDBhdHh0aFV1S19IR3FRT1NTUlpYRFhzcWxPanZ6VElGckxwTTQ?oc=5",
       "guid": "CBMiT0FVX3lxTE83RUE3UWZTNkxKbGYwMGdwdVh1N0cxbFdvSzZ1SUhabktNMDBhdHh0aFV1S19IR3FRT1NTUlpYRFhzcWxPanZ6VElGckxwTTQ",
@@ -4859,16 +4859,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE83RUE3UWZTNkxKbGYwMGdwdVh1N0cxbFdvSzZ1SUhabktNMDBhdHh0aFV1S19IR3FRT1NTUlpYRFhzcWxPanZ6VElGckxwTTQ?oc=5\" target=\"_blank\">養老金被燒毀！陸銀行人工搶救「近百萬焦黑鈔票」 結局曝光</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TVBS新聞網</font>",
       "source_name": "TVBS新聞網",
       "source_url": "https://news.tvbs.com.tw"
-    },
-    {
-      "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "成績斐然/港投：逾30被投公司擬年內申上市離岸人民幣創投基金已運作參投AI與腦機界面- 經濟 - 大公文匯網",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00azVFVjlhMUUwVVFWTnZpMFdxTm5YRjBGVld4TFV2VE52TVdGZ21IeHhtYlZWTHFYcmR4LWlVNFZsRTY1eFJFNUdDT09Vc1Uxb0JzaThHSzZZNjRNZXBaNFZvc2xSbGNja1pzTDJtSkd6X2J3?oc=5",
-      "guid": "CBMidEFVX3lxTE00azVFVjlhMUUwVVFWTnZpMFdxTm5YRjBGVld4TFV2VE52TVdGZ21IeHhtYlZWTHFYcmR4LWlVNFZsRTY1eFJFNUdDT09Vc1Uxb0JzaThHSzZZNjRNZXBaNFZvc2xSbGNja1pzTDJtSkd6X2J3",
-      "pub_date": "Sun, 04 Oct 2026 08:25:42 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE00azVFVjlhMUUwVVFWTnZpMFdxTm5YRjBGVld4TFV2VE52TVdGZ21IeHhtYlZWTHFYcmR4LWlVNFZsRTY1eFJFNUdDT09Vc1Uxb0JzaThHSzZZNjRNZXBaNFZvc2xSbGNja1pzTDJtSkd6X2J3?oc=5\" target=\"_blank\">成績斐然/港投：逾30被投公司擬年內申上市離岸人民幣創投基金已運作參投AI與腦機界面- 經濟</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">大公文匯網</font>",
-      "source_name": "大公文匯網",
-      "source_url": "https://epaper.tkww.hk"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
@@ -4972,16 +4962,6 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "許正宇:港金結算公司年底接駁貨幣結算系統 - 信報網站",
-      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPRmZ6THVXc0JTZUllY3NOaDIxOTJrbnBmM0U0MXBnZldlRXFjeHBmM2luS1ltbkdFTk1tdy1UM3h3Z3RtMFk2U3U2a2JyMElUdGVGVThScHlkX2xwZF9wOXdCbVp1TjZmdkJucldIak9fQ0VWZUpXN0lDdXdGQXFNRnIyYzBZV0lFYmVfX1lROVE5MkV3Q01BaUNTbUVCMERVY2NveF9MdEpzRTR3Sko3cy1YdHY1WFdUTlBReTNYQXY2WXgwWmkyMEdZVWs5RjhKUkRDdjNYS3QwWVFodnVpMGo4NHFCbWY1MWhSUEl6QU1nZUhodEl5V1FtZXRCNlhZaURfSG9ibGZiQzk0dlh4bVIyX3BSamJGVUMwOUpISnZfV1JTaWtKWE1fWkdIWU8tcjdqaGJmZFpCZVpHYU5jeXFhNVY3R2J1SkZkaFlDWW9vQTZ1QzZfMlc2MnUtMng2LVA2MmxvVEwzNUUyc2dLUTNFcXBOWU9DTVdOVDFZdG9BVm9OQ0hicGZFWmNZVVN2WWlUbVo5TXlaSEtsM3lZMVN4SDU5OEpQeFFHcmNPMlJDWWNwbmFPX1Q5endBMUVhUS10bjNzUmJMdXJyaHdRRkFQLWlTc2xtU2hHcl9vUXRnQQ?oc=5",
-      "guid": "CBMi4gNBVV95cUxPRmZ6THVXc0JTZUllY3NOaDIxOTJrbnBmM0U0MXBnZldlRXFjeHBmM2luS1ltbkdFTk1tdy1UM3h3Z3RtMFk2U3U2a2JyMElUdGVGVThScHlkX2xwZF9wOXdCbVp1TjZmdkJucldIak9fQ0VWZUpXN0lDdXdGQXFNRnIyYzBZV0lFYmVfX1lROVE5MkV3Q01BaUNTbUVCMERVY2NveF9MdEpzRTR3Sko3cy1YdHY1WFdUTlBReTNYQXY2WXgwWmkyMEdZVWs5RjhKUkRDdjNYS3QwWVFodnVpMGo4NHFCbWY1MWhSUEl6QU1nZUhodEl5V1FtZXRCNlhZaURfSG9ibGZiQzk0dlh4bVIyX3BSamJGVUMwOUpISnZfV1JTaWtKWE1fWkdIWU8tcjdqaGJmZFpCZVpHYU5jeXFhNVY3R2J1SkZkaFlDWW9vQTZ1QzZfMlc2MnUtMng2LVA2MmxvVEwzNUUyc2dLUTNFcXBOWU9DTVdOVDFZdG9BVm9OQ0hicGZFWmNZVVN2WWlUbVo5TXlaSEtsM3lZMVN4SDU5OEpQeFFHcmNPMlJDWWNwbmFPX1Q5endBMUVhUS10bjNzUmJMdXJyaHdRRkFQLWlTc2xtU2hHcl9vUXRnQQ",
-      "pub_date": "Sun, 04 Oct 2026 14:35:07 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gNBVV95cUxPRmZ6THVXc0JTZUllY3NOaDIxOTJrbnBmM0U0MXBnZldlRXFjeHBmM2luS1ltbkdFTk1tdy1UM3h3Z3RtMFk2U3U2a2JyMElUdGVGVThScHlkX2xwZF9wOXdCbVp1TjZmdkJucldIak9fQ0VWZUpXN0lDdXdGQXFNRnIyYzBZV0lFYmVfX1lROVE5MkV3Q01BaUNTbUVCMERVY2NveF9MdEpzRTR3Sko3cy1YdHY1WFdUTlBReTNYQXY2WXgwWmkyMEdZVWs5RjhKUkRDdjNYS3QwWVFodnVpMGo4NHFCbWY1MWhSUEl6QU1nZUhodEl5V1FtZXRCNlhZaURfSG9ibGZiQzk0dlh4bVIyX3BSamJGVUMwOUpISnZfV1JTaWtKWE1fWkdIWU8tcjdqaGJmZFpCZVpHYU5jeXFhNVY3R2J1SkZkaFlDWW9vQTZ1QzZfMlc2MnUtMng2LVA2MmxvVEwzNUUyc2dLUTNFcXBOWU9DTVdOVDFZdG9BVm9OQ0hicGZFWmNZVVN2WWlUbVo5TXlaSEtsM3lZMVN4SDU5OEpQeFFHcmNPMlJDWWNwbmFPX1Q5endBMUVhUS10bjNzUmJMdXJyaHdRRkFQLWlTc2xtU2hHcl9vUXRnQQ?oc=5\" target=\"_blank\">許正宇:港金結算公司年底接駁貨幣結算系統</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">信報網站</font>",
-      "source_name": "信報網站",
-      "source_url": "https://m.hkej.com"
-    },
-    {
-      "query": "陸股 OR 中國股市 OR 人民幣",
       "title": "受經濟數據疲弱影響 人民幣升值空間有限 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3REZvdGhWRy1Uel9lbDVKTDZKNC1qWUdiTHdrX25FZ3ZULXdOZWFSNHptMjdCQXFmYXB2aThEaDVnTlhuaGdUVUxicFkyRExyNFZmVS0wUndWQdIBX0FVX3lxTFAxaUNoWGN6QWNJX2FnLUxGNVN4SlZLX1hYODJVUk02Wl8yY21GaTc0RUc5eklLSmtCM3U1ZlRCMWFiMEdCcjYxZUtGTU5VSEVBSC1BckFHTEw2TnRnN3g0?oc=5",
       "guid": "CBMiWkFVX3lxTFB3REZvdGhWRy1Uel9lbDVKTDZKNC1qWUdiTHdrX25FZ3ZULXdOZWFSNHptMjdCQXFmYXB2aThEaDVnTlhuaGdUVUxicFkyRExyNFZmVS0wUndWQdIBX0FVX3lxTFAxaUNoWGN6QWNJX2FnLUxGNVN4SlZLX1hYODJVUk02Wl8yY21GaTc0RUc5eklLSmtCM3U1ZlRCMWFiMEdCcjYxZUtGTU5VSEVBSC1BckFHTEw2TnRnN3g0",
@@ -4989,6 +4969,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3REZvdGhWRy1Uel9lbDVKTDZKNC1qWUdiTHdrX25FZ3ZULXdOZWFSNHptMjdCQXFmYXB2aThEaDVnTlhuaGdUVUxicFkyRExyNFZmVS0wUndWQdIBX0FVX3lxTFAxaUNoWGN6QWNJX2FnLUxGNVN4SlZLX1hYODJVUk02Wl8yY21GaTc0RUc5eklLSmtCM3U1ZlRCMWFiMEdCcjYxZUtGTU5VSEVBSC1BckFHTEw2TnRnN3g0?oc=5\" target=\"_blank\">受經濟數據疲弱影響 人民幣升值空間有限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">經濟日報</font>",
       "source_name": "經濟日報",
       "source_url": "https://money.udn.com"
+    },
+    {
+      "query": "陸股 OR 中國股市 OR 人民幣",
+      "title": "許正宇:港金結算公司年底接駁貨幣結算系統 - 信報網站",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPRmZ6THVXc0JTZUllY3NOaDIxOTJrbnBmM0U0MXBnZldlRXFjeHBmM2luS1ltbkdFTk1tdy1UM3h3Z3RtMFk2U3U2a2JyMElUdGVGVThScHlkX2xwZF9wOXdCbVp1TjZmdkJucldIak9fQ0VWZUpXN0lDdXdGQXFNRnIyYzBZV0lFYmVfX1lROVE5MkV3Q01BaUNTbUVCMERVY2NveF9MdEpzRTR3Sko3cy1YdHY1WFdUTlBReTNYQXY2WXgwWmkyMEdZVWs5RjhKUkRDdjNYS3QwWVFodnVpMGo4NHFCbWY1MWhSUEl6QU1nZUhodEl5V1FtZXRCNlhZaURfSG9ibGZiQzk0dlh4bVIyX3BSamJGVUMwOUpISnZfV1JTaWtKWE1fWkdIWU8tcjdqaGJmZFpCZVpHYU5jeXFhNVY3R2J1SkZkaFlDWW9vQTZ1QzZfMlc2MnUtMng2LVA2MmxvVEwzNUUyc2dLUTNFcXBOWU9DTVdOVDFZdG9BVm9OQ0hicGZFWmNZVVN2WWlUbVo5TXlaSEtsM3lZMVN4SDU5OEpQeFFHcmNPMlJDWWNwbmFPX1Q5endBMUVhUS10bjNzUmJMdXJyaHdRRkFQLWlTc2xtU2hHcl9vUXRnQQ?oc=5",
+      "guid": "CBMi4gNBVV95cUxPRmZ6THVXc0JTZUllY3NOaDIxOTJrbnBmM0U0MXBnZldlRXFjeHBmM2luS1ltbkdFTk1tdy1UM3h3Z3RtMFk2U3U2a2JyMElUdGVGVThScHlkX2xwZF9wOXdCbVp1TjZmdkJucldIak9fQ0VWZUpXN0lDdXdGQXFNRnIyYzBZV0lFYmVfX1lROVE5MkV3Q01BaUNTbUVCMERVY2NveF9MdEpzRTR3Sko3cy1YdHY1WFdUTlBReTNYQXY2WXgwWmkyMEdZVWs5RjhKUkRDdjNYS3QwWVFodnVpMGo4NHFCbWY1MWhSUEl6QU1nZUhodEl5V1FtZXRCNlhZaURfSG9ibGZiQzk0dlh4bVIyX3BSamJGVUMwOUpISnZfV1JTaWtKWE1fWkdIWU8tcjdqaGJmZFpCZVpHYU5jeXFhNVY3R2J1SkZkaFlDWW9vQTZ1QzZfMlc2MnUtMng2LVA2MmxvVEwzNUUyc2dLUTNFcXBOWU9DTVdOVDFZdG9BVm9OQ0hicGZFWmNZVVN2WWlUbVo5TXlaSEtsM3lZMVN4SDU5OEpQeFFHcmNPMlJDWWNwbmFPX1Q5endBMUVhUS10bjNzUmJMdXJyaHdRRkFQLWlTc2xtU2hHcl9vUXRnQQ",
+      "pub_date": "Sun, 04 Oct 2026 14:35:07 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi4gNBVV95cUxPRmZ6THVXc0JTZUllY3NOaDIxOTJrbnBmM0U0MXBnZldlRXFjeHBmM2luS1ltbkdFTk1tdy1UM3h3Z3RtMFk2U3U2a2JyMElUdGVGVThScHlkX2xwZF9wOXdCbVp1TjZmdkJucldIak9fQ0VWZUpXN0lDdXdGQXFNRnIyYzBZV0lFYmVfX1lROVE5MkV3Q01BaUNTbUVCMERVY2NveF9MdEpzRTR3Sko3cy1YdHY1WFdUTlBReTNYQXY2WXgwWmkyMEdZVWs5RjhKUkRDdjNYS3QwWVFodnVpMGo4NHFCbWY1MWhSUEl6QU1nZUhodEl5V1FtZXRCNlhZaURfSG9ibGZiQzk0dlh4bVIyX3BSamJGVUMwOUpISnZfV1JTaWtKWE1fWkdIWU8tcjdqaGJmZFpCZVpHYU5jeXFhNVY3R2J1SkZkaFlDWW9vQTZ1QzZfMlc2MnUtMng2LVA2MmxvVEwzNUUyc2dLUTNFcXBOWU9DTVdOVDFZdG9BVm9OQ0hicGZFWmNZVVN2WWlUbVo5TXlaSEtsM3lZMVN4SDU5OEpQeFFHcmNPMlJDWWNwbmFPX1Q5endBMUVhUS10bjNzUmJMdXJyaHdRRkFQLWlTc2xtU2hHcl9vUXRnQQ?oc=5\" target=\"_blank\">許正宇:港金結算公司年底接駁貨幣結算系統</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">信報網站</font>",
+      "source_name": "信報網站",
+      "source_url": "https://m.hkej.com"
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
@@ -5042,13 +5032,23 @@
     },
     {
       "query": "陸股 OR 中國股市 OR 人民幣",
-      "title": "高盛：人民幣匯率2028年升至6元 - 工商時報",
+      "title": "高盛：人民幣匯率2028年升至6元 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ZXYtV3pPTk5IZVVYYjlxU2hFQ2J3U1JtLWpSUV9RN3ZTd2FxVlV0d2U3UW1FWVN3WHktVHZ1STB6X3YtZk9Ibk44WDUwbjRyWU1RczVWdUN2T1doT2RZ?oc=5",
       "guid": "CBMiX0FVX3lxTE01ZXYtV3pPTk5IZVVYYjlxU2hFQ2J3U1JtLWpSUV9RN3ZTd2FxVlV0d2U3UW1FWVN3WHktVHZ1STB6X3YtZk9Ibk44WDUwbjRyWU1RczVWdUN2T1doT2RZ",
       "pub_date": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ZXYtV3pPTk5IZVVYYjlxU2hFQ2J3U1JtLWpSUV9RN3ZTd2FxVlV0d2U3UW1FWVN3WHktVHZ1STB6X3YtZk9Ibk44WDUwbjRyWU1RczVWdUN2T1doT2RZ?oc=5\" target=\"_blank\">高盛：人民幣匯率2028年升至6元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE01ZXYtV3pPTk5IZVVYYjlxU2hFQ2J3U1JtLWpSUV9RN3ZTd2FxVlV0d2U3UW1FWVN3WHktVHZ1STB6X3YtZk9Ibk44WDUwbjRyWU1RczVWdUN2T1doT2RZ?oc=5\" target=\"_blank\">高盛：人民幣匯率2028年升至6元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
+    },
+    {
+      "query": "陸股 OR 中國股市 OR 人民幣",
+      "title": "人民幣中間價 創三年半新高 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMzRvOWZaREQzLVdnRmR6VXExaTBkNHE0czR4Q1I3NE52aW5ReHJmUXlTc0cwTVpuOUxyWFhIMW16eUh0eGVOakxoZ1JxQ0Zfajd6WWJNaWIwQdIBX0FVX3lxTE5yU2VITFE4c2RtWXNSc0taSU5BZ0lKTDJmNzExVlh2STQ5bTQ5b0F5M1NkMnNjYVlGWDVVTjF3ZTZudHRYdHF2UTZkV21uckRTMUVrRUtmRVVOV3JyaHEw?oc=5",
+      "guid": "CBMiWkFVX3lxTFBDMzRvOWZaREQzLVdnRmR6VXExaTBkNHE0czR4Q1I3NE52aW5ReHJmUXlTc0cwTVpuOUxyWFhIMW16eUh0eGVOakxoZ1JxQ0Zfajd6WWJNaWIwQdIBX0FVX3lxTE5yU2VITFE4c2RtWXNSc0taSU5BZ0lKTDJmNzExVlh2STQ5bTQ5b0F5M1NkMnNjYVlGWDVVTjF3ZTZudHRYdHF2UTZkV21uckRTMUVrRUtmRVVOV3JyaHEw",
+      "pub_date": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMzRvOWZaREQzLVdnRmR6VXExaTBkNHE0czR4Q1I3NE52aW5ReHJmUXlTc0cwTVpuOUxyWFhIMW16eUh0eGVOakxoZ1JxQ0Zfajd6WWJNaWIwQdIBX0FVX3lxTE5yU2VITFE4c2RtWXNSc0taSU5BZ0lKTDJmNzExVlh2STQ5bTQ5b0F5M1NkMnNjYVlGWDVVTjF3ZTZudHRYdHF2UTZkV21uckRTMUVrRUtmRVVOV3JyaHEw?oc=5\" target=\"_blank\">人民幣中間價 創三年半新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">經濟日報</font>",
+      "source_name": "經濟日報",
+      "source_url": "https://money.udn.com"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5292,23 +5292,13 @@
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "中日官員G20短暫交談聚焦出口管制與經貿關係- 兩岸 - 工商時報",
+      "title": "中日官員G20短暫交談聚焦出口管制與經貿關係- 兩岸 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53bWt0ZlBMazF6UHFSUTdmbTNfV2VCaHRkNVpvN1FLQnF0Y3ZKdGtwbFZJTDc3NGt0RUNmV3BiRVhmcGxIM2ZfbXJ3THU2TEVtWUY2bU9EWHE2d3hpbm1F?oc=5",
       "guid": "CBMiX0FVX3lxTE53bWt0ZlBMazF6UHFSUTdmbTNfV2VCaHRkNVpvN1FLQnF0Y3ZKdGtwbFZJTDc3NGt0RUNmV3BiRVhmcGxIM2ZfbXJ3THU2TEVtWUY2bU9EWHE2d3hpbm1F",
       "pub_date": "Sat, 03 Oct 2026 02:30:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53bWt0ZlBMazF6UHFSUTdmbTNfV2VCaHRkNVpvN1FLQnF0Y3ZKdGtwbFZJTDc3NGt0RUNmV3BiRVhmcGxIM2ZfbXJ3THU2TEVtWUY2bU9EWHE2d3hpbm1F?oc=5\" target=\"_blank\">中日官員G20短暫交談聚焦出口管制與經貿關係- 兩岸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE53bWt0ZlBMazF6UHFSUTdmbTNfV2VCaHRkNVpvN1FLQnF0Y3ZKdGtwbFZJTDc3NGt0RUNmV3BiRVhmcGxIM2ZfbXJ3THU2TEVtWUY2bU9EWHE2d3hpbm1F?oc=5\" target=\"_blank\">中日官員G20短暫交談聚焦出口管制與經貿關係- 兩岸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
-    },
-    {
-      "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "中國電動車歐洲佔有率高達12% 英國擬加45%關稅「封路」 - BusinessFocus",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZk5JTjRZTlJBeXJHLXpDTEpkTEFhQUtQc053OEJlOVZQbTltSW1KQWpwZWpZWGV6bmFfNEtzY3AyWjdPajJEZi1ETFBtb0NzMzE1enN5eGJ3cTRRSXhsc2twalVYcVI1dXBJSnRXdXpDbTBTUktISnNQNEpwM21KVzA2Z0oxX2NpT1FYeVRxNE1wQ056RDR2N05hQU1yN0R0RTJlLWdtMjlqdTFPX3IwaHprb2FnQ05MQ2lKXy0tSWpXZVdZdkNHVE5nc2Q5QlIyd1ZCektUMGVDd1JqVG1HT285aXRGUWhoTUkzNUFqN0lZTDh2aERlWVhDV08?oc=5",
-      "guid": "CBMi_AFBVV95cUxQZk5JTjRZTlJBeXJHLXpDTEpkTEFhQUtQc053OEJlOVZQbTltSW1KQWpwZWpZWGV6bmFfNEtzY3AyWjdPajJEZi1ETFBtb0NzMzE1enN5eGJ3cTRRSXhsc2twalVYcVI1dXBJSnRXdXpDbTBTUktISnNQNEpwM21KVzA2Z0oxX2NpT1FYeVRxNE1wQ056RDR2N05hQU1yN0R0RTJlLWdtMjlqdTFPX3IwaHprb2FnQ05MQ2lKXy0tSWpXZVdZdkNHVE5nc2Q5QlIyd1ZCektUMGVDd1JqVG1HT285aXRGUWhoTUkzNUFqN0lZTDh2aERlWVhDV08",
-      "pub_date": "Mon, 05 Oct 2026 16:41:12 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZk5JTjRZTlJBeXJHLXpDTEpkTEFhQUtQc053OEJlOVZQbTltSW1KQWpwZWpZWGV6bmFfNEtzY3AyWjdPajJEZi1ETFBtb0NzMzE1enN5eGJ3cTRRSXhsc2twalVYcVI1dXBJSnRXdXpDbTBTUktISnNQNEpwM21KVzA2Z0oxX2NpT1FYeVRxNE1wQ056RDR2N05hQU1yN0R0RTJlLWdtMjlqdTFPX3IwaHprb2FnQ05MQ2lKXy0tSWpXZVdZdkNHVE5nc2Q5QlIyd1ZCektUMGVDd1JqVG1HT285aXRGUWhoTUkzNUFqN0lZTDh2aERlWVhDV08?oc=5\" target=\"_blank\">中國電動車歐洲佔有率高達12% 英國擬加45%關稅「封路」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessFocus</font>",
-      "source_name": "BusinessFocus",
-      "source_url": "https://businessfocus.io"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5319,6 +5309,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfeUk2TW5JN29INFZxSHJSdFNXU0xuNnBFaUxUcHo2ZGRXU3UxYjRpWk9oV2Z3NzBibUp0alNpTWJsMndxT0VwZWRGTjE4R2pWQU5hczFHRnRXckEz?oc=5\" target=\"_blank\">自行車美國製造 關稅扯後腿 | 外媒解析 | 國際</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">經濟日報</font>",
       "source_name": "經濟日報",
       "source_url": "https://money.udn.com"
+    },
+    {
+      "query": "關稅 OR 出口管制 OR 晶片禁令",
+      "title": "中國電動車歐洲佔有率高達12% 英國擬加45%關稅「封路」 - BusinessFocus",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZk5JTjRZTlJBeXJHLXpDTEpkTEFhQUtQc053OEJlOVZQbTltSW1KQWpwZWpZWGV6bmFfNEtzY3AyWjdPajJEZi1ETFBtb0NzMzE1enN5eGJ3cTRRSXhsc2twalVYcVI1dXBJSnRXdXpDbTBTUktISnNQNEpwM21KVzA2Z0oxX2NpT1FYeVRxNE1wQ056RDR2N05hQU1yN0R0RTJlLWdtMjlqdTFPX3IwaHprb2FnQ05MQ2lKXy0tSWpXZVdZdkNHVE5nc2Q5QlIyd1ZCektUMGVDd1JqVG1HT285aXRGUWhoTUkzNUFqN0lZTDh2aERlWVhDV08?oc=5",
+      "guid": "CBMi_AFBVV95cUxQZk5JTjRZTlJBeXJHLXpDTEpkTEFhQUtQc053OEJlOVZQbTltSW1KQWpwZWpZWGV6bmFfNEtzY3AyWjdPajJEZi1ETFBtb0NzMzE1enN5eGJ3cTRRSXhsc2twalVYcVI1dXBJSnRXdXpDbTBTUktISnNQNEpwM21KVzA2Z0oxX2NpT1FYeVRxNE1wQ056RDR2N05hQU1yN0R0RTJlLWdtMjlqdTFPX3IwaHprb2FnQ05MQ2lKXy0tSWpXZVdZdkNHVE5nc2Q5QlIyd1ZCektUMGVDd1JqVG1HT285aXRGUWhoTUkzNUFqN0lZTDh2aERlWVhDV08",
+      "pub_date": "Mon, 05 Oct 2026 16:41:12 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZk5JTjRZTlJBeXJHLXpDTEpkTEFhQUtQc053OEJlOVZQbTltSW1KQWpwZWpZWGV6bmFfNEtzY3AyWjdPajJEZi1ETFBtb0NzMzE1enN5eGJ3cTRRSXhsc2twalVYcVI1dXBJSnRXdXpDbTBTUktISnNQNEpwM21KVzA2Z0oxX2NpT1FYeVRxNE1wQ056RDR2N05hQU1yN0R0RTJlLWdtMjlqdTFPX3IwaHprb2FnQ05MQ2lKXy0tSWpXZVdZdkNHVE5nc2Q5QlIyd1ZCektUMGVDd1JqVG1HT285aXRGUWhoTUkzNUFqN0lZTDh2aERlWVhDV08?oc=5\" target=\"_blank\">中國電動車歐洲佔有率高達12% 英國擬加45%關稅「封路」</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessFocus</font>",
+      "source_name": "BusinessFocus",
+      "source_url": "https://businessfocus.io"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5382,12 +5382,12 @@
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "中美互降關稅尚無時間表- 日報 - 工商時報",
+      "title": "中美互降關稅尚無時間表- 日報 - ctee.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xRXc4dU9oMGlrVmJJUVpaOUNVZ2JsRXdzU0F6QktUV1RYMWtwTTlfNUZfbGJ4Y1JHNnpvZ1BTZWZUR3JVTEM4bmYwWlRnaE90X2pnTmFwTlpTVGdXeHBB?oc=5",
       "guid": "CBMiX0FVX3lxTE8xRXc4dU9oMGlrVmJJUVpaOUNVZ2JsRXdzU0F6QktUV1RYMWtwTTlfNUZfbGJ4Y1JHNnpvZ1BTZWZUR3JVTEM4bmYwWlRnaE90X2pnTmFwTlpTVGdXeHBB",
       "pub_date": "Fri, 02 Oct 2026 19:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xRXc4dU9oMGlrVmJJUVpaOUNVZ2JsRXdzU0F6QktUV1RYMWtwTTlfNUZfbGJ4Y1JHNnpvZ1BTZWZUR3JVTEM4bmYwWlRnaE90X2pnTmFwTlpTVGdXeHBB?oc=5\" target=\"_blank\">中美互降關稅尚無時間表- 日報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xRXc4dU9oMGlrVmJJUVpaOUNVZ2JsRXdzU0F6QktUV1RYMWtwTTlfNUZfbGJ4Y1JHNnpvZ1BTZWZUR3JVTEM4bmYwWlRnaE90X2pnTmFwTlpTVGdXeHBB?oc=5\" target=\"_blank\">中美互降關稅尚無時間表- 日報</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
       "source_url": "https://www.ctee.com.tw"
     },
     {
@@ -5422,13 +5422,23 @@
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "不在美國設廠就課300%關稅！　川普造勢開嗆日韓加：把美國當笑話 - ettoday.net",
+      "title": "不在美國設廠就課300%關稅！　川普造勢開嗆日韓加：把美國當笑話 - ETtoday新聞雲",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ub20wd2lmMW1WTTBlbE9ES0FjbXBrb0p0ckNnd09RU29hc09mTTBsTnF0YXJWLXVvVGU1QmVqVGt3dW1sbkNDLWlJdS1pZHRZcUlaSHlneFA2MWZkbGfSAUtBVV95cUxNU196eGdTNkR4d1FuMDdzaF9QRF9NXzhOa3dnRWFFdUFscjlfbTM1M0JrNGFHOGxpS0l5WlVyNEYwZEdBWmdQcllJVnc?oc=5",
       "guid": "CBMiXkFVX3lxTE9Ub20wd2lmMW1WTTBlbE9ES0FjbXBrb0p0ckNnd09RU29hc09mTTBsTnF0YXJWLXVvVGU1QmVqVGt3dW1sbkNDLWlJdS1pZHRZcUlaSHlneFA2MWZkbGfSAUtBVV95cUxNU196eGdTNkR4d1FuMDdzaF9QRF9NXzhOa3dnRWFFdUFscjlfbTM1M0JrNGFHOGxpS0l5WlVyNEYwZEdBWmdQcllJVnc",
       "pub_date": "Sun, 04 Oct 2026 07:27:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ub20wd2lmMW1WTTBlbE9ES0FjbXBrb0p0ckNnd09RU29hc09mTTBsTnF0YXJWLXVvVGU1QmVqVGt3dW1sbkNDLWlJdS1pZHRZcUlaSHlneFA2MWZkbGfSAUtBVV95cUxNU196eGdTNkR4d1FuMDdzaF9QRF9NXzhOa3dnRWFFdUFscjlfbTM1M0JrNGFHOGxpS0l5WlVyNEYwZEdBWmdQcllJVnc?oc=5\" target=\"_blank\">不在美國設廠就課300%關稅！　川普造勢開嗆日韓加：把美國當笑話</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ettoday.net</font>",
-      "source_name": "ettoday.net",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ub20wd2lmMW1WTTBlbE9ES0FjbXBrb0p0ckNnd09RU29hc09mTTBsTnF0YXJWLXVvVGU1QmVqVGt3dW1sbkNDLWlJdS1pZHRZcUlaSHlneFA2MWZkbGfSAUtBVV95cUxNU196eGdTNkR4d1FuMDdzaF9QRF9NXzhOa3dnRWFFdUFscjlfbTM1M0JrNGFHOGxpS0l5WlVyNEYwZEdBWmdQcllJVnc?oc=5\" target=\"_blank\">不在美國設廠就課300%關稅！　川普造勢開嗆日韓加：把美國當笑話</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETtoday新聞雲</font>",
+      "source_name": "ETtoday新聞雲",
       "source_url": "https://www.ettoday.net"
+    },
+    {
+      "query": "關稅 OR 出口管制 OR 晶片禁令",
+      "title": "G20未能就強迫勞動和產能過剩達成協議 中國辯稱因特朗普關稅 - rfi.fr",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPSHctVklvUlk4T3AtMFJCcXVPMFNVTndKb2d1emxycjVJbzNuYlZVWTA1cy1iUkh6ZWE4Uk04OXdXNEpiMGhMekVMOVoxb25iYWxUZ3JzQUJtWlRnMGtYd2RpOEdaSUxDYjQ4Q1h3X0s4clFUc3pyTWppbWpwdktEeFpvaGZNbFRCSVV5UXA5dGd6YTNvcGxJaE5UNkJtY2h4VHFHeW1NRjBobXhyMUJWY2hybXpOQ0RyUERFTUhkTFNTOURGNGIyb0YwVGlTLUtHRHdfYXVwcnpMbkpyNEd2UlgzZ05RbWVDV2c4U1hKdllrSlZTZHcxR1I2b184MWFRV0F1VjdEZWJnX1FoWkFtYUJ5MHlZVkdwaG5BZHZkeGwta3V4SEI1cHZQZ3VsUmpyUjVONXNoWm5GUUl0cHhhUXVuZ0xaVVQ4Ml83eE5hc2R1MTZBWHRKblNpdlJsYk1ua2xCS2FHQkVDVGNLZXFNM2pLLS1EZkxiWjJwZVFhQ2J2T2hKRUMxOFdqTUJpOUtZQUtaUjZuSEdfLW93?oc=5",
+      "guid": "CBMinANBVV95cUxPSHctVklvUlk4T3AtMFJCcXVPMFNVTndKb2d1emxycjVJbzNuYlZVWTA1cy1iUkh6ZWE4Uk04OXdXNEpiMGhMekVMOVoxb25iYWxUZ3JzQUJtWlRnMGtYd2RpOEdaSUxDYjQ4Q1h3X0s4clFUc3pyTWppbWpwdktEeFpvaGZNbFRCSVV5UXA5dGd6YTNvcGxJaE5UNkJtY2h4VHFHeW1NRjBobXhyMUJWY2hybXpOQ0RyUERFTUhkTFNTOURGNGIyb0YwVGlTLUtHRHdfYXVwcnpMbkpyNEd2UlgzZ05RbWVDV2c4U1hKdllrSlZTZHcxR1I2b184MWFRV0F1VjdEZWJnX1FoWkFtYUJ5MHlZVkdwaG5BZHZkeGwta3V4SEI1cHZQZ3VsUmpyUjVONXNoWm5GUUl0cHhhUXVuZ0xaVVQ4Ml83eE5hc2R1MTZBWHRKblNpdlJsYk1ua2xCS2FHQkVDVGNLZXFNM2pLLS1EZkxiWjJwZVFhQ2J2T2hKRUMxOFdqTUJpOUtZQUtaUjZuSEdfLW93",
+      "pub_date": "Sun, 04 Oct 2026 14:17:47 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMinANBVV95cUxPSHctVklvUlk4T3AtMFJCcXVPMFNVTndKb2d1emxycjVJbzNuYlZVWTA1cy1iUkh6ZWE4Uk04OXdXNEpiMGhMekVMOVoxb25iYWxUZ3JzQUJtWlRnMGtYd2RpOEdaSUxDYjQ4Q1h3X0s4clFUc3pyTWppbWpwdktEeFpvaGZNbFRCSVV5UXA5dGd6YTNvcGxJaE5UNkJtY2h4VHFHeW1NRjBobXhyMUJWY2hybXpOQ0RyUERFTUhkTFNTOURGNGIyb0YwVGlTLUtHRHdfYXVwcnpMbkpyNEd2UlgzZ05RbWVDV2c4U1hKdllrSlZTZHcxR1I2b184MWFRV0F1VjdEZWJnX1FoWkFtYUJ5MHlZVkdwaG5BZHZkeGwta3V4SEI1cHZQZ3VsUmpyUjVONXNoWm5GUUl0cHhhUXVuZ0xaVVQ4Ml83eE5hc2R1MTZBWHRKblNpdlJsYk1ua2xCS2FHQkVDVGNLZXFNM2pLLS1EZkxiWjJwZVFhQ2J2T2hKRUMxOFdqTUJpOUtZQUtaUjZuSEdfLW93?oc=5\" target=\"_blank\">G20未能就強迫勞動和產能過剩達成協議 中國辯稱因特朗普關稅</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rfi.fr</font>",
+      "source_name": "rfi.fr",
+      "source_url": "https://www.rfi.fr"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5439,16 +5449,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ESlBIUjRVc0NRekxvQTV5MDRPTzdFUTYxb296TTVGd2FEQnk3cGxVWS1Rb0h5UlF4bHYyeVNQSEpZd2tUcVc1d3hvOHhpNjdNS21zVmszS2M?oc=5\" target=\"_blank\">油價與關稅夾擊！美國9月服務業成本壓力衝逾四年高點Fed難鬆口氣- 股市爆料同學會</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CMoney</font>",
       "source_name": "CMoney",
       "source_url": "https://www.cmoney.tw"
-    },
-    {
-      "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "G20未能就強迫勞動和產能過剩達成協議 中國辯稱因特朗普關稅 - RFI",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPSHctVklvUlk4T3AtMFJCcXVPMFNVTndKb2d1emxycjVJbzNuYlZVWTA1cy1iUkh6ZWE4Uk04OXdXNEpiMGhMekVMOVoxb25iYWxUZ3JzQUJtWlRnMGtYd2RpOEdaSUxDYjQ4Q1h3X0s4clFUc3pyTWppbWpwdktEeFpvaGZNbFRCSVV5UXA5dGd6YTNvcGxJaE5UNkJtY2h4VHFHeW1NRjBobXhyMUJWY2hybXpOQ0RyUERFTUhkTFNTOURGNGIyb0YwVGlTLUtHRHdfYXVwcnpMbkpyNEd2UlgzZ05RbWVDV2c4U1hKdllrSlZTZHcxR1I2b184MWFRV0F1VjdEZWJnX1FoWkFtYUJ5MHlZVkdwaG5BZHZkeGwta3V4SEI1cHZQZ3VsUmpyUjVONXNoWm5GUUl0cHhhUXVuZ0xaVVQ4Ml83eE5hc2R1MTZBWHRKblNpdlJsYk1ua2xCS2FHQkVDVGNLZXFNM2pLLS1EZkxiWjJwZVFhQ2J2T2hKRUMxOFdqTUJpOUtZQUtaUjZuSEdfLW93?oc=5",
-      "guid": "CBMinANBVV95cUxPSHctVklvUlk4T3AtMFJCcXVPMFNVTndKb2d1emxycjVJbzNuYlZVWTA1cy1iUkh6ZWE4Uk04OXdXNEpiMGhMekVMOVoxb25iYWxUZ3JzQUJtWlRnMGtYd2RpOEdaSUxDYjQ4Q1h3X0s4clFUc3pyTWppbWpwdktEeFpvaGZNbFRCSVV5UXA5dGd6YTNvcGxJaE5UNkJtY2h4VHFHeW1NRjBobXhyMUJWY2hybXpOQ0RyUERFTUhkTFNTOURGNGIyb0YwVGlTLUtHRHdfYXVwcnpMbkpyNEd2UlgzZ05RbWVDV2c4U1hKdllrSlZTZHcxR1I2b184MWFRV0F1VjdEZWJnX1FoWkFtYUJ5MHlZVkdwaG5BZHZkeGwta3V4SEI1cHZQZ3VsUmpyUjVONXNoWm5GUUl0cHhhUXVuZ0xaVVQ4Ml83eE5hc2R1MTZBWHRKblNpdlJsYk1ua2xCS2FHQkVDVGNLZXFNM2pLLS1EZkxiWjJwZVFhQ2J2T2hKRUMxOFdqTUJpOUtZQUtaUjZuSEdfLW93",
-      "pub_date": "Sun, 04 Oct 2026 14:17:47 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMinANBVV95cUxPSHctVklvUlk4T3AtMFJCcXVPMFNVTndKb2d1emxycjVJbzNuYlZVWTA1cy1iUkh6ZWE4Uk04OXdXNEpiMGhMekVMOVoxb25iYWxUZ3JzQUJtWlRnMGtYd2RpOEdaSUxDYjQ4Q1h3X0s4clFUc3pyTWppbWpwdktEeFpvaGZNbFRCSVV5UXA5dGd6YTNvcGxJaE5UNkJtY2h4VHFHeW1NRjBobXhyMUJWY2hybXpOQ0RyUERFTUhkTFNTOURGNGIyb0YwVGlTLUtHRHdfYXVwcnpMbkpyNEd2UlgzZ05RbWVDV2c4U1hKdllrSlZTZHcxR1I2b184MWFRV0F1VjdEZWJnX1FoWkFtYUJ5MHlZVkdwaG5BZHZkeGwta3V4SEI1cHZQZ3VsUmpyUjVONXNoWm5GUUl0cHhhUXVuZ0xaVVQ4Ml83eE5hc2R1MTZBWHRKblNpdlJsYk1ua2xCS2FHQkVDVGNLZXFNM2pLLS1EZkxiWjJwZVFhQ2J2T2hKRUMxOFdqTUJpOUtZQUtaUjZuSEdfLW93?oc=5\" target=\"_blank\">G20未能就強迫勞動和產能過剩達成協議 中國辯稱因特朗普關稅</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
-      "source_name": "RFI",
-      "source_url": "https://www.rfi.fr"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5562,12 +5562,12 @@
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "美國加州男子因向中國走私超過3億美元受出口管制計算機服務器被捕 - RFI",
+      "title": "美國加州男子因向中國走私超過3億美元受出口管制計算機服務器被捕 - rfi.fr",
       "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNc1JIZUhCY05rdFNyb0duaTZJN2FVSkxoMEZRWUZuZ3ctOUx4c0JuaHdOOFIxMlF1T0IzWmtCRU8wakN4VG5maWV1ZWk2SFk1elNOUWRQLWdNY0N1VDZBR0VsOXVQOFVIV21mdnh6NTdpWHFGYUU3V0g5SUd0VlR4VVJic0dhSmpON2dfRzk5NkZWQ1RLRVpKNU50QkVKQXpaemJjZzBOMjRyS0NZMmZzQjNHMTlKTnF5NEY2cllPTFZKa0dvSXVqeEhKSXMyLVhDQ1ZPVVVOSlN2TXhTNWI2TVVxRWFCN1RGSmtrVzZMUF9ubG1vdnNxXzBQdzJqWDROd010OUNyeWc2QjUxT3hYR0JoTGRRYUhfa05vY2NDd0YxM28yRFdHUEZiM3dCWWZOQW5DWGVrYVFGX2VYQU1mYjB3UjNCM1ZxRllUT1VIZENjOFBqLWpUZEFRSy1RWUJTc2pSeDhaVHEwX1M2SnFtRWpKVElPYTlKVGJaSVFmQl9fdVlQRDVRQXlPRU5PTUJ5M0RNTktoWW5Vck5JdHY2WVBVUktMbmxtUktfYnQ4SGl0NENXQjdmNEVkcnlvS2ExWVhPWXViMms?oc=5",
       "guid": "CBMiyANBVV95cUxNc1JIZUhCY05rdFNyb0duaTZJN2FVSkxoMEZRWUZuZ3ctOUx4c0JuaHdOOFIxMlF1T0IzWmtCRU8wakN4VG5maWV1ZWk2SFk1elNOUWRQLWdNY0N1VDZBR0VsOXVQOFVIV21mdnh6NTdpWHFGYUU3V0g5SUd0VlR4VVJic0dhSmpON2dfRzk5NkZWQ1RLRVpKNU50QkVKQXpaemJjZzBOMjRyS0NZMmZzQjNHMTlKTnF5NEY2cllPTFZKa0dvSXVqeEhKSXMyLVhDQ1ZPVVVOSlN2TXhTNWI2TVVxRWFCN1RGSmtrVzZMUF9ubG1vdnNxXzBQdzJqWDROd010OUNyeWc2QjUxT3hYR0JoTGRRYUhfa05vY2NDd0YxM28yRFdHUEZiM3dCWWZOQW5DWGVrYVFGX2VYQU1mYjB3UjNCM1ZxRllUT1VIZENjOFBqLWpUZEFRSy1RWUJTc2pSeDhaVHEwX1M2SnFtRWpKVElPYTlKVGJaSVFmQl9fdVlQRDVRQXlPRU5PTUJ5M0RNTktoWW5Vck5JdHY2WVBVUktMbmxtUktfYnQ4SGl0NENXQjdmNEVkcnlvS2ExWVhPWXViMms",
       "pub_date": "Fri, 02 Oct 2026 13:22:11 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyANBVV95cUxNc1JIZUhCY05rdFNyb0duaTZJN2FVSkxoMEZRWUZuZ3ctOUx4c0JuaHdOOFIxMlF1T0IzWmtCRU8wakN4VG5maWV1ZWk2SFk1elNOUWRQLWdNY0N1VDZBR0VsOXVQOFVIV21mdnh6NTdpWHFGYUU3V0g5SUd0VlR4VVJic0dhSmpON2dfRzk5NkZWQ1RLRVpKNU50QkVKQXpaemJjZzBOMjRyS0NZMmZzQjNHMTlKTnF5NEY2cllPTFZKa0dvSXVqeEhKSXMyLVhDQ1ZPVVVOSlN2TXhTNWI2TVVxRWFCN1RGSmtrVzZMUF9ubG1vdnNxXzBQdzJqWDROd010OUNyeWc2QjUxT3hYR0JoTGRRYUhfa05vY2NDd0YxM28yRFdHUEZiM3dCWWZOQW5DWGVrYVFGX2VYQU1mYjB3UjNCM1ZxRllUT1VIZENjOFBqLWpUZEFRSy1RWUJTc2pSeDhaVHEwX1M2SnFtRWpKVElPYTlKVGJaSVFmQl9fdVlQRDVRQXlPRU5PTUJ5M0RNTktoWW5Vck5JdHY2WVBVUktMbmxtUktfYnQ4SGl0NENXQjdmNEVkcnlvS2ExWVhPWXViMms?oc=5\" target=\"_blank\">美國加州男子因向中國走私超過3億美元受出口管制計算機服務器被捕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
-      "source_name": "RFI",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiyANBVV95cUxNc1JIZUhCY05rdFNyb0duaTZJN2FVSkxoMEZRWUZuZ3ctOUx4c0JuaHdOOFIxMlF1T0IzWmtCRU8wakN4VG5maWV1ZWk2SFk1elNOUWRQLWdNY0N1VDZBR0VsOXVQOFVIV21mdnh6NTdpWHFGYUU3V0g5SUd0VlR4VVJic0dhSmpON2dfRzk5NkZWQ1RLRVpKNU50QkVKQXpaemJjZzBOMjRyS0NZMmZzQjNHMTlKTnF5NEY2cllPTFZKa0dvSXVqeEhKSXMyLVhDQ1ZPVVVOSlN2TXhTNWI2TVVxRWFCN1RGSmtrVzZMUF9ubG1vdnNxXzBQdzJqWDROd010OUNyeWc2QjUxT3hYR0JoTGRRYUhfa05vY2NDd0YxM28yRFdHUEZiM3dCWWZOQW5DWGVrYVFGX2VYQU1mYjB3UjNCM1ZxRllUT1VIZENjOFBqLWpUZEFRSy1RWUJTc2pSeDhaVHEwX1M2SnFtRWpKVElPYTlKVGJaSVFmQl9fdVlQRDVRQXlPRU5PTUJ5M0RNTktoWW5Vck5JdHY2WVBVUktMbmxtUktfYnQ4SGl0NENXQjdmNEVkcnlvS2ExWVhPWXViMms?oc=5\" target=\"_blank\">美國加州男子因向中國走私超過3億美元受出口管制計算機服務器被捕</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rfi.fr</font>",
+      "source_name": "rfi.fr",
       "source_url": "https://www.rfi.fr"
     },
     {
@@ -5597,16 +5597,6 @@
       "guid": "CBMiT0FVX3lxTE1FVEhONjBPRDZUYUpRbldjd1Jtai14SG0wVGJYbVMtdUIxSlNzY0NyMU9yZFRwbmJGcHl2OF9VTkFDMGx1SmlxeG9Udm9kYVU",
       "pub_date": "Mon, 14 Sep 2026 07:00:00 GMT",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FVEhONjBPRDZUYUpRbldjd1Jtai14SG0wVGJYbVMtdUIxSlNzY0NyMU9yZFRwbmJGcHl2OF9VTkFDMGx1SmlxeG9Udm9kYVU?oc=5\" target=\"_blank\">美對60國實施301關稅 台灣獲「10％不疊加MFN」優惠待遇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">你的公共電視</font>",
-      "source_name": "你的公共電視",
-      "source_url": "https://news.pts.org.tw"
-    },
-    {
-      "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "川普關稅遭判違憲 全美2千家企業提告要求退款 - 你的公共電視",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvQ3dENmFCZFBHQm9GdTJMSE5mY2ZNOGJPNk04UzAtUWI4a3U3WV9DNkdsY3JLOEljd0xMSmkzWWNaVmlRWkZJZ0U1MWZjTlU?oc=5",
-      "guid": "CBMiT0FVX3lxTFBvQ3dENmFCZFBHQm9GdTJMSE5mY2ZNOGJPNk04UzAtUWI4a3U3WV9DNkdsY3JLOEljd0xMSmkzWWNaVmlRWkZJZ0U1MWZjTlU",
-      "pub_date": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvQ3dENmFCZFBHQm9GdTJMSE5mY2ZNOGJPNk04UzAtUWI4a3U3WV9DNkdsY3JLOEljd0xMSmkzWWNaVmlRWkZJZ0U1MWZjTlU?oc=5\" target=\"_blank\">川普關稅遭判違憲 全美2千家企業提告要求退款</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">你的公共電視</font>",
       "source_name": "你的公共電視",
       "source_url": "https://news.pts.org.tw"
     },
@@ -5672,6 +5662,16 @@
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
+      "title": "英媒稱英國擬對中國電動車課關稅 防補貼車傾銷市場 - 民視財經網",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SUWtEMl81VUlTNzNFQ1lwSDFTVXJVS3VtUG5ZYkpFM0Jvem94ZHE5SjBYeE43dS1EWHZ0OTc4OHNZdlNFUVlBOGNCWHZrWnNjd184M29FeG9jUE96VWlMX0lKSEtydw?oc=5",
+      "guid": "CBMiZkFVX3lxTE1SUWtEMl81VUlTNzNFQ1lwSDFTVXJVS3VtUG5ZYkpFM0Jvem94ZHE5SjBYeE43dS1EWHZ0OTc4OHNZdlNFUVlBOGNCWHZrWnNjd184M29FeG9jUE96VWlMX0lKSEtydw",
+      "pub_date": "Sun, 04 Oct 2026 23:42:45 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SUWtEMl81VUlTNzNFQ1lwSDFTVXJVS3VtUG5ZYkpFM0Jvem94ZHE5SjBYeE43dS1EWHZ0OTc4OHNZdlNFUVlBOGNCWHZrWnNjd184M29FeG9jUE96VWlMX0lKSEtydw?oc=5\" target=\"_blank\">英媒稱英國擬對中國電動車課關稅 防補貼車傾銷市場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">民視財經網</font>",
+      "source_name": "民視財經網",
+      "source_url": "https://finance.ftvnews.com.tw"
+    },
+    {
+      "query": "關稅 OR 出口管制 OR 晶片禁令",
       "title": "英國據報考慮向中國電動車徵45%關稅 - 香港經濟日報HKET",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQNjJraUtOOHhCQVQ1X2FORkIwQkVPaVRVQ18zOU1ZaGlxZDE4WDNHXzlLWHd3V0k2R0lDVDZzc1J1WXFJSW9McUJGMFo4ZmZ4RkFOUU9iMFBoSENsVFFxLUEzU01WZWRqRkROcnV4c0h4QzhWcUQweEJhOTVuajVZbW5KeGVhYjhkeXNrUmVCYTJEYzJxYnNSZkJWLWZvNjVRUVhEdFE4S2dFMFZ1S2V1QldNM1IxX3p0Wjd5REdadlVlTmJwUUtuZ2JZdDBVMV9kTXZLWGNlc3JUUW93R19kTXZzanVEbVlTTjNJVm5ydGJfRk5lZTJjSkQ3RG9zb3ZlU2JsdE5Sb1ZubjBoY3IzekNtVzJBdw?oc=5",
       "guid": "CBMilgJBVV95cUxQNjJraUtOOHhCQVQ1X2FORkIwQkVPaVRVQ18zOU1ZaGlxZDE4WDNHXzlLWHd3V0k2R0lDVDZzc1J1WXFJSW9McUJGMFo4ZmZ4RkFOUU9iMFBoSENsVFFxLUEzU01WZWRqRkROcnV4c0h4QzhWcUQweEJhOTVuajVZbW5KeGVhYjhkeXNrUmVCYTJEYzJxYnNSZkJWLWZvNjVRUVhEdFE4S2dFMFZ1S2V1QldNM1IxX3p0Wjd5REdadlVlTmJwUUtuZ2JZdDBVMV9kTXZLWGNlc3JUUW93R19kTXZzanVEbVlTTjNJVm5ydGJfRk5lZTJjSkQ3RG9zb3ZlU2JsdE5Sb1ZubjBoY3IzekNtVzJBdw",
@@ -5679,6 +5679,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMilgJBVV95cUxQNjJraUtOOHhCQVQ1X2FORkIwQkVPaVRVQ18zOU1ZaGlxZDE4WDNHXzlLWHd3V0k2R0lDVDZzc1J1WXFJSW9McUJGMFo4ZmZ4RkFOUU9iMFBoSENsVFFxLUEzU01WZWRqRkROcnV4c0h4QzhWcUQweEJhOTVuajVZbW5KeGVhYjhkeXNrUmVCYTJEYzJxYnNSZkJWLWZvNjVRUVhEdFE4S2dFMFZ1S2V1QldNM1IxX3p0Wjd5REdadlVlTmJwUUtuZ2JZdDBVMV9kTXZLWGNlc3JUUW93R19kTXZzanVEbVlTTjNJVm5ydGJfRk5lZTJjSkQ3RG9zb3ZlU2JsdE5Sb1ZubjBoY3IzekNtVzJBdw?oc=5\" target=\"_blank\">英國據報考慮向中國電動車徵45%關稅</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">香港經濟日報HKET</font>",
       "source_name": "香港經濟日報HKET",
       "source_url": "https://china.hket.com"
+    },
+    {
+      "query": "關稅 OR 出口管制 OR 晶片禁令",
+      "title": "美國關稅政策一再調整 傳產業者憂客戶下單轉觀望 - 你的公共電視",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WcG9OZWRXRExWYm44Q09OeTdaVlA0NUFnTHIxNFNVeEM5YXNxcklyMlM5Qm9hTS1fdDY1dm1tVmwyc3JaUWo5R2xIaDAtbWM?oc=5",
+      "guid": "CBMiT0FVX3lxTE1WcG9OZWRXRExWYm44Q09OeTdaVlA0NUFnTHIxNFNVeEM5YXNxcklyMlM5Qm9hTS1fdDY1dm1tVmwyc3JaUWo5R2xIaDAtbWM",
+      "pub_date": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WcG9OZWRXRExWYm44Q09OeTdaVlA0NUFnTHIxNFNVeEM5YXNxcklyMlM5Qm9hTS1fdDY1dm1tVmwyc3JaUWo5R2xIaDAtbWM?oc=5\" target=\"_blank\">美國關稅政策一再調整 傳產業者憂客戶下單轉觀望</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">你的公共電視</font>",
+      "source_name": "你的公共電視",
+      "source_url": "https://news.pts.org.tw"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5692,16 +5702,6 @@
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "晶片禁令恐再升級？ 美國下一步將盯上「東南亞轉運鏈」 查緝焦點曝光- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YcS10QUI4ck9fd0ZQTS10aUQ2SF9XZmltbjRHaHV0V0NmVHNsajJfT29BSjFaVjQ0d2JqOXpWNXJOUEYxZGFVZjJSZ09Fb1BpSmFPdzBDTG1NUHk4M2tN?oc=5",
-      "guid": "CBMiX0FVX3lxTE5YcS10QUI4ck9fd0ZQTS10aUQ2SF9XZmltbjRHaHV0V0NmVHNsajJfT29BSjFaVjQ0d2JqOXpWNXJOUEYxZGFVZjJSZ09Fb1BpSmFPdzBDTG1NUHk4M2tN",
-      "pub_date": "Tue, 29 Sep 2026 13:01:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YcS10QUI4ck9fd0ZQTS10aUQ2SF9XZmltbjRHaHV0V0NmVHNsajJfT29BSjFaVjQ0d2JqOXpWNXJOUEYxZGFVZjJSZ09Fb1BpSmFPdzBDTG1NUHk4M2tN?oc=5\" target=\"_blank\">晶片禁令恐再升級？ 美國下一步將盯上「東南亞轉運鏈」 查緝焦點曝光- 國際</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">工商時報</font>",
-      "source_name": "工商時報",
-      "source_url": "https://www.ctee.com.tw"
-    },
-    {
-      "query": "關稅 OR 出口管制 OR 晶片禁令",
       "title": "晶片禁令還不夠？美國下一步盤算曝光 要堵「這條亞洲管道」 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXV1JOMlJycm1HalpyUERIMTNxSF82ZTBTOV9LV1hsUkVwTV84VVV1WU9HY0t6dGl0REtSbmxoM2pkcWxfdy13LTFNdHp6U2NIdUdlQWh5bVkxdmRTYjl30gFkQVVfeXFMT3N1UVdJdXBZZ2N6M3Z6UW5OdUptYVNSdjB6UmQwMW1SNlQ3a0VLVUZkcU5MWlJRU2xrSG05SENNM2ZXVU1KcklUYjMwcU14SHhaSEhSSmxCd2RSelcwSVRPX251bA?oc=5",
       "guid": "CBMiX0FVX3lxTFBXV1JOMlJycm1HalpyUERIMTNxSF82ZTBTOV9LV1hsUkVwTV84VVV1WU9HY0t6dGl0REtSbmxoM2pkcWxfdy13LTFNdHp6U2NIdUdlQWh5bVkxdmRTYjl30gFkQVVfeXFMT3N1UVdJdXBZZ2N6M3Z6UW5OdUptYVNSdjB6UmQwMW1SNlQ3a0VLVUZkcU5MWlJRU2xrSG05SENNM2ZXVU1KcklUYjMwcU14SHhaSEhSSmxCd2RSelcwSVRPX251bA",
@@ -5712,6 +5712,16 @@
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
+      "title": "晶片禁令恐再升級？ 美國下一步將盯上「東南亞轉運鏈」 查緝焦點曝光- 國際 - ctee.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YcS10QUI4ck9fd0ZQTS10aUQ2SF9XZmltbjRHaHV0V0NmVHNsajJfT29BSjFaVjQ0d2JqOXpWNXJOUEYxZGFVZjJSZ09Fb1BpSmFPdzBDTG1NUHk4M2tN?oc=5",
+      "guid": "CBMiX0FVX3lxTE5YcS10QUI4ck9fd0ZQTS10aUQ2SF9XZmltbjRHaHV0V0NmVHNsajJfT29BSjFaVjQ0d2JqOXpWNXJOUEYxZGFVZjJSZ09Fb1BpSmFPdzBDTG1NUHk4M2tN",
+      "pub_date": "Tue, 29 Sep 2026 13:01:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YcS10QUI4ck9fd0ZQTS10aUQ2SF9XZmltbjRHaHV0V0NmVHNsajJfT29BSjFaVjQ0d2JqOXpWNXJOUEYxZGFVZjJSZ09Fb1BpSmFPdzBDTG1NUHk4M2tN?oc=5\" target=\"_blank\">晶片禁令恐再升級？ 美國下一步將盯上「東南亞轉運鏈」 查緝焦點曝光- 國際</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctee.com.tw</font>",
+      "source_name": "ctee.com.tw",
+      "source_url": "https://www.ctee.com.tw"
+    },
+    {
+      "query": "關稅 OR 出口管制 OR 晶片禁令",
       "title": "美改用貿易法課15％關稅 鄭麗君：台美MOU最惠國待遇不變 - 你的公共電視",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBacE5qbE1tVG82RTA3aWFsSDI2NGdHdnRhNEowZUJkRTdZOVpYYWFOelVmNjBGbm94QUQ1WFBuZWF0N0JMSGcyZGhNcUxSUFU?oc=5",
       "guid": "CBMiT0FVX3lxTFBacE5qbE1tVG82RTA3aWFsSDI2NGdHdnRhNEowZUJkRTdZOVpYYWFOelVmNjBGbm94QUQ1WFBuZWF0N0JMSGcyZGhNcUxSUFU",
@@ -5719,16 +5729,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBacE5qbE1tVG82RTA3aWFsSDI2NGdHdnRhNEowZUJkRTdZOVpYYWFOelVmNjBGbm94QUQ1WFBuZWF0N0JMSGcyZGhNcUxSUFU?oc=5\" target=\"_blank\">美改用貿易法課15％關稅 鄭麗君：台美MOU最惠國待遇不變</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">你的公共電視</font>",
       "source_name": "你的公共電視",
       "source_url": "https://news.pts.org.tw"
-    },
-    {
-      "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "英媒稱英國擬對中國電動車課關稅 防補貼車傾銷市場 - 民視新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jQzFyS0RLMU1wZUl6ak5EeVBpMDJPclVTTVFvWVFSWUVTb3RiZjdUdmJzekpRZExTcEpJUnd3QUdjYnZFWGpfbnBmTmFlOFJ0MjVpa0RBeFdQOGI2dzgtaw?oc=5",
-      "guid": "CBMiYEFVX3lxTE9jQzFyS0RLMU1wZUl6ak5EeVBpMDJPclVTTVFvWVFSWUVTb3RiZjdUdmJzekpRZExTcEpJUnd3QUdjYnZFWGpfbnBmTmFlOFJ0MjVpa0RBeFdQOGI2dzgtaw",
-      "pub_date": "Sun, 04 Oct 2026 23:42:45 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jQzFyS0RLMU1wZUl6ak5EeVBpMDJPclVTTVFvWVFSWUVTb3RiZjdUdmJzekpRZExTcEpJUnd3QUdjYnZFWGpfbnBmTmFlOFJ0MjVpa0RBeFdQOGI2dzgtaw?oc=5\" target=\"_blank\">英媒稱英國擬對中國電動車課關稅 防補貼車傾銷市場</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">民視新聞網</font>",
-      "source_name": "民視新聞網",
-      "source_url": "https://www.ftvnews.com.tw"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5752,16 +5752,6 @@
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "英媒：英擬向中國電動車徵關稅 英政府回應現階段沒有向中國電動車徵稅 (09:32) - 20261005 - 即時兩岸 - 明報新聞網",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGRhM0ZCalZJUUwwdmFmX3Z0VENuVlEyRHBUQjhSbGlUMVAzbmNGU2ZXZldDaHBtcjE4dlZFRTZ3cW94RmFLSE9nZU9qZUhpV2hBNUllcnhDZXozR24zVDVVOGhQUDk3VHJRTGdwZnJxZDJBVlhMdG00c3hodzBfdTVkbEphckJPY181OXRKNWhORDJCT3E3b2xJNA?oc=5",
-      "guid": "CBMimwFBVV95cUxQbGRhM0ZCalZJUUwwdmFmX3Z0VENuVlEyRHBUQjhSbGlUMVAzbmNGU2ZXZldDaHBtcjE4dlZFRTZ3cW94RmFLSE9nZU9qZUhpV2hBNUllcnhDZXozR24zVDVVOGhQUDk3VHJRTGdwZnJxZDJBVlhMdG00c3hodzBfdTVkbEphckJPY181OXRKNWhORDJCT3E3b2xJNA",
-      "pub_date": "Mon, 05 Oct 2026 01:32:55 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGRhM0ZCalZJUUwwdmFmX3Z0VENuVlEyRHBUQjhSbGlUMVAzbmNGU2ZXZldDaHBtcjE4dlZFRTZ3cW94RmFLSE9nZU9qZUhpV2hBNUllcnhDZXozR24zVDVVOGhQUDk3VHJRTGdwZnJxZDJBVlhMdG00c3hodzBfdTVkbEphckJPY181OXRKNWhORDJCT3E3b2xJNA?oc=5\" target=\"_blank\">英媒：英擬向中國電動車徵關稅 英政府回應現階段沒有向中國電動車徵稅 (09:32) - 20261005 - 即時兩岸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">明報新聞網</font>",
-      "source_name": "明報新聞網",
-      "source_url": "https://news.mingpao.com"
-    },
-    {
-      "query": "關稅 OR 出口管制 OR 晶片禁令",
       "title": "美中同意互降關稅，涉及商品價值600億美元- 紐約時報中文網 - 纽约时报中文网",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xV0ttNkNwLXVDRWNmdGZIX2dNTmVqTzV4Q2t0TmZwVHpjdnpvWTR0aTFOUVpBSkk4X3ZHSUJNemhPbUVJT2tPS2hMblhVVWs4R01FelJJb0NJSUc1V2ppbzlocUFRWUlTMUNfZXItWFlkbGVZSTVzb0VtTXRlZw?oc=5",
       "guid": "CBMifkFVX3lxTE5xV0ttNkNwLXVDRWNmdGZIX2dNTmVqTzV4Q2t0TmZwVHpjdnpvWTR0aTFOUVpBSkk4X3ZHSUJNemhPbUVJT2tPS2hMblhVVWs4R01FelJJb0NJSUc1V2ppbzlocUFRWUlTMUNfZXItWFlkbGVZSTVzb0VtTXRlZw",
@@ -5769,6 +5759,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5xV0ttNkNwLXVDRWNmdGZIX2dNTmVqTzV4Q2t0TmZwVHpjdnpvWTR0aTFOUVpBSkk4X3ZHSUJNemhPbUVJT2tPS2hMblhVVWs4R01FelJJb0NJSUc1V2ppbzlocUFRWUlTMUNfZXItWFlkbGVZSTVzb0VtTXRlZw?oc=5\" target=\"_blank\">美中同意互降關稅，涉及商品價值600億美元- 紐約時報中文網</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">纽约时报中文网</font>",
       "source_name": "纽约时报中文网",
       "source_url": "https://cn.nytimes.com"
+    },
+    {
+      "query": "關稅 OR 出口管制 OR 晶片禁令",
+      "title": "英媒：英擬向中國電動車徵關稅 英政府回應現階段沒有向中國電動車徵稅 (09:32) - 20261005 - 即時兩岸 - 明報新聞網",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGRhM0ZCalZJUUwwdmFmX3Z0VENuVlEyRHBUQjhSbGlUMVAzbmNGU2ZXZldDaHBtcjE4dlZFRTZ3cW94RmFLSE9nZU9qZUhpV2hBNUllcnhDZXozR24zVDVVOGhQUDk3VHJRTGdwZnJxZDJBVlhMdG00c3hodzBfdTVkbEphckJPY181OXRKNWhORDJCT3E3b2xJNA?oc=5",
+      "guid": "CBMimwFBVV95cUxQbGRhM0ZCalZJUUwwdmFmX3Z0VENuVlEyRHBUQjhSbGlUMVAzbmNGU2ZXZldDaHBtcjE4dlZFRTZ3cW94RmFLSE9nZU9qZUhpV2hBNUllcnhDZXozR24zVDVVOGhQUDk3VHJRTGdwZnJxZDJBVlhMdG00c3hodzBfdTVkbEphckJPY181OXRKNWhORDJCT3E3b2xJNA",
+      "pub_date": "Mon, 05 Oct 2026 01:32:55 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGRhM0ZCalZJUUwwdmFmX3Z0VENuVlEyRHBUQjhSbGlUMVAzbmNGU2ZXZldDaHBtcjE4dlZFRTZ3cW94RmFLSE9nZU9qZUhpV2hBNUllcnhDZXozR24zVDVVOGhQUDk3VHJRTGdwZnJxZDJBVlhMdG00c3hodzBfdTVkbEphckJPY181OXRKNWhORDJCT3E3b2xJNA?oc=5\" target=\"_blank\">英媒：英擬向中國電動車徵關稅 英政府回應現階段沒有向中國電動車徵稅 (09:32) - 20261005 - 即時兩岸</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">明報新聞網</font>",
+      "source_name": "明報新聞網",
+      "source_url": "https://news.mingpao.com"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5789,6 +5789,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWxjNk9KWDV4U3lQNVgwLVRKNGxKT3ZkLVd5QjJ0VVF1VWU2M1YweWZRSy1ZTk5HTGtocG8zOWtVbGNaeEFMNHhlN1BWRDRrLUFwUFJpSkpNSDltMm1rOE1lWnhaejFkVEZ0UnJ1YjV6RnBTU2hYZ2E5bkJnSGhUNFFlTGd3MG1BbjlLcWln?oc=5\" target=\"_blank\">英國面臨歐盟壓力 擬對中國電動車徵收關稅！-CMoney 研究員</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CMoney投資網誌</font>",
       "source_name": "CMoney投資網誌",
       "source_url": "https://cmnews.com.tw"
+    },
+    {
+      "query": "關稅 OR 出口管制 OR 晶片禁令",
+      "title": "歐盟拒川普15%新關稅 印度延後赴美談貿易協議 - 你的公共電視",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzX0FOS0JHSF9vS2lXUTBMcXdlOS01TDZxU3o3NVRHd2dVcjBuRHhRN21QVTlGVjkyRmVORTMwbUREbjZOMmRsdHNVaEZPRDQ?oc=5",
+      "guid": "CBMiT0FVX3lxTFAzX0FOS0JHSF9vS2lXUTBMcXdlOS01TDZxU3o3NVRHd2dVcjBuRHhRN21QVTlGVjkyRmVORTMwbUREbjZOMmRsdHNVaEZPRDQ",
+      "pub_date": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzX0FOS0JHSF9vS2lXUTBMcXdlOS01TDZxU3o3NVRHd2dVcjBuRHhRN21QVTlGVjkyRmVORTMwbUREbjZOMmRsdHNVaEZPRDQ?oc=5\" target=\"_blank\">歐盟拒川普15%新關稅 印度延後赴美談貿易協議</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">你的公共電視</font>",
+      "source_name": "你的公共電視",
+      "source_url": "https://news.pts.org.tw"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5862,6 +5872,16 @@
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
+      "title": "川普對等關稅失效 總統：確保台灣最佳待遇不打折 - 你的公共電視",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16aFJwZFlnUGlmN1hRcEQ4LXBZUkVDM0p4b1U5WTQzOGswb1dOWEdaRnlOeHhGaVhGS1VIUjhCaEQ5NXdTMmEzSEx1cVNpemM?oc=5",
+      "guid": "CBMiT0FVX3lxTE16aFJwZFlnUGlmN1hRcEQ4LXBZUkVDM0p4b1U5WTQzOGswb1dOWEdaRnlOeHhGaVhGS1VIUjhCaEQ5NXdTMmEzSEx1cVNpemM",
+      "pub_date": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE16aFJwZFlnUGlmN1hRcEQ4LXBZUkVDM0p4b1U5WTQzOGswb1dOWEdaRnlOeHhGaVhGS1VIUjhCaEQ5NXdTMmEzSEx1cVNpemM?oc=5\" target=\"_blank\">川普對等關稅失效 總統：確保台灣最佳待遇不打折</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">你的公共電視</font>",
+      "source_name": "你的公共電視",
+      "source_url": "https://news.pts.org.tw"
+    },
+    {
+      "query": "關稅 OR 出口管制 OR 晶片禁令",
       "title": "貝森特：美將延長對中關稅休兵，討論設 AI 對話機制 - TechNews 科技新報",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlpZX3RrSjJFVllmS3lfMUxobkZrZm5pRVVFOTFJRU9SenZhNlNCdjVNSU1UMV9sYklGeUFtWXFmeHdYdUtIMWVpQVpjbUtjc2hLUVZhNlo0d1RRUllFcVlUZEY4RTZwRHk2Y3VfVHlpaEw5U0xJeFR0LUlXcUdyWDVySzJZdTktc2FvNXVpTjBxVFdZaEs2YVE0X2lDZUE?oc=5",
       "guid": "CBMinwFBVV95cUxNdlpZX3RrSjJFVllmS3lfMUxobkZrZm5pRVVFOTFJRU9SenZhNlNCdjVNSU1UMV9sYklGeUFtWXFmeHdYdUtIMWVpQVpjbUtjc2hLUVZhNlo0d1RRUllFcVlUZEY4RTZwRHk2Y3VfVHlpaEw5U0xJeFR0LUlXcUdyWDVySzJZdTktc2FvNXVpTjBxVFdZaEs2YVE0X2lDZUE",
@@ -5899,6 +5919,16 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0l4S2hDeTIxMXBjbFRReDlZNVVHMEtHS2g0R2lWdGR6UmxVeFhTaGppN0ZxRFZLZVVaMnBTb3FxT2pwZHJEWTVOUXpzVi1iS1VOMDBMUXBZQ21TbDNLYmxSb2g2VmRkWjZDSzFzTE9zWFlQNHhCZFdOZlFUSVJ4QUxuREU1cTgy?oc=5\" target=\"_blank\">港股：英國擬效仿歐盟對進口中國電動車徵關稅，比亞迪等汽車股紛傳跌聲</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富聯網</font>",
       "source_name": "富聯網",
       "source_url": "https://ww2.money-link.com.tw"
+    },
+    {
+      "query": "關稅 OR 出口管制 OR 晶片禁令",
+      "title": "川普點名台灣重擊晶片業：該課200%關稅！ - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeDVqRC1fWGVZRE5tU0h6Vk9vV2JVRkdlWDRhQV9rdkkydHJ4RFZ2ZmRfY2RRblBZeG9kWEUzdElSQWNFTnBIUWlabnB6bjRRU0J1NWlXUExhLWhIbTlCY2h3OGhscVJQV2VHcHVqdldQbWYwY3JDTmxvMUpOOUU5WHFSbExVU2c5cmFpcFlVUVcwYU1jX0hXSG9UVTlsZ0tROUpDSlNONG92QndWbWNJYVVNRUd5SHhZUXpCckN0ZEQtZGxHdXR1VVRCbGFPTzZ5UVl5U1NRNTZxZEQxUGxIMVhjamt0bzM1OEZIV0REQnAxMlBLLWZuM3NrRDR3Mm96U1EzWFVqMEZGNG5KYmc?oc=5",
+      "guid": "CBMijgJBVV95cUxPeDVqRC1fWGVZRE5tU0h6Vk9vV2JVRkdlWDRhQV9rdkkydHJ4RFZ2ZmRfY2RRblBZeG9kWEUzdElSQWNFTnBIUWlabnB6bjRRU0J1NWlXUExhLWhIbTlCY2h3OGhscVJQV2VHcHVqdldQbWYwY3JDTmxvMUpOOUU5WHFSbExVU2c5cmFpcFlVUVcwYU1jX0hXSG9UVTlsZ0tROUpDSlNONG92QndWbWNJYVVNRUd5SHhZUXpCckN0ZEQtZGxHdXR1VVRCbGFPTzZ5UVl5U1NRNTZxZEQxUGxIMVhjamt0bzM1OEZIV0REQnAxMlBLLWZuM3NrRDR3Mm96U1EzWFVqMEZGNG5KYmc",
+      "pub_date": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPeDVqRC1fWGVZRE5tU0h6Vk9vV2JVRkdlWDRhQV9rdkkydHJ4RFZ2ZmRfY2RRblBZeG9kWEUzdElSQWNFTnBIUWlabnB6bjRRU0J1NWlXUExhLWhIbTlCY2h3OGhscVJQV2VHcHVqdldQbWYwY3JDTmxvMUpOOUU5WHFSbExVU2c5cmFpcFlVUVcwYU1jX0hXSG9UVTlsZ0tROUpDSlNONG92QndWbWNJYVVNRUd5SHhZUXpCckN0ZEQtZGxHdXR1VVRCbGFPTzZ5UVl5U1NRNTZxZEQxUGxIMVhjamt0bzM1OEZIV0REQnAxMlBLLWZuM3NrRDR3Mm96U1EzWFVqMEZGNG5KYmc?oc=5\" target=\"_blank\">川普點名台灣重擊晶片業：該課200%關稅！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
+      "source_name": "Yahoo新聞",
+      "source_url": "https://tw.news.yahoo.com"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -5949,16 +5979,6 @@
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fOWhKNC1ERFdCS0RCaE53NVJFczNDMnFDQ1MyNEExQ1pGejZVRTVIXzJyemhOSUdfVTA0OXlQYlE1LTBtWklreEZaS3JOTlNQ0gFWQVVfeXFMTjZIOFgwNnBUU3U2RjZ0SlBtMXNqV3pmSlJsVWY5YXZnUmozVFk2dVA2X3FxVmtRM0l2bEVwRTJ2V2tjM0JuMlJWZ25UemlISzZqdjI0bFE?oc=5\" target=\"_blank\">關稅檔不住！美貿易逆差 創16個月新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UDN</font>",
       "source_name": "UDN",
       "source_url": "https://udn.com"
-    },
-    {
-      "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "川普點名台灣重擊晶片業：該課200%關稅！ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeDVqRC1fWGVZRE5tU0h6Vk9vV2JVRkdlWDRhQV9rdkkydHJ4RFZ2ZmRfY2RRblBZeG9kWEUzdElSQWNFTnBIUWlabnB6bjRRU0J1NWlXUExhLWhIbTlCY2h3OGhscVJQV2VHcHVqdldQbWYwY3JDTmxvMUpOOUU5WHFSbExVU2c5cmFpcFlVUVcwYU1jX0hXSG9UVTlsZ0tROUpDSlNONG92QndWbWNJYVVNRUd5SHhZUXpCckN0ZEQtZGxHdXR1VVRCbGFPTzZ5UVl5U1NRNTZxZEQxUGxIMVhjamt0bzM1OEZIV0REQnAxMlBLLWZuM3NrRDR3Mm96U1EzWFVqMEZGNG5KYmc?oc=5",
-      "guid": "CBMijgJBVV95cUxPeDVqRC1fWGVZRE5tU0h6Vk9vV2JVRkdlWDRhQV9rdkkydHJ4RFZ2ZmRfY2RRblBZeG9kWEUzdElSQWNFTnBIUWlabnB6bjRRU0J1NWlXUExhLWhIbTlCY2h3OGhscVJQV2VHcHVqdldQbWYwY3JDTmxvMUpOOUU5WHFSbExVU2c5cmFpcFlVUVcwYU1jX0hXSG9UVTlsZ0tROUpDSlNONG92QndWbWNJYVVNRUd5SHhZUXpCckN0ZEQtZGxHdXR1VVRCbGFPTzZ5UVl5U1NRNTZxZEQxUGxIMVhjamt0bzM1OEZIV0REQnAxMlBLLWZuM3NrRDR3Mm96U1EzWFVqMEZGNG5KYmc",
-      "pub_date": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPeDVqRC1fWGVZRE5tU0h6Vk9vV2JVRkdlWDRhQV9rdkkydHJ4RFZ2ZmRfY2RRblBZeG9kWEUzdElSQWNFTnBIUWlabnB6bjRRU0J1NWlXUExhLWhIbTlCY2h3OGhscVJQV2VHcHVqdldQbWYwY3JDTmxvMUpOOUU5WHFSbExVU2c5cmFpcFlVUVcwYU1jX0hXSG9UVTlsZ0tROUpDSlNONG92QndWbWNJYVVNRUd5SHhZUXpCckN0ZEQtZGxHdXR1VVRCbGFPTzZ5UVl5U1NRNTZxZEQxUGxIMVhjamt0bzM1OEZIV0REQnAxMlBLLWZuM3NrRDR3Mm96U1EzWFVqMEZGNG5KYmc?oc=5\" target=\"_blank\">川普點名台灣重擊晶片業：該課200%關稅！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo新聞</font>",
-      "source_name": "Yahoo新聞",
-      "source_url": "https://tw.news.yahoo.com"
     },
     {
       "query": "關稅 OR 出口管制 OR 晶片禁令",
@@ -6027,26 +6047,6 @@
       "guid": "CBMiWkFVX3lxTFB2aUpySlhoYUl1Ym8tbFBKNnpmS2pYTTlJeFdzajhBUHRHdml3THUyNk00ck5ZQlVRcTRDejg5V1hVYko2bUw2aDAzMU5qOEdMN01iY0tFRXBoZ9IBX0FVX3lxTE9HOHRzSTdLM29lM2FDczFrSTlNMm1TNzV0cHBLVEpOOUg3WkNORnhtNUxjZ3F5RHNuMlVhdzRVTGMtSWpUN0RZRzhIbEp4QWpYODdMU2RqeVhDbUJDS1g0",
       "pub_date": "Fri, 11 Sep 2026 07:00:00 GMT",
       "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2aUpySlhoYUl1Ym8tbFBKNnpmS2pYTTlJeFdzajhBUHRHdml3THUyNk00ck5ZQlVRcTRDejg5V1hVYko2bUw2aDAzMU5qOEdMN01iY0tFRXBoZ9IBX0FVX3lxTE9HOHRzSTdLM29lM2FDczFrSTlNMm1TNzV0cHBLVEpOOUg3WkNORnhtNUxjZ3F5RHNuMlVhdzRVTGMtSWpUN0RZRzhIbEp4QWpYODdMU2RqeVhDbUJDS1g0?oc=5\" target=\"_blank\">原來川普將再課台灣半導體關稅是誤會一場？分析師如此解讀</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">經濟日報</font>",
-      "source_name": "經濟日報",
-      "source_url": "https://money.udn.com"
-    },
-    {
-      "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "特朗普再次施壓：“韓國若不投資阿拉斯加項目，關稅提高到兩倍” - 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnV2s5b19PUkJQN3lySHFTUG5KVFpMZXFsanIycWxTUlNvTFRoemlVU3JIUl9LbndhTkFzNkdKQnA3bjRldkdyNnlaUlF2VWtxZ2RCd0hxbExETzdjVEctSUx5TUgydw?oc=5",
-      "guid": "CBMiZkFVX3lxTFBnV2s5b19PUkJQN3lySHFTUG5KVFpMZXFsanIycWxTUlNvTFRoemlVU3JIUl9LbndhTkFzNkdKQnA3bjRldkdyNnlaUlF2VWtxZ2RCd0hxbExETzdjVEctSUx5TUgydw",
-      "pub_date": "Sun, 04 Oct 2026 23:53:09 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnV2s5b19PUkJQN3lySHFTUG5KVFpMZXFsanIycWxTUlNvTFRoemlVU3JIUl9LbndhTkFzNkdKQnA3bjRldkdyNnlaUlF2VWtxZ2RCd0hxbExETzdjVEctSUx5TUgydw?oc=5\" target=\"_blank\">特朗普再次施壓：“韓國若不投資阿拉斯加項目，關稅提高到兩倍”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">동아일보</font>",
-      "source_name": "동아일보",
-      "source_url": "https://www.donga.com"
-    },
-    {
-      "query": "關稅 OR 出口管制 OR 晶片禁令",
-      "title": "美商務部長：台灣將投資美國300億美元 評估開徵新半導體關稅 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50SWxxMC1tZ0dwSDNiLVg4ZXNFTFZ1VzRGcFJWVnZXaXJDS2NZMzg5Z0ZTX2ZCRlR1aGJUTDAzQ0ZGbEYzcTFaQnpSVklEWFBVT2gwdUY4TUJTd9IBX0FVX3lxTE5PaVBQekNhdEgxRTYxVm51alUxQk53QUZFNUVtbkhXYVVUbktMQzB1SDZfVjlZcEh1R0xtcWJsVXZ4QVRSOEJkdnlJcEdPak5mZ0NSUWlVbTlqcW1feE5F?oc=5",
-      "guid": "CBMiWkFVX3lxTE50SWxxMC1tZ0dwSDNiLVg4ZXNFTFZ1VzRGcFJWVnZXaXJDS2NZMzg5Z0ZTX2ZCRlR1aGJUTDAzQ0ZGbEYzcTFaQnpSVklEWFBVT2gwdUY4TUJTd9IBX0FVX3lxTE5PaVBQekNhdEgxRTYxVm51alUxQk53QUZFNUVtbkhXYVVUbktMQzB1SDZfVjlZcEh1R0xtcWJsVXZ4QVRSOEJkdnlJcEdPak5mZ0NSUWlVbTlqcW1feE5F",
-      "pub_date": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "description": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE50SWxxMC1tZ0dwSDNiLVg4ZXNFTFZ1VzRGcFJWVnZXaXJDS2NZMzg5Z0ZTX2ZCRlR1aGJUTDAzQ0ZGbEYzcTFaQnpSVklEWFBVT2gwdUY4TUJTd9IBX0FVX3lxTE5PaVBQekNhdEgxRTYxVm51alUxQk53QUZFNUVtbkhXYVVUbktMQzB1SDZfVjlZcEh1R0xtcWJsVXZ4QVRSOEJkdnlJcEdPak5mZ0NSUWlVbTlqcW1feE5F?oc=5\" target=\"_blank\">美商務部長：台灣將投資美國300億美元 評估開徵新半導體關稅</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">經濟日報</font>",
       "source_name": "經濟日報",
       "source_url": "https://money.udn.com"
     }
